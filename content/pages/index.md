@@ -8,7 +8,7 @@ sections:
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
     actions:
-      - label: Join GarBar Nation
+      - label: Join Us On Facebook
         url: /thank-you
         style: primary
         has_icon: true
