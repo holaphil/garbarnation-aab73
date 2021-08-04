@@ -106,7 +106,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        actions_align: left
+        actions_align: center
         actions_width: full-width
         image_alt: lorem-ipsum
         image_position: top
