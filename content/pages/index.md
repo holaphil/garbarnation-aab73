@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
-        style: link
+        style: secondary
     image: images/hero.png
     image_alt: Hero section placeholder image
     media_position: left
