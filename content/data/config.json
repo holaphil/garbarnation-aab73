@@ -34,7 +34,8 @@
                 "url": "/subscribe",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo": "/images/incredible-petunia.png"
     },
     "footer": {
         "logo": "images/logo.svg",
