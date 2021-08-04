@@ -29,10 +29,9 @@ sections:
     has_border: true
     video_embed_html: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/Gye5NrMxGDk&autoplay=1"title="YouTube
-      video player" frameborder="0" allow="accelerometer; autoplay;
-      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen></iframe>
+      src="https://www.youtube.com/embed/Gye5NrMxGDk" title="YouTube video
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
