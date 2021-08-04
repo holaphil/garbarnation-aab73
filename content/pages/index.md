@@ -25,7 +25,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 90
-    has_border: true
+    has_border: false
     video_embed_html: >-
       <div style="position:relative; overflow:hidden;
       padding-bottom:56.25%"><iframe
