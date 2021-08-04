@@ -27,10 +27,11 @@ sections:
     background_image_opacity: 90
     has_border: true
     video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/Gye5NrMxGDk?autoplay=1" frameborder="0"
-      allow="accelerometer;clipboard-write; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div style="position:relative; overflow:hidden;
+      padding-bottom:56.25%"><iframe
+      src="https://cdn.jwplayer.com/players/wiPGIpZl-EaWp5622.html" width="100%"
+      height="100%" frameborder="0" scrolling="auto" title="Loading Page R1b"
+      style="position:absolute;" allowfullscreen></iframe></div>
     background_image: /images/hero-background-test.png
   - type: blog_feed_section
     title: Latest Episodes
