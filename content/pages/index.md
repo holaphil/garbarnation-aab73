@@ -156,7 +156,7 @@ sections:
       ## Join The GarBar Nation
 
 
-      Join the Nation for insider access, discounts and other surprise. Lorem
+      Join the Nation for insider access, discounts, and other surprises. Lorem
       ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
       incididunt ut labore et dolore magna aliqua.
     content_align: left
