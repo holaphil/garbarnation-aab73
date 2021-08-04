@@ -118,7 +118,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: grid_section
-    title: Garbar Nation
+    title: In the News
     subtitle: You may have seen us on...
     align: center
     grid_items:
