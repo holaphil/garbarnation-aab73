@@ -47,6 +47,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    image: /images/advertising.png
   - section_id: lorem-ipsum
     title: lorem-ipsum
     subtitle: lorem-ipsum
