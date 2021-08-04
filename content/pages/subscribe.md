@@ -1,5 +1,5 @@
 ---
-title: Join Us
+title: Subscribe
 sections:
   - type: hero_section
     title: Subscribe
