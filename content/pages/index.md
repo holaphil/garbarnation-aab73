@@ -170,7 +170,7 @@ sections:
       - input_type: text
         name: name
         label: Name
-        default_value: Your name
+        default_value: Enter email address
         is_required: true
       - input_type: email
         name: email
