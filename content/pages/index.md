@@ -116,7 +116,6 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
-    subtitle: subscribe
   - type: grid_section
     title: GarBar Nation
     subtitle: In the News
