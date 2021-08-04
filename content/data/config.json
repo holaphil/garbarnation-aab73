@@ -92,6 +92,15 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/garbarnation/",
+                "style": "link",
+                "has_icon": true,
+                "icon": "instagram",
+                "icon_position": "center",
+                "new_window": true
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/GarbarNation",
                 "style": "link",
@@ -106,15 +115,6 @@
                 "style": "link",
                 "has_icon": true,
                 "icon": "facebook",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/garbarnation/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "instagram",
                 "icon_position": "center",
                 "new_window": true
             },
