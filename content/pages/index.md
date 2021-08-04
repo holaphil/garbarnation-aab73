@@ -152,11 +152,13 @@ sections:
     has_border: true
     background_color: none
   - type: form_section
-    content: >-
-      ## Ask A Question
+    content: >
+      ## Join The GarBar Nation
 
-      I'm OK with any kind of questions and will answer as many as I possibly
-      can.
+
+      Join the Nation for insider access, discounts and other surprise. Lorem
+      ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+      incididunt ut labore et dolore magna aliqua.
     content_align: left
     form_position: right
     form_width: fifty
