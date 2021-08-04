@@ -2,7 +2,7 @@
 title: Test 2
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Press
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
