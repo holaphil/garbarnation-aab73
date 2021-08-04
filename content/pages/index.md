@@ -20,7 +20,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: large
-    padding_bottom: large
+    padding_bottom: none
     background_color: secondary
     background_image_repeat: no-repeat
     background_image_size: cover
