@@ -118,5 +118,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-episode"
     },
-    "domain": "https://garbarnation-aab73.netlify.app"
+    "domain": "https://garbarnation-aab73.netlify.app",
+    "favicon": "/images/favicon.png"
 }
