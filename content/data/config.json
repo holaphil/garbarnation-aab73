@@ -33,7 +33,7 @@
                 "label": "Subscribe",
                 "url": "/subscribe",
                 "style": "primary",
-                "has_icon": true
+                "has_icon": false
             }
         ],
         "logo": "/images/incredible-petunia.png"
