@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Join Us On Facebook
         url: /thank-you
-        style: secondary
+        style: link
         has_icon: true
         icon: facebook
         icon_position: left
