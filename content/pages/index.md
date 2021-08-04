@@ -13,7 +13,7 @@ sections:
         style: primary
         has_icon: true
         icon: facebook
-        icon_position: right
+        icon_position: left
     image: images/hero.png
     image_alt: Hero section placeholder image
     media_position: left
