@@ -31,6 +31,7 @@ sections:
       src="https://www.youtube.com/embed/Gye5NrMxGDk?autoplay=1" frameborder="0"
       allow="accelerometer;clipboard-write; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
+    background_image: /images/hero-background-test.png
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
