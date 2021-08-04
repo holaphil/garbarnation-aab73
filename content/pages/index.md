@@ -118,7 +118,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: grid_section
-    title: Partners
+    title: Garbar Nation
     subtitle: In the News
     align: center
     grid_items:
