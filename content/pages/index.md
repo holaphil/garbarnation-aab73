@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    title: GarBar Nation
     subtitle: Redefining the most under-utilized space in our homes.
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
