@@ -2,8 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    content: |
-      Spotlighting garage bar renovations across the nation.
+    content: >
+      Spotlighting garage bar renovations across the nation. Move your car,
+      build a bar!
     actions:
       - label: Count me in!
         url: /subscribe
