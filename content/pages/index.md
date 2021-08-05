@@ -30,7 +30,6 @@ sections:
       height="100%" frameborder="0" scrolling="auto" title="Test"
       style="position:absolute;" allowfullscreen></iframe></div>
     background_image: /images/hero-background-test.png
-    title: Welcome
     background_image_position: left bottom
   - type: blog_feed_section
     title: Our Latest Episodes
