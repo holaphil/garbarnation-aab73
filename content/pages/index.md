@@ -21,7 +21,7 @@ sections:
     background_color: secondary
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 90
+    background_image_opacity: 60
     has_border: false
     video_embed_html: >-
       <div style="position:relative; overflow:hidden;
