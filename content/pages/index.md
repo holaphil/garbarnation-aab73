@@ -13,7 +13,7 @@ sections:
         icon: facebook
         icon_position: left
     image: /images/garbar-banner-02.png
-    image_alt: Hero section placeholder image
+    image_alt: John
     media_position: left
     media_width: fifty
     align: left
