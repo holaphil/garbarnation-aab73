@@ -75,7 +75,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: Subscribe
+          - label: Tune In
             url: /thank-you
             style: secondary
             has_icon: true
