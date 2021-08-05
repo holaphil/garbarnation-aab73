@@ -46,7 +46,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
-    subtitle: ' Watch and Listen to'
+    subtitle: Watch & Listen
   - type: grid_section
     title: GarTalk
     grid_items:
