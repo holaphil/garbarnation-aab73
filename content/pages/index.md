@@ -118,7 +118,7 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     title: GarBar Nation
-    subtitle: In the News
+    subtitle: The GarBar Buzz...
     align: center
     grid_items:
       - image: images/logo-1.svg
