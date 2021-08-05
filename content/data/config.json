@@ -79,7 +79,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "The GarBar Crew",
+                "label": "About",
                 "url": "/about",
                 "style": "link"
             },
