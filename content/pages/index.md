@@ -15,7 +15,7 @@ sections:
     image: /images/garbar-banner-02.png
     image_alt: 'John, Smitty, Joe, Phil'
     media_position: top
-    media_width: fourty
+    media_width: sixty
     align: left
     padding_top: small
     padding_bottom: medium
