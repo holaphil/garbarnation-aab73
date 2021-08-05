@@ -31,7 +31,7 @@ sections:
       style="position:absolute;" allowfullscreen></iframe></div>
     background_image: /images/hero-background-test.png
     title: Welcome
-    background_image_position: right bottom
+    background_image_position: right top
   - type: blog_feed_section
     title: Our Latest Episodes
     blog_feed_cols: three
