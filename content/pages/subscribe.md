@@ -3,7 +3,7 @@ title: Subscribe
 sections:
   - type: hero_section
     title: GarTalk
-    subtitle: Pick your favorite platform to follow
+    subtitle: Our new podcast spotlighting GarBar conversions across the nation.
     align: center
     padding_top: large
     padding_bottom: none
