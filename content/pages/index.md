@@ -3,9 +3,8 @@ title: Home
 sections:
   - type: hero_section
     subtitle: Redefining the most under-utilized space in our homes.
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: |
+      zzz
     actions:
       - label: Join Us On Facebook
         url: /thank-you
