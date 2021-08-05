@@ -88,7 +88,7 @@ sections:
     background_color: none
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 35
+    background_image_opacity: 20
     subtitle: Weekly interviews with GarBar owners across the Nation!
     background_image_position: left top
     background_image: /images/AdobeStock_340935160-vert.png
