@@ -34,7 +34,7 @@ sections:
       style="position:absolute;" allowfullscreen></iframe></div>
     background_image: /images/hero-background-test.png
   - type: blog_feed_section
-    title: Latest Episodes
+    title: Our Latest Episodes
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
