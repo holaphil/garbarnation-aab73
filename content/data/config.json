@@ -33,11 +33,6 @@
                 "type": "action"
             },
             {
-                "label": "Press",
-                "url": "/advertising",
-                "style": "link"
-            },
-            {
                 "label": "Contact",
                 "url": "/press",
                 "style": "link",
