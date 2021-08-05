@@ -32,7 +32,7 @@ sections:
       height="100%" frameborder="0" scrolling="auto" title="Test"
       style="position:absolute;" allowfullscreen></iframe></div>
     background_image: /images/hero-background-test.png
-    title: 'Move the car, build a bar! '
+    title: GARBAR NATION
   - type: blog_feed_section
     title: Our Latest Episodes
     blog_feed_cols: three
