@@ -51,7 +51,7 @@ sections:
     padding_top: small
     padding_bottom: large
     has_border: false
-    background_color: none
+    background_color: primary
 seo:
   title: Subscribe
   description: This is the subscribe page
