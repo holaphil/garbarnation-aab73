@@ -33,7 +33,7 @@
                 "type": "action"
             },
             {
-                "label": "Work With Us",
+                "label": "Contact Us",
                 "url": "/press",
                 "style": "link",
                 "has_icon": false,
