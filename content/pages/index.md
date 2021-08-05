@@ -117,7 +117,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
   - type: grid_section
-    title: GarBar Nation
+    title: The GarBar Buzz...
     subtitle: Everyone is talking about
     align: center
     grid_items:
