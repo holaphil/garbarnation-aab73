@@ -4,8 +4,6 @@ sections:
   - type: hero_section
     content: |
       Spotlighting garage bar renovations across the nation.
-
-      Move the car, build a #GarBar.
     actions:
       - label: Count me in!
         url: /subscribe
