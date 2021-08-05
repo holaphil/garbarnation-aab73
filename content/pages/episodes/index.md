@@ -3,7 +3,7 @@ title: Episodes
 sections:
   - type: hero_section
     title: Watch & Listen
-    subtitle: Watch and listen to GarBar stories across the nation
+    subtitle: GarBar builders and owners share their stories
     align: center
     padding_top: medium
     padding_bottom: small
