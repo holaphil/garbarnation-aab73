@@ -217,7 +217,7 @@
         "tertiary_nav_title": "Other Stuff"
     },
     "announcement": {
-        "has_anncmnt": true,
+        "has_anncmnt": false,
         "anncmnt_content": "Watch episode #4, The GarBar in Maplewood, NJ. Click here to view [**Learn More**](/pricing/)\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
