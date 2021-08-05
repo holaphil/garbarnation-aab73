@@ -8,7 +8,7 @@ sections:
       across the nation.
     actions:
       - label: Join Us On Facebook
-        url: /thank-you
+        url: /subscribe
         style: primary
         has_icon: true
         icon: facebook
