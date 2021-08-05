@@ -171,8 +171,7 @@
                 "no_follow": false,
                 "type": "action"
             }
-        ],
-        "tertiary_nav_title": "What is this"
+        ]
     },
     "announcement": {
         "has_anncmnt": true,
