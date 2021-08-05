@@ -7,7 +7,7 @@ date: '2020-07-15'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: images/post-1.jpg
-thumb_image_alt: Podcast 1 placeholder image
+thumb_image_alt: Brian Smitty Krumpkin
 image: /images/episode-1-smitty.png
 image_alt: Podcast 1 placeholder image
 image_position: left
