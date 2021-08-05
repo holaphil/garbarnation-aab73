@@ -3,9 +3,7 @@ title: Episodes
 sections:
   - type: hero_section
     title: Watch & Listen
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    subtitle: Watch and listen to GarBar stories across the nation
     align: center
     padding_top: medium
     padding_bottom: small
