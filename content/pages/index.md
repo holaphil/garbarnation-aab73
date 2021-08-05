@@ -127,7 +127,7 @@ sections:
       - image: /images/logo-sf-cronicle-vertical-225w.png
         image_alt: Netlify logo
         image_align: center
-      - image: /images/logo-sf-cronicle-vertical-225w.png
+      - image: /images/logo-fox5-horizontal-225w.png
         image_alt: Sticker Mule logo
         image_align: center
       - image: /images/logo-punch-horizontal-225w.png
