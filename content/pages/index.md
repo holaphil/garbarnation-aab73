@@ -124,7 +124,7 @@ sections:
     has_border: true
     background_color: none
     background_image: /images/AdobeStock_340935160-vert.png
-    background_image_opacity: 20
+    background_image_opacity: 45
     background_image_repeat: no-repeat
   - type: form_section
     content: >
