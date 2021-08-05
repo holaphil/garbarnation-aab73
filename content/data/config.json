@@ -152,7 +152,7 @@
         "tertiary_nav_links": [
             {
                 "label": "Terms & Conditions",
-                "url": "#",
+                "url": "/terms-conditions",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
