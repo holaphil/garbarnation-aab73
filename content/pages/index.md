@@ -13,7 +13,7 @@ sections:
     align: left
     padding_top: small
     padding_bottom: small
-    background_color: primary
+    background_color: none
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 60
