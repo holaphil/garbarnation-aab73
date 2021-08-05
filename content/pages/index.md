@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      Spotlighting garage bar renovations across the nation. Move your car,
-      build a bar!
+      Spotlighting garage bar (#GarBar) renovations across the nation. Move your
+      car, build a bar!
     actions:
       - label: Watch & Listen
         url: /subscribe
