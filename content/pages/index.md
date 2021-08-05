@@ -123,6 +123,7 @@ sections:
     grid_gap_vert: medium
     has_border: true
     background_color: none
+    background_image: /images/AdobeStock_340935160-vert.png
   - type: form_section
     content: >
       ## Join The GarBar Nation
