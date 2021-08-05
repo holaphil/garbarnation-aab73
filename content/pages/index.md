@@ -168,7 +168,7 @@ sections:
         name: name
         label: Name
         default_value: Enter your email address
-        is_required: false
+        is_required: true
       - input_type: email
         name: email
         label: Email
