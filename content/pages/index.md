@@ -6,7 +6,7 @@ sections:
       Spotlighting garage bar (#GarBar) renovations across the nation. Move your
       car, build a bar!
     actions: []
-    image: /images/garbar-banner-02.png
+    image: /images/garbar-banner-03.jpg
     image_alt: 'John, Smitty, Joe, Phil'
     media_position: top
     media_width: fifty
