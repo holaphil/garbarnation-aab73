@@ -74,11 +74,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "Press",
-                "url": "/advertising",
-                "style": "link"
             }
         ],
         "has_secondary_nav": true,
