@@ -127,6 +127,7 @@ sections:
     background_image: /images/AdobeStock_340935160-vert.png
     background_image_opacity: 50
     background_image_repeat: no-repeat
+    background_image_size: cover
   - type: form_section
     content: >
       ## Join The GarBar Nation
