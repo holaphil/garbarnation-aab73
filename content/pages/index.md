@@ -124,7 +124,7 @@ sections:
     grid_gap_vert: medium
     has_border: true
     background_color: none
-    background_image: /images/AdobeStock_340935160-vert2.png
+    background_image: /images/AdobeStock_340935160.png
     background_image_opacity: 50
     background_image_repeat: no-repeat
     background_image_size: cover
