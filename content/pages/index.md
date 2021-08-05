@@ -130,7 +130,7 @@ sections:
       - image: images/logo-3.svg
         image_alt: Sticker Mule logo
         image_align: center
-      - image: images/logo-4.svg
+      - image: /images/energetic-plankton.png
         image_alt: GitHub logo
         image_align: center
       - image: images/logo-5.svg
