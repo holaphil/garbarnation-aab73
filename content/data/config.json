@@ -22,13 +22,8 @@
                 "style": "link"
             },
             {
-                "label": "Press",
-                "url": "/advertising",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/press",
+                "label": "Podcast",
+                "url": "/subscribe",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -38,8 +33,13 @@
                 "type": "action"
             },
             {
-                "label": "Podcast",
-                "url": "/subscribe",
+                "label": "Press",
+                "url": "/advertising",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/press",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
