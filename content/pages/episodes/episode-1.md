@@ -8,7 +8,7 @@ categories:
   - content/data/categories/season-1.yaml
 thumb_image: images/post-1.jpg
 thumb_image_alt: Podcast 1 placeholder image
-image: images/post-1.jpg
+image: /images/episode-1-smitty.png
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-
