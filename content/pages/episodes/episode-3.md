@@ -3,7 +3,7 @@ title: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2021-09-13'
+date: '2021-09-20'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: images/post-3.jpg
