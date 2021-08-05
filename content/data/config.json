@@ -171,7 +171,8 @@
                 "no_follow": false,
                 "type": "action"
             }
-        ]
+        ],
+        "primary_nav_title": "Header"
     },
     "announcement": {
         "has_anncmnt": true,
