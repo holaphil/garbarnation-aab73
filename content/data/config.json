@@ -168,7 +168,7 @@
             },
             {
                 "label": "Privacy Policy",
-                "url": "#",
+                "url": "/privacy-policy",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
