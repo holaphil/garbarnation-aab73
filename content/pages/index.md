@@ -91,6 +91,7 @@ sections:
     background_image_opacity: 35
     subtitle: Weekly interviews with GarBar owners across the Nation!
     background_image_position: left top
+    background_image: /images/AdobeStock_340935160-vert.png
   - type: grid_section
     title: The GarBar Buzz...
     subtitle: Look Who's Talking
