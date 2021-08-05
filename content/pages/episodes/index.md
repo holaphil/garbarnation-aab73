@@ -3,7 +3,9 @@ title: Episodes
 sections:
   - type: hero_section
     title: Watch & Listen
-    subtitle: Copy
+    subtitle: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua.
     align: center
     padding_top: medium
     padding_bottom: small
