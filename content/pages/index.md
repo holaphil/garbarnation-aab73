@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     content: >
       It's time to redefine the most under-utilized space in our homes, the
-      garage! Join the GarBar guys as we spotlight garage bars i.e. "GarBars"
-      across the country
+      garage! Join us as we embark across the USA and spotlight the GarBar
+      Nation.
     actions:
       - label: Join Us On Facebook
         url: /thank-you
