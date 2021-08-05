@@ -33,7 +33,7 @@
                 "type": "action"
             },
             {
-                "label": "GarBar Blog",
+                "label": "Blog",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
