@@ -130,7 +130,7 @@ sections:
       - image: /images/logo-fox5-horizontal-175w.png
         image_alt: Sticker Mule logo
         image_align: center
-      - image: /images/logo-punch-horizontal-225w.png
+      - image: /images/logo-cbs-horizontal-225w.png
         image_alt: GitHub logo
         image_align: center
       - image: /images/logo-the-star-ledger-225w.png
