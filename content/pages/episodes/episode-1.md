@@ -3,7 +3,7 @@ title: Episode 1 - Smitty's Tavern
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
-date: '2020-07-15'
+date: '2020-08-15'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: /images/episode-1-smitty.png
