@@ -136,7 +136,7 @@ sections:
       - image: /images/logo-the-star-ledger-225w.png
         image_alt: Gatsby logo
         image_align: center
-      - image: images/logo-6.svg
+      - image: /images/logo-cbs-horizontal-225w.png
         image_alt: Twilio logo
         image_align: center
       - image_alt: Contentful logo
