@@ -89,11 +89,6 @@
                 "style": "link"
             },
             {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
-            },
-            {
                 "label": "Press Room",
                 "url": "#",
                 "style": "link",
