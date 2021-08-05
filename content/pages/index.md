@@ -3,9 +3,8 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      It's time to redefine the most under-utilized space in our homes, the
-      garage! Join us as we embark across the USA and spotlight the GarBars
-      across the nation.
+      Spotlighting garage bar renovations across the nation. Move the car, build
+      a #GarBar.
     actions:
       - label: Count me in!
         url: /subscribe
