@@ -25,7 +25,6 @@ sections:
     has_border: false
     background_image: /images/hero-background-test.png
     background_image_position: left bottom
-    subtitle: GarBar -
   - type: blog_feed_section
     title: Our Latest Episodes
     blog_feed_cols: three
