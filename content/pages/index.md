@@ -41,7 +41,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 25
     subtitle: Watch & Listen
-    background_image: /images/AdobeStock_340935160.png
+    background_image: /images/AdobeStock_340935160-vert.png
   - type: grid_section
     title: Tune into GarTalk
     grid_items:
