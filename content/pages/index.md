@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: GarBar Nation
-    subtitle: Optional hero section subtitle
+    subtitle: Redefining the most under-utilized space in our homes.
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
