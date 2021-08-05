@@ -15,7 +15,7 @@ sections:
     padding_bottom: small
     background_color: none
     background_image_repeat: no-repeat
-    background_image_size: cover
+    background_image_size: contain
     background_image_opacity: 70
     has_border: true
     background_image: /images/hero-background-test.png
