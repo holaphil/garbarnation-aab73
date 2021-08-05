@@ -99,7 +99,9 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
-    subtitle: Check out  new podcast spotlighting GarBar conversions across the nation.
+    subtitle: >-
+      Check out GarTalk new podcast spotlighting GarBar conversions across the
+      nation.
   - type: grid_section
     title: The GarBar Buzz...
     subtitle: Look Who's Talking
