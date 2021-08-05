@@ -12,7 +12,7 @@ image: images/post-1.jpg
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-
-  <iframe width="800" height="400"
+  <iframe width="800" height="440"
   src="https://www.youtube.com/embed/ya6hHPi1-pE" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
