@@ -94,7 +94,9 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
-    subtitle: Check out our NEW Podcast...
+    subtitle: >-
+      Listen to our NEW Podcast #GarTalk featuring weekly interviews with GarBar
+      owners across the Nation!
   - type: grid_section
     title: The GarBar Buzz...
     subtitle: Look Who's Talking
