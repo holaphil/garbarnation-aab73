@@ -3,7 +3,7 @@ title: Episodes
 sections:
   - type: hero_section
     title: Watch & Listen
-    subtitle: List of episodes in order
+    subtitle: Copy
     align: center
     padding_top: medium
     padding_bottom: small
