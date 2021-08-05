@@ -41,7 +41,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Join Us?",
+                "label": "Count me in",
                 "url": "/subscribe",
                 "style": "primary",
                 "has_icon": true
