@@ -96,7 +96,6 @@ sections:
     background_image_opacity: 10
     subtitle: >-
       Listen to our NEW Podcast #GarTalk 
-      <BR> 
       featuring weekly interviews with GarBar
       owners across the Nation!
   - type: grid_section
