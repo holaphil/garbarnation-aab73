@@ -3,7 +3,7 @@ title: Subscribe
 sections:
   - type: hero_section
     title: Tune In
-    subtitle: Pick your favorite podcast platform
+    subtitle: Pick your favorite platform to follow
     align: center
     padding_top: large
     padding_bottom: none
