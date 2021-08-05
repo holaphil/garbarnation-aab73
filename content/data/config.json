@@ -41,7 +41,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Tune In Here",
+                "label": "Tune in here",
                 "url": "/subscribe",
                 "style": "primary",
                 "has_icon": true
