@@ -4,35 +4,36 @@ seo:
   title: About
   description: This is the about page
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: About
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: This is the about page
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/about.png
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: About
-    - name: twitter:description
+    - name: 'twitter:description'
       value: This is the about page
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/about.png
       relativeUrl: true
 layout: page
 ---
 
-![Me doing live podcast](/images/about.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis commodo lacus at commodo dictum. Nam tempus erat nec magna blandit, vitae fringilla nisl mattis. Aenean laoreet, lectus sed pretium volutpat, dui ante consectetur leo, a volutpat diam est vel sapien. Nullam sodales tristique metus, nec semper elit finibus eu. Suspendisse ornare est sit amet massa aliquam tincidunt. Vivamus feugiat elit ullamcorper erat mollis placerat. Suspendisse lacus dolor, eleifend id lacinia eget, venenatis et ligula.
+![](/images/garbar-banner-02.png)
 
-Suspendisse in arcu aliquet, convallis dui quis, egestas lectus. Nullam scelerisque venenatis erat ut sollicitudin. Suspendisse tristique odio eu tristique pharetra. Praesent cursus maximus porta. Nunc bibendum ipsum eu velit tincidunt, quis malesuada felis sollicitudin. In tristique laoreet fringilla. Duis varius tincidunt pharetra.
+**GarBar Nation** is an American garage bar “GarBar’ innovation team headquartered in Maplewood, New Jersey. Working in partnership with Emmy Award winning producer and former SVP of Unscripted Original Programming at AMC, Mary Conlon, GarBar Nation is building a collection of original curated content spotlighting Garbars across the nation. 
 
-Curabitur eget orci in metus mattis maximus sit amet ut leo. Vestibulum a velit enim. Morbi semper lobortis nulla, non fermentum eros. Nulla luctus metus ac erat aliquet molestie. Nulla lectus sem, vehicula ut viverra at, fermentum sed enim. Curabitur magna nulla, efficitur a lorem a, rhoncus condimentum ex. Cras mi lacus, feugiat non mauris congue, rutrum iaculis metus. Nulla auctor pretium rhoncus. Donec sed nisl pretium, fermentum mi vel, faucibus augue. Vestibulum sed eros ultricies, dignissim erat quis, lobortis mauris. Sed porttitor varius felis, et auctor enim dictum in. Aenean rhoncus condimentum nunc ac mattis. Sed iaculis magna a mi sodales, ut ultricies mi malesuada.
+The group consists of GarBar creator and influencer **John Garbarino**, along with his fellow GarBar Guys and owners: **Brian **“**Smitty**”** Krupkin**, **Joey Melvin **and** Phil “DIY” DiGiulio**.** **These four influencers were made infamous by their incredible garage transformations as seen across various media outlets including the NY Post, CBS and NY1 to name a few. The NY Post’s five minute GarBar mini-documentary alone has exceeded over one million views on YouTube! This documentary, along with many other local and major media TV spots, have positioned Maplewood, NJ as an epicenter for the burgeoning Garbar scene. 
+
+**Launching later in Fall 2021**, GarBar Nation expands to begin shining a spotlight on GarBars across the USA. GarBar Nation will feature interviews, video tours, and various DIY content designed to help assist others while transforming their underutilized garages into something far more useful, a GarBar!
