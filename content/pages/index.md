@@ -124,7 +124,7 @@ sections:
       - image: /images/logo-ny-post-horizontal.png
         image_alt: Stackbit logo
         image_align: center
-      - image: images/logo-2.svg
+      - image: /images/logo-punch-horizontal.png
         image_alt: Netlify logo
         image_align: center
       - image: images/logo-3.svg
