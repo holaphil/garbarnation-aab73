@@ -3,7 +3,7 @@ title: Subscribe
 sections:
   - type: hero_section
     title: GarTalk
-    subtitle: Our new podcast spotlighting GarBar conversions across the nation.
+    subtitle: "Our new podcast spotlighting Gar\_→\_Bar conversions across the nation."
     align: center
     padding_top: large
     padding_bottom: none
