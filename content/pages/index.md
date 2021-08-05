@@ -7,7 +7,7 @@ sections:
       garage! Join us as we embark across the USA and spotlight the GarBars
       across the nation.
     actions:
-      - label: Join Us Here
+      - label: Show me
         url: /subscribe
         style: primary
         has_icon: false
