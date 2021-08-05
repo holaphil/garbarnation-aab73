@@ -2,7 +2,7 @@
 title: Subscribe
 sections:
   - type: hero_section
-    title: Tune In
+    title: GarTalk
     subtitle: Pick your favorite platform to follow
     align: center
     padding_top: large
