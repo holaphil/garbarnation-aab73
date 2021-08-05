@@ -52,6 +52,7 @@ sections:
     padding_bottom: large
     has_border: false
     background_color: none
+    background_image: /images/about.png
 seo:
   title: Subscribe
   description: This is the subscribe page
