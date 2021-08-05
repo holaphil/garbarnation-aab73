@@ -86,7 +86,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: secondary
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 35
     subtitle: Weekly interviews with GarBar owners across the Nation!
