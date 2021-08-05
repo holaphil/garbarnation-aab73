@@ -16,7 +16,7 @@ sections:
     background_color: none
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 60
+    background_image_opacity: 70
     has_border: true
     background_image: /images/hero-background-test.png
     background_image_position: left bottom
