@@ -3,7 +3,7 @@ title: Subscribe
 sections:
   - type: hero_section
     title: GarTalk Podcast is here!
-    subtitle: Our new podcast spotlighting GarBar conversions across the nation.
+    subtitle: Listen to GarBar conversions with builders across the nation.
     align: center
     padding_top: large
     padding_bottom: none
