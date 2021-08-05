@@ -8,7 +8,7 @@ sections:
     actions:
       - label: Watch & Listen
         url: /subscribe
-        style: secondary
+        style: link
         has_icon: false
         icon: facebook
         icon_position: left
