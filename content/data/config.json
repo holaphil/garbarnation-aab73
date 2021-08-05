@@ -173,8 +173,7 @@
             }
         ],
         "primary_nav_title": "GarBar Content",
-        "secondary_nav_title": "About Us",
-        "tertiary_nav_title": "Legal Stuff"
+        "secondary_nav_title": "About Us"
     },
     "announcement": {
         "has_anncmnt": true,
