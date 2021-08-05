@@ -214,7 +214,20 @@
         ],
         "primary_nav_title": "Watch & Learn",
         "secondary_nav_title": "GarBar Nation",
-        "tertiary_nav_title": "Other Stuff"
+        "tertiary_nav_title": "Other Stuff",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "announcement": {
         "has_anncmnt": false,
