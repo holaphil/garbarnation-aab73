@@ -32,6 +32,7 @@ sections:
       style="position:absolute;" allowfullscreen></iframe></div>
     background_image: /images/hero-background-test.png
     background_image_position: left bottom
+    title: Welcome to Garbar Nation!
   - type: blog_feed_section
     title: Our Latest Episodes
     blog_feed_cols: three
