@@ -164,16 +164,16 @@ sections:
     form_id: contact-form
     form_action: /thank-you
     form_fields:
-      - input_type: text
-        name: name
-        label: Name
-        default_value: Name
-        is_required: false
       - input_type: email
         name: email
         label: Email
         default_value: Enter your email address
         is_required: true
+      - input_type: text
+        name: name
+        label: Name
+        default_value: Name
+        is_required: false
       - input_type: textarea
         name: message
         label: Question
