@@ -27,7 +27,6 @@ sections:
     background_image: /images/hero-background-test.png
     background_image_position: left bottom
     title: GarBar Nation
-    subtitle: Test
   - type: blog_feed_section
     title: Our Latest Episodes
     blog_feed_cols: three
