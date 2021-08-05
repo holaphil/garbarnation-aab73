@@ -172,7 +172,7 @@ sections:
     background_image: /images/AdobeStock_340935160-2.png
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 50
+    background_image_opacity: 30
 seo:
   title: Stackbit Podcaster Theme
   description: The preview of the Podcaster theme
