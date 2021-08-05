@@ -53,7 +53,7 @@ sections:
     background_image_opacity: 98
     subtitle: ' Watch and Listen to'
   - type: grid_section
-    title: Subscribe
+    title: GarTalk
     grid_items:
       - title: Apple Podcasts
         title_align: center
