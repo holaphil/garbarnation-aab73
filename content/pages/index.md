@@ -118,7 +118,7 @@ sections:
     background_image_opacity: 10
   - type: grid_section
     title: The GarBar Buzz...
-    subtitle: Everyone is talking about
+    subtitle: Look Who's Talking
     align: center
     grid_items:
       - image: images/logo-1.svg
