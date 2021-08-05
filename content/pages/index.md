@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     content: |
-      zzz
+      Redefining the most under-utilized space in our homes.
     actions:
       - label: Join Us On Facebook
         url: /thank-you
