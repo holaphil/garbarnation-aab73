@@ -172,7 +172,8 @@
                 "type": "action"
             }
         ],
-        "primary_nav_title": "GarBar"
+        "primary_nav_title": "GarBar",
+        "secondary_nav_title": "NAtion"
     },
     "announcement": {
         "has_anncmnt": true,
