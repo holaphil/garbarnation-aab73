@@ -79,7 +79,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "About",
+                "label": "The GarBar Guys",
                 "url": "/about",
                 "style": "link"
             },
