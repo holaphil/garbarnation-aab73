@@ -52,6 +52,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
+    subtitle: ' Watch and Listen to Our Latest Episodes'
   - type: grid_section
     title: Subscribe
     grid_items:
