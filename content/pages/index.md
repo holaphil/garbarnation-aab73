@@ -37,7 +37,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: none
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
     background_image_size: auto
     background_image_opacity: 98
     subtitle: Watch & Listen
