@@ -61,7 +61,7 @@
         "has_primary_nav": true,
         "primary_nav_links": [
             {
-                "label": "GarBar Episodes",
+                "label": "GarBar Tours",
                 "url": "/episodes",
                 "style": "link"
             },
