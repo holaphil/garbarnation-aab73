@@ -2,7 +2,7 @@
     "title": "GarBar Nation",
     "path_prefix": "/",
     "layout_type": "boxed",
-    "style": "minimal",
+    "style": "classic",
     "palette": "gray",
     "mode": "dark",
     "base_font": "sans-serif",
