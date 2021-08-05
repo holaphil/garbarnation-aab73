@@ -1,5 +1,5 @@
 ---
-title: About
+title: GarBar Nation
 seo:
   title: About
   description: This is the about page
