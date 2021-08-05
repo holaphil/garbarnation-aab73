@@ -2,7 +2,6 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle: Redefining the most under-utilized space in our homes.
     content: |
       zzz
     actions:
