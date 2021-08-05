@@ -38,7 +38,7 @@ sections:
     has_border: true
     background_color: none
     background_image_repeat: no-repeat
-    background_image_size: contain
+    background_image_size: cover
     background_image_opacity: 98
     subtitle: Watch & Listen
     background_image: /images/AdobeStock_340935160.png
