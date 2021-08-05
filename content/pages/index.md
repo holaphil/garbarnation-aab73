@@ -133,7 +133,7 @@ sections:
       - image: /images/logo-punch-horizontal-225w.png
         image_alt: GitHub logo
         image_align: center
-      - image: images/logo-5.svg
+      - image: /images/logo-the-star-ledger-225w.png
         image_alt: Gatsby logo
         image_align: center
       - image: images/logo-6.svg
