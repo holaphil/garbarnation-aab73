@@ -54,7 +54,7 @@ sections:
     subtitle: ' Watch and Listen to'
   - type: grid_section
     title: >-
-      GarTalk: Our new podcast spotlighting GarBar conversions across the
+      GarTalk, our new podcast spotlighting GarBar conversions across the
       nation.
     grid_items:
       - title: Apple Podcasts
