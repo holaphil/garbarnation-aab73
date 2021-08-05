@@ -174,7 +174,8 @@
             }
         ],
         "primary_nav_title": "Watch & Learn",
-        "secondary_nav_title": "GarBar Nation"
+        "secondary_nav_title": "GarBar Nation",
+        "tertiary_nav_title": "Legal Stuff"
     },
     "announcement": {
         "has_anncmnt": true,
