@@ -3,8 +3,8 @@ title: Home
 sections:
   - type: hero_section
     content: >
-      **Welcome to Garbar Nation!** Join us as we embark to redefining the most
-      under-utilized space in our homes, the garage!
+      **Welcome to Garbar Nation!** Join the GarBar guys as as we embark to
+      redefining the most under-utilized space in our homes, the garage!
     actions:
       - label: Join Us On Facebook
         url: /thank-you
