@@ -10,7 +10,7 @@ sections:
       - label: Join Us
         url: /subscribe
         style: primary
-        has_icon: true
+        has_icon: false
         icon: facebook
         icon_position: left
     image: images/hero.png
