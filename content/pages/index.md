@@ -6,7 +6,7 @@ sections:
       Spotlighting garage bar renovations across the nation. Move your car,
       build a bar!
     actions:
-      - label: Count me in!
+      - label: Watch & Listen
         url: /subscribe
         style: primary
         has_icon: false
