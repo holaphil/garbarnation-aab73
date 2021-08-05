@@ -39,7 +39,7 @@ sections:
     background_color: none
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 25
+    background_image_opacity: 55
     subtitle: Watch & Listen
     background_image: /images/AdobeStock_340935160-vert.png
   - type: grid_section
