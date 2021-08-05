@@ -33,8 +33,8 @@
                 "type": "action"
             },
             {
-                "label": "Work With Us",
-                "url": "/press",
+                "label": "GarBar Blog",
+                "url": "#",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -44,8 +44,8 @@
                 "type": "action"
             },
             {
-                "label": "GarBar Blog",
-                "url": "#",
+                "label": "Work With Us",
+                "url": "/press",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
