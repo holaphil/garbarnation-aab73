@@ -121,7 +121,7 @@ sections:
     subtitle: Look Who's Talking
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/logo-ny-post-horizontal.png
         image_alt: Stackbit logo
         image_align: center
       - image: images/logo-2.svg
