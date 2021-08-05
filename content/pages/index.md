@@ -11,7 +11,7 @@ sections:
         has_icon: false
         icon: facebook
         icon_position: left
-    image: images/hero.png
+    image: /images/garbar-banner-02.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
