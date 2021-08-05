@@ -124,6 +124,7 @@ sections:
     has_border: true
     background_color: none
     background_image: /images/AdobeStock_340935160-vert.png
+    background_image_opacity: 20
   - type: form_section
     content: >
       ## Join The GarBar Nation
