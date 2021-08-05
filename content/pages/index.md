@@ -24,7 +24,8 @@ sections:
     background_image_opacity: 60
     has_border: false
     video_embed_html: >-
-      <div style="position:relative; overflow:hidden; padding-bottom:"><iframe
+      <div style="position:relative; overflow:hidden;
+      padding-bottom:56.25%"><iframe
       src="https://cdn.jwplayer.com/players/9RERmwej-EaWp5622.html" width="100%"
       height="100%" frameborder="0" scrolling="auto" title="Test"
       style="position:absolute;" allowfullscreen></iframe></div>
