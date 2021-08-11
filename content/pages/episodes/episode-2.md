@@ -10,7 +10,7 @@ categories:
 thumb_image: /images/garbar-sloppy-joes-1.jpg
 thumb_image_alt: 'Joe Melvin in Maplewood, NJ'
 image: /images/garbar-sloppy-joes-1.jpg
-image_alt: Podcast 2 placeholder image
+image_alt: 'Joe Melvin in Maplewood, NJ'
 image_position: right
 episode_embed_html: >-
   <iframe width="100%" height="166" scrolling="no" frameborder="no"
