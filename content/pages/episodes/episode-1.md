@@ -41,6 +41,10 @@ layout: post
 tags:
   - content/data/tags/tag-pf4xrx6r0.json
 excerpt: 'Meet Brian Smitty Krumpkin of Smitty''s Tavern located in Maplewood, NJ.'
+episode_embed_html: >-
+  <iframe width="100%" height="166" scrolling="no" frameborder="no"
+  allow="autoplay"
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ea mala virtuti magnitudine obruebantur. Duo Reges: constructio interrete. An hoc usque quaque, aliter in vita? Gracchum patrem non beatiorem fuisse quam fillum, cum alter stabilire rem publicam studuerit, alter evertere. Quo plebiscito decreta a senatu est consuli quaestio Cn. Illud non continuo, ut aeque incontentae. 
 
