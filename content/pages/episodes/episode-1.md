@@ -6,6 +6,7 @@ subtitle: >-
 date: '2021-09-06'
 categories:
   - content/data/categories/season-1.yaml
+  - content/data/categories/category-exqrka1zy.json
 thumb_image: /images/garbar-smittys-tavern.jpg
 thumb_image_alt: Brian Smitty Krumpkin of Smitty's Tavern
 image: /images/episode-1-smitty.png
