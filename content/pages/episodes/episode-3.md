@@ -21,8 +21,9 @@ episode_embed_html: >-
 seo:
   title: Maplewood GarBar owner Mike Hastings video tour of Le Bar
   description: >-
-    GarBar Nation sits down with "Le Bar" owner Mike Hastings in Maplewood,  New
-    Jersey. Le Bar's sports bar vibe is a great example of a GarBar in progress.
+    GarBar Nation sits down with "Le Bar" owner Mike Hastings located in
+    Maplewood, NJ. Le Bar's sports bar vibe is a great example of a GarBar in
+    progress.
   extra:
     - name: 'og:type'
       value: article
