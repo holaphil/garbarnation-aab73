@@ -7,7 +7,7 @@ date: '2021-09-05'
 categories:
   - content/data/categories/season-1.yaml
   - content/data/categories/category-exqrka1zy.json
-thumb_image: /images/garbar-sloppy-joes-1.jpg
+thumb_image: /images/garbar-sloppy-joes-2.jpg
 thumb_image_alt: 'GarBar owner Joe Melvin in Maplewood, NJ'
 image: /images/garbar-sloppy-joes-1.jpg
 image_alt: 'GarBar owner Joe Melvin in Maplewood, NJ'
