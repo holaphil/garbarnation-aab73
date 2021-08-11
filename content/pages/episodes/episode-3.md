@@ -21,8 +21,8 @@ episode_embed_html: >-
 seo:
   title: 'GarBar Le Bar in Maplewood, NJ'
   description: >-
-    Great memorabilia with a sports bar vibe, Mike Hastings Le Bar in Maplewood
-    New Jersey is a great example of a GarBar in progress.
+    Adorned with memorabilia evoking a sports bar vibe, Mike Hastings "Le Bar"
+    in Maplewood New Jersey is a great example of a GarBar in progress.
   extra:
     - name: 'og:type'
       value: article
