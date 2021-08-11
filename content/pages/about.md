@@ -11,7 +11,9 @@ seo:
       value: About GarBar Nation
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: >-
+        GarBar Nation is an American garage bar “GarBar’ innovation team
+        spotlighting 
       keyName: property
     - name: 'og:image'
       value: images/about.png
