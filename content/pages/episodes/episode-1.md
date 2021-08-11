@@ -13,7 +13,7 @@ image: /images/garbar-smittys-tavern-3.jpg
 image_alt: 'GarBar owner Brian Smitty Krumpkin in Maplewood, NJ'
 image_position: right
 seo:
-  title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+  title: GarBar owner Brian Krumpkin video tour of Smitty's Tavern
   description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
   extra:
     - name: 'og:type'
