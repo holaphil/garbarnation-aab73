@@ -8,7 +8,7 @@ categories:
   - content/data/categories/season-1.yaml
   - content/data/categories/category-exqrka1zy.json
 thumb_image: /images/garbar-smittys-tavern-1.jpg
-thumb_image_alt: Brian Smitty Krumpkin of Smitty's Tavern
+thumb_image_alt: 'GarBar owner Brian Smitty Krumpkin in Maplewood, NJ'
 image: /images/garbar-smittys-tavern-3.jpg
 image_alt: 'GarBar owner Brian Smitty Krumpkin in Maplewood, NJ'
 image_position: right
