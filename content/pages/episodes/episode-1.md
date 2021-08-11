@@ -10,7 +10,7 @@ thumb_image: /images/garbar-smittys-tavern.jpg
 thumb_image_alt: Brian Smitty Krumpkin of Smitty's Tavern
 image: /images/episode-1-smitty.png
 image_alt: Podcast 1 placeholder image
-image_position: left
+image_position: right
 seo:
   title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
   description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
