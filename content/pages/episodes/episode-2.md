@@ -13,7 +13,7 @@ image: /images/garbar-sloppy-joes-1.jpg
 image_alt: 'Joe Melvin in Maplewood, NJ'
 image_position: right
 episode_embed_html: >-
-  <iframe width="560" height="315"
+  <div class="video-container"><iframe width="560" height="315"
   src="https://www.youtube.com/embed/whirjsMy5Cg" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture"
