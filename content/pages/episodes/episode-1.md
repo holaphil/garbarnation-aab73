@@ -43,7 +43,7 @@ tags:
 excerpt: 'Meet Brian Smitty Krumpkin of Smitty''s Tavern located in Maplewood, NJ.'
 episode_embed_html: >-
   <div class="video-container"><iframe width="560" height="315"
-  src="https://www.youtube.com/embed/whirjsMy5Cg?rel=0" title="YouTube video
+  src="https://www.youtube.com/embed/Ve2-lWHODJI?rel=0" title="YouTube video
   player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe></div>
