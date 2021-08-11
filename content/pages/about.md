@@ -17,7 +17,7 @@ seo:
         the country.
       keyName: property
     - name: 'og:image'
-      value: images/about.png
+      value: /images/garbar-nation-panel-four.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
