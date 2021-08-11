@@ -25,7 +25,10 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: >-
+        GarBar Nation is an American garage bar “GarBar’ innovation team
+        spotlighting garage to bar (#GarBar) conversions and renovations across
+        the country.
     - name: 'twitter:image'
       value: /images/garbar-nation-panel-four.jpg
       relativeUrl: true
