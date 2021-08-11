@@ -8,7 +8,7 @@ categories:
   - content/data/categories/season-1.yaml
 thumb_image: /images/garbar-lebar-2.jpg
 thumb_image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
-image: images/post-3.jpg
+image: /images/garbar-lebar-1.jpg
 image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
 image_position: left
 episode_embed_html: >-
