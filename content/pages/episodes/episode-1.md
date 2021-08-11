@@ -46,7 +46,7 @@ episode_embed_html: >-
   allow="autoplay"
   src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 ---
-Smitty's Tavern is a great example of working with what you might not know you already have. After cleaning out the junk and a little power washing, the beauty of the original walls is what really makes this garage bar (GarBar) stand out. It's authentic, rustic, with a a kind of ski chalet vibe...  the perfect location for a beer or two.
+Smitty's Tavern is a great example of working with what you might not know you already have. After cleaning out the junk and a little power washing, the beauty of the original walls is what really makes this garage bar (GarBar) stand out. It's authentic, rustic, with a kind of ski chalet vibe...  the perfect location for a beer or two.
 
 ## Sed Ille, UT Dixi, Vitiose
 
