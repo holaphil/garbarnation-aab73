@@ -36,7 +36,7 @@ seo:
         Maplewood, NJ, this GarBar is the perfect  garage dive bar.
       keyName: property
     - name: 'og:image'
-      value: images/post-2.jpg
+      value: /images/garbar-sloppy-joes-2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
