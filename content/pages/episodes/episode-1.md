@@ -14,7 +14,10 @@ image_alt: 'GarBar owner Brian Smitty Krumpkin in Maplewood, NJ'
 image_position: right
 seo:
   title: GarBar owner Brian Krumpkin video tour of Smitty's Tavern
-  description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+  description: >-
+    GarBar Nation sits down with "Smitty's Tavern" owner Brian S. Krumpkin.
+    Located in Maplewood, NJ, This GarBar is authentic and rustic, with a ski
+    chalet vibe.
   extra:
     - name: 'og:type'
       value: article
