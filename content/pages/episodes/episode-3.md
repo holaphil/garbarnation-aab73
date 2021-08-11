@@ -28,7 +28,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Maplewood GarBar owner Brian Krumpkin of Smitty's Tavern
+      value: Maplewood GarBar owner Mike Hastings of Le Bar
       keyName: property
     - name: 'og:description'
       value: >-
