@@ -25,7 +25,7 @@ sections:
     background_image: /images/AdobeStock_340935160.png
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 98
+    background_image_opacity: 90
   - type: form_section
     title: Get GarTalk straight in your Inbox
     title_align: center
