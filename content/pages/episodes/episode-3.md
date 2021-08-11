@@ -32,7 +32,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Great memorabilia with a sports bar vibe, Mike Hastings Le Bar in
+        Great memorabilia with a sports bar vibe, Mike Hastings "Le Bar" in
         Maplewood New Jersey is a great example of a GarBar in progress.
       keyName: property
     - name: 'og:image'
