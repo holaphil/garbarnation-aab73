@@ -28,7 +28,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Le Bar, a GarBar located in Maplewood, NJ'
+      value: 'GarBar Nation meets Maplewood Le Bar owner, Mike Hastings'
       keyName: property
     - name: 'og:description'
       value: >-
