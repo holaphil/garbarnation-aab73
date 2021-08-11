@@ -19,7 +19,7 @@ episode_embed_html: >-
   encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe></div>
 seo:
-  title: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+  title: Maplewood GarBar owner Joe Melvin video tour of Sloppy Joe's
   description: >-
     GarBar Nation sits down with "Sloppy Joe's" owner Joe Melvin located in
     Maplewood, NJ. Adorned w/ fake brick walls, this GarBar is the perfect 
