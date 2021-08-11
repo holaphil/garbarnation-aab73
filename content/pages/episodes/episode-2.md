@@ -45,7 +45,7 @@ layout: post
 ---
 Sloppy Joe's is the ultimate garage dive bar (GarBar). Neon lights adorn the (fake) brick walls, with polaroids and beer mats creating the feel of your favorite old local. Bar games compete for space with old Star Wars toys and other junk that wasn't deemed nice enough for the house. And the bartender is pretty cute!
 
-## Q\&A with GarBar owner, Joe Melvin
+## Q\&A with Joe Melvin
 
 **What / Who inspired you?**
 Mulligan's and DC's bars in Hoboken. After moving to Maplewood I wanted my own dive bar I could share with friends and family. 
