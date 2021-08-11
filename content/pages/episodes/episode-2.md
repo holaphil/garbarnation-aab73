@@ -45,7 +45,7 @@ layout: post
 ---
 Sloppy Joe's is the ultimate garage dive bar (GarBar). Neon lights adorn the (fake) brick walls, with polaroids and beer mats creating the feel of your favorite old local. Bar games compete for space with old Star Wars toys and other junk that wasn't deemed nice enough for the house. And the bartender is pretty cute!
 
-## Q\&A with Joe Melvin
+## Q\&A with GarBar owner, Joe Melvin
 
 **What / Who inspired you?**
 Mulligan's and DC's bars in Hoboken. After moving to Maplewood I wanted my own dive bar I could share with friends and family. 
@@ -53,29 +53,29 @@ Mulligan's and DC's bars in Hoboken. After moving to Maplewood I wanted my own d
 **How long did it take to build your GarBar?**
 It's still a work in progress, but the original build only took 2 weekends. 
 
-What was the reason for building your garage bar?
+**What was the reason for building your garage bar?**
 I just wanted somewhere to hang out that felt different than being in the house. It's only 30 feet away, but it's nice to be able to step away from the chaos that occurs in the house. 
 
-What’s your design aesthetic?
+**What’s your design aesthetic?**
 I don't really have one. I just put in things I like. 
 
-What materials did you use?
+**What materials did you use?**
 Just things from the hardware store or things that weren't being used elsewhere in the house. 
 
-Where did you store all the junk from the garage?
+**Where did you store all the junk from the garage?**
 On the other side of the garage!
 
-What do you use your Garage Bar for?
-Add response here
+**What do you use your Garage Bar for?**
+Bar things
 
-What did it cost you?
+**What did it cost you?**
 I only have about $750 bucks in it. The most expensive thing was the fridge. A lot of the stuff is recycled from other locations or donated. 
 
-What was most challenging?
+**What was most challenging?**
 The heating/cooling. It's too hot in the summer and too cold in the winter. It's basic electrics, no insulation and exposed to rain and snow. But if it was too comfortable out there I'd never come back in!
 
-How has it changed your life?
+**How has it changed your life?**
 I'm able to socialize as much as I want. People love to come over, we're not all stuck inside and you really do feel like you're in a bar. 
 
-What’s your specialty drink?
+**What’s your specialty drink?**
 I'm not much of a cocktail maker. I can pour whiskey over ice and open both cans and bottles for you. I don't have running water at Sloppys, so the less glasses to wash up, the better.
