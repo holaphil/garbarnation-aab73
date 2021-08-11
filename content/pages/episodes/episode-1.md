@@ -12,7 +12,7 @@ image: /images/episode-1-smitty.png
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-
-  <iframe width="100" height="562"
+  <iframe width="1000" height="562"
   src="https://www.youtube.com/embed/Ve2-lWHODJI" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
