@@ -10,7 +10,7 @@ thumb_image: /images/garbar-lebar-2.jpg
 thumb_image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
 image: /images/garbar-lebar-1.jpg
 image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
-image_position: left
+image_position: right
 episode_embed_html: >-
   <div class="video-container"><iframe width="560" height="315"
   src="https://www.youtube.com/embed/8b3IwK2C-Oo?rel=0" title="YouTube video
