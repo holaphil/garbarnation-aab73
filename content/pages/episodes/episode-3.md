@@ -51,7 +51,7 @@ seo:
         Maplewood, NJ, Le Bar's sports bar vibe is a great example of a GarBar
         in progress.
     - name: 'twitter:image'
-      value: /images/garbar-lebar.jpg
+      value: /images/garbar-lebar-1.jpg
       relativeUrl: true
 layout: post
 tags:
