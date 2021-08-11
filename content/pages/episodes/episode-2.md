@@ -8,7 +8,7 @@ categories:
   - content/data/categories/season-1.yaml
 thumb_image: images/post-2.jpg
 thumb_image_alt: Podcast 2 placeholder image
-image: images/post-2.jpg
+image: /images/garbar-sloppy-joes-1.jpg
 image_alt: Podcast 2 placeholder image
 image_position: right
 episode_embed_html: >-
