@@ -9,7 +9,7 @@ categories:
   - content/data/categories/category-exqrka1zy.json
 thumb_image: /images/garbar-smittys-tavern-1.jpg
 thumb_image_alt: Brian Smitty Krumpkin of Smitty's Tavern
-image: /images/episode-1-smitty.png
+image: /images/garbar-smittys-tavern-2.jpg
 image_alt: Podcast 1 placeholder image
 image_position: right
 seo:
