@@ -1,7 +1,7 @@
 ---
 title: Smitty's Tavern
 subtitle: >-
-  Located in Maplewood, New Jersey,Smitty's Tavern is authentic, rustic, with a
+  Located in Maplewood, New Jersey, Smitty's Tavern is authentic, rustic, with a
   kind of ski chalet vibe... the perfect location for a beer or two.
 date: '2021-09-06'
 categories:
