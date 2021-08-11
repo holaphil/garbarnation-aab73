@@ -33,7 +33,7 @@ seo:
     - name: 'og:description'
       value: >-
         GarBar Nation sits down with "Le Bar" owner Mike Hastings in Maplewood
-        New Jersey.
+        New Jersey. Le Bar's sports bar vibe
       keyName: property
     - name: 'og:image'
       value: /images/robust-turmeric.jpg
