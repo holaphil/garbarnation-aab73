@@ -7,7 +7,7 @@ date: '2021-09-20'
 categories:
   - content/data/categories/season-1.yaml
 thumb_image: images/post-3.jpg
-thumb_image_alt: Episode 3 placeholder image
+thumb_image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
 image: images/post-3.jpg
 image_alt: Episode 3 placeholder image
 image_position: left
