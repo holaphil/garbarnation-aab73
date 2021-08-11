@@ -28,7 +28,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'GarBar Nation meets Maplewood Smitty''s Tavern owner, Brian Krumpkin'
+      value: Maplewood GarBar owner Brian Krumpkin of Smitty's Tavern
       keyName: property
     - name: 'og:description'
       value: >-
