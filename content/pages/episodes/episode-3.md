@@ -44,7 +44,9 @@ seo:
     - name: 'twitter:title'
       value: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
     - name: 'twitter:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        Great memorabilia with a sports bar vibe, Mike Hastings Le Bar in
+        Maplewood New Jersey is a great example of a GarBar in progress.
     - name: 'twitter:image'
       value: /images/garbar-lebar.jpg
       relativeUrl: true
