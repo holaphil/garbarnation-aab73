@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Watch this GarBar tour with Mike Hastings in Maplewood, NJ'
+      value: 'Take a tour of Le Bar, a GarBar located in Maplewood, NJ'
     - name: 'twitter:description'
       value: >-
         Adorned with memorabilia evoking a sports bar vibe, Mike Hastings "Le
