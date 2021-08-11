@@ -191,7 +191,7 @@ seo:
         the nation. Move your car, build a bar!
       keyName: property
     - name: 'og:image'
-      value: /images/garbar-nation-panel-1.jpg
+      value: /images/garbar-nation-panel-four.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
