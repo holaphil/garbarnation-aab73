@@ -189,7 +189,7 @@ seo:
       value: The preview of the Podcaster theme
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /images/garbar-banner-03.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
