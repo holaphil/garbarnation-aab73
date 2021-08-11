@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Take a tour of Le Bar, a GarBar located in Maplewood, NJ'
+      value: Maplewood GarBar owner Mike Hastings tour of Le Bar
     - name: 'twitter:description'
       value: >-
         Adorned with memorabilia evoking a sports bar vibe, Mike Hastings "Le
