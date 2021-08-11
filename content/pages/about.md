@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About
+      value: About GarBar Nation
     - name: 'twitter:description'
       value: >-
         GarBar Nation is an American garage bar “GarBar’ innovation team
