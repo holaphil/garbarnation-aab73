@@ -38,7 +38,7 @@ seo:
         in progress.
       keyName: property
     - name: 'og:image'
-      value: /images/robust-turmeric.jpg
+      value: /images/garbar-lebar-2.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
