@@ -1,11 +1,8 @@
 ---
 title: Smitty's Tavern
 subtitle: >-
-  Located in Maplewood, New Jersey,Smitty's Tavern is a great example of working
-  with what you might not know you already have. After cleaning out the junk and
-  a little power washing, the beauty of the original walls is what really makes
-  this garage bar (GarBar) stand out. It's authentic, rustic, with a a kind of
-  ski chalet vibe... the perfect location for a beer or two.
+  Located in Maplewood, New Jersey,Smitty's Tavern is authentic, rustic, with a
+  kind of ski chalet vibe... the perfect location for a beer or two.
 date: '2021-09-06'
 categories:
   - content/data/categories/season-1.yaml
