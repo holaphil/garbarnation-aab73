@@ -8,7 +8,7 @@ categories:
   - content/data/categories/season-1.yaml
   - content/data/categories/category-exqrka1zy.json
 thumb_image: /images/garbar-sloppy-joes-1.jpg
-thumb_image_alt: 'Sloppy Joes GarBar in Maplewood, NJ'
+thumb_image_alt: 'Joe Melvin in Maplewood, NJ'
 image: /images/garbar-sloppy-joes-1.jpg
 image_alt: Podcast 2 placeholder image
 image_position: right
