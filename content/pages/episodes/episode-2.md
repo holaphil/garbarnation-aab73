@@ -48,9 +48,8 @@ layout: post
 tags:
   - content/data/tags/tag-rmyeos2cc.json
 excerpt: >-
-  the ultimate garage dive bar (GarBar). Neon lights adorn the (fake) brick
-  walls, with polaroids and beer mats creating the feel of your favorite old
-  local.
+  the ultimate garage dive bar. Neon lights adorn the (fake) brick walls, with
+  polaroids and beer mats creating the feel of your favorite old local.
 ---
 Sloppy Joe's is the ultimate garage dive bar (GarBar). Neon lights adorn the (fake) brick walls, with polaroids and beer mats creating the feel of your favorite old local. Bar games compete for space with old Star Wars toys and other junk that wasn't deemed nice enough for the house. And the bartender is pretty cute!
 
