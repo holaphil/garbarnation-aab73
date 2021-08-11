@@ -48,7 +48,7 @@ layout: post
 tags:
   - content/data/tags/tag-rmyeos2cc.json
 excerpt: >-
-  Joe Melvin's Sloppy Joe's in the perfect  garage dive bar. Neon lights adorn
+  Joe Melvin's Sloppy Joe's is the perfect  garage dive bar. Neon lights adorn
   the (fake) brick walls, with polaroids and beer mats creating the feel of your
   favorite old local.
 ---
