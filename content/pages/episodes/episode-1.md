@@ -37,7 +37,10 @@ seo:
     - name: 'twitter:title'
       value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
     - name: 'twitter:description'
-      value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
+      value: >-
+        GarBar Nation sits down with "Smitty's Tavern" owner Brian S. Krumpkin.
+        Located in Maplewood, NJ, This GarBar is authentic and rustic, with a
+        ski chalet vibe.
     - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
