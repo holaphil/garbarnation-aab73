@@ -42,7 +42,7 @@ seo:
         Located in Maplewood, NJ, This GarBar is authentic and rustic, with a
         ski chalet vibe.
     - name: 'twitter:image'
-      value: images/post-1.jpg
+      value: /images/garbar-smittys-tavern-1.jpg
       relativeUrl: true
 layout: post
 tags:
