@@ -1,10 +1,11 @@
 ---
 title: Sloppy Joe's
 subtitle: >-
-  The ultimate garage dive bar. Neon lights adorn the (fake) brick walls, with
-  polaroids and beer mats creating the feel of your favorite old local. Bar
-  games compete for space with old Star Wars toys and other junk that wasn't
-  deemed nice enough for the house.
+  Located in Maplewood, New Jersey, Sloppy Joe's is the ultimate garage dive
+  bar. Neon lights adorn the (fake) brick walls, with polaroids and beer mats
+  creating the feel of your favorite old local. Bar games compete for space with
+  old Star Wars toys and other junk that wasn't deemed nice enough for the
+  house.
 date: '2021-09-13'
 categories:
   - content/data/categories/season-1.yaml
