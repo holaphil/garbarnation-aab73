@@ -7,7 +7,7 @@ date: '2021-09-05'
 categories:
   - content/data/categories/season-1.yaml
   - content/data/categories/category-exqrka1zy.json
-thumb_image: images/post-2.jpg
+thumb_image: /images/garbar-sloppy-joes-1.jpg
 thumb_image_alt: Podcast 2 placeholder image
 image: /images/garbar-sloppy-joes-1.jpg
 image_alt: Podcast 2 placeholder image
