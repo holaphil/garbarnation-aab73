@@ -13,7 +13,8 @@ seo:
     - name: 'og:description'
       value: >-
         GarBar Nation is an American garage bar “GarBar’ innovation team
-        spotlighting 
+        spotlighting garage to bar (#GarBar) conversions and renovations across
+        the country.
       keyName: property
     - name: 'og:image'
       value: images/about.png
