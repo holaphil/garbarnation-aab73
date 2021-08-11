@@ -36,7 +36,7 @@ seo:
         Maplewood New Jersey is a great example of a GarBar in progress.
       keyName: property
     - name: 'og:image'
-      value: /images/garbar-lebar-2.jpg
+      value: /images/robust-turmeric.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
