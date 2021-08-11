@@ -46,7 +46,7 @@ sections:
     has_border: true
     background_color: secondary
 seo:
-  title: Episodes
+  title: GarBar Episodes
   description: This is the episodes page
   extra:
     - name: 'og:type'
