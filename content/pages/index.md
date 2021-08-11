@@ -174,7 +174,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 30
 seo:
-  title: Stackbit Podcaster Theme
+  title: Welcome to GarBar Nation
   description: >-
     Spotlighting garage bar (#GarBar) renovations across the nation. Move your
     car, build a bar!
