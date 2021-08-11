@@ -6,7 +6,7 @@ subtitle: >-
 date: '2021-09-20'
 categories:
   - content/data/categories/season-1.yaml
-thumb_image: /images/garbar-lebar-1.jpg
+thumb_image: /images/garbar-lebar-2.jpg
 thumb_image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
 image: images/post-3.jpg
 image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
