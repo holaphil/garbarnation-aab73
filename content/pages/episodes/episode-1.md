@@ -42,8 +42,8 @@ layout: post
 tags:
   - content/data/tags/tag-rmyeos2cc.json
 excerpt: >-
-  Authentic, rustic, with a kind of ski chalet vibe... the perfect location for
-  a beer or two.
+  Brian Krumpkin's Smitty's Tavern is authentic, rustic, with a kind of ski
+  chalet vibe... the perfect location for a beer or two.
 episode_embed_html: >-
   <div class="video-container"><iframe width="560" height="315"
   src="https://www.youtube.com/embed/Ve2-lWHODJI?rel=0" title="YouTube video
