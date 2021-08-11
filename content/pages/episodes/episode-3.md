@@ -28,7 +28,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'GarBar tour with Mike Hastings in Maplewood, NJ'
+      value: 'Take a tour of Le Bar, a GarBar located in Maplewood, NJ'
       keyName: property
     - name: 'og:description'
       value: >-
