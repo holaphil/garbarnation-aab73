@@ -174,7 +174,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 30
 seo:
-  title: Welcome to GarBar Nation
+  title: Welcome to GarBar Nation!
   description: >-
     Spotlighting garage to bar conversions (#GarBar) and renovations across the
     nation. Move your car, build a bar!
