@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: This is the about page
     - name: 'twitter:image'
-      value: images/about.png
+      value: /images/garbar-nation-panel-four.jpg
       relativeUrl: true
 layout: page
 ---
