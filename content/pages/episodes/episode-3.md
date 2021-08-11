@@ -19,7 +19,7 @@ episode_embed_html: >-
   encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe></div>
 seo:
-  title: 'GarBar Le Bar in Maplewood, NJ'
+  title: 'Video tour of Le Bar, a GarBar located in Maplewood, NJ'
   description: >-
     Adorned with memorabilia evoking a sports bar vibe, Mike Hastings "Le Bar"
     in Maplewood New Jersey is a great example of a GarBar in progress.
