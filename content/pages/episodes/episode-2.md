@@ -14,8 +14,8 @@ image_alt: 'Joe Melvin in Maplewood, NJ'
 image_position: right
 episode_embed_html: >-
   <div class="video-container"><iframe width="560" height="315"
-  src="https://www.youtube.com/embed/whirjsMy5Cg?" title="YouTube video player"
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+  src="https://www.youtube.com/embed/whirjsMy5Cg?rel=0" title="YouTube video
+  player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe></div>
 seo:
