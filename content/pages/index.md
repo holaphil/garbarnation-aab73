@@ -186,7 +186,9 @@ seo:
       value: Welcome to GarBar Nation
       keyName: property
     - name: 'og:description'
-      value: The preview of the Podcaster theme
+      value: >-
+        Spotlighting garage to bar conversions (#GarBar) and renovations across
+        the nation. Move your car, build a bar!
       keyName: property
     - name: 'og:image'
       value: /images/garbar-banner-03.jpg
