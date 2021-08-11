@@ -47,15 +47,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Negat esse eam, inquit,
 
 Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna fit in iis, qui habent ad virtutem progressionis aliquantum. Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet. Nihil enim hoc differt. Quorum sine causa fieri nihil putandum est.
 
-## Sed Nimis Multa
+## Q\&A with Joe Melvin
 
-Intro yourself and the name of your garage bar
-I'm Joe Melvin, owner of Sloppy Joe's dive bar. 
-
-**What / Who inspired you? **
+**What / Who inspired you?**
 Mulligan's and DC's bars in Hoboken. After moving to Maplewood I wanted my own dive bar I could share with friends and family. 
 
-How long did it take to build your GarBar?
+**How long did it take to build your GarBar?**
 It's still a work in progress, but the original build only took 2 weekends. 
 
 What was the reason for building your garage bar?
