@@ -175,7 +175,9 @@ sections:
     background_image_opacity: 30
 seo:
   title: Stackbit Podcaster Theme
-  description: The preview of the Podcaster theme
+  description: >-
+    Spotlighting garage bar (#GarBar) renovations across the nation. Move your
+    car, build a bar!
   extra:
     - name: 'og:type'
       value: website
