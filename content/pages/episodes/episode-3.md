@@ -32,8 +32,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Take a tour of Le Bar, in Maplewood New Jersey. Adorned with memorabilia
-        evoking a sports bar vibe,  is a great example of a GarBar in progress.
+        Adorned with memorabilia evoking a sports bar vibe, Mike Hastings "Le
+        Bar" in Maplewood New Jersey is a great example of a GarBar in progress.
       keyName: property
     - name: 'og:image'
       value: /images/robust-turmeric.jpg
