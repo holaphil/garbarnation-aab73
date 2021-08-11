@@ -197,7 +197,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Podcaster Theme
+      value: Welcome to GarBar Nation
     - name: 'twitter:description'
       value: >-
         Spotlighting garage to bar conversions (#GarBar) and renovations across
