@@ -2,7 +2,10 @@
 title: GarBar Nation
 seo:
   title: About GarBar Nation
-  description: This is the about page
+  description: >-
+    GarBar Nation is an American garage bar “GarBar’ innovation team
+    spotlighting garage to bar (#GarBar) conversions and renovations across the
+    country.
   extra:
     - name: 'og:type'
       value: website
