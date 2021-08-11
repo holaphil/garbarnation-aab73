@@ -35,7 +35,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: GarBar owner Brian Krumpkin video tour of Smitty's Tavern
     - name: 'twitter:description'
       value: >-
         GarBar Nation sits down with "Smitty's Tavern" owner Brian S. Krumpkin.
