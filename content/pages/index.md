@@ -197,7 +197,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Welcome to GarBar Nation
+      value: "Welcome to GarBar Nation\U0001F37A"
     - name: 'twitter:description'
       value: >-
         Spotlighting garage to bar conversions (#GarBar) and renovations across
