@@ -28,7 +28,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Stop by Le Bar, a GarBar located in Maplewood, NJ'
+      value: 'Le Bar, a GarBar located in Maplewood, NJ'
       keyName: property
     - name: 'og:description'
       value: >-
