@@ -3,7 +3,7 @@ title: Le bar
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
   equidem satis, inquit, me dixisse.
-date: '2021-09-20'
+date: '2021-09-04'
 categories:
   - content/data/categories/season-1.yaml
   - content/data/categories/category-exqrka1zy.json
