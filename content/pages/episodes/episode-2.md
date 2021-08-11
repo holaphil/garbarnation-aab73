@@ -28,7 +28,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: Maplewood GarBar owner Joe Melvin video tour of Sloppy Joe's
       keyName: property
     - name: 'og:description'
       value: >-
