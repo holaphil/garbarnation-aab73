@@ -183,7 +183,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Welcome to GarBar Nation
+      value: "Welcome to GarBar Nation \U0001F37A"
       keyName: property
     - name: 'og:description'
       value: >-
