@@ -1,8 +1,8 @@
 ---
 title: Le bar
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  exqquidem satis, inquit, me dixisse.
+  A casual garage bar (GarBar) with great memorabilia, Le Bar is a great example
+  of a work in progress.
 date: '2021-09-04'
 categories:
   - content/data/categories/season-1.yaml
