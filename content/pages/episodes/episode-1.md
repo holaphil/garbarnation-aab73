@@ -20,7 +20,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
+      value: GarBar owner Brian Krumpkin video tour of Smitty's Tavern
       keyName: property
     - name: 'og:description'
       value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
