@@ -1,7 +1,7 @@
 ---
 title: GarBar Nation
 seo:
-  title: About
+  title: About GarBar Nation
   description: This is the about page
   extra:
     - name: 'og:type'
