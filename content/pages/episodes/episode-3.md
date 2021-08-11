@@ -20,7 +20,10 @@ episode_embed_html: >-
   allowfullscreen></iframe></div>
 seo:
   title: 'GarBar Le Bar in Maplewood, NJ'
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  description: >-
+    If you're a Formula One or Buffalo Sabres fan, the simple, sports bar vibe
+    of Le Bar is the garage bar for you. It's worth a visit for the hockey horn
+    app, which has to be seen (and heard) to be believed. 
   extra:
     - name: 'og:type'
       value: article
