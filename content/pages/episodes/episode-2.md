@@ -43,9 +43,7 @@ seo:
       relativeUrl: true
 layout: post
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Negat esse eam, inquit, propter se expetendam. Nam de isto magna dissensio est. Nullum inveniri verbum potest quod magis idem declaret Latine, quod Graece, quam declarat voluptas. Idemne potest esse dies saepius, qui semel fuit? Non est ista, inquam, Piso, magna dissensio. Ita multo sanguine profuso in laetitia et in victoria est mortuus. Quasi vero, inquit, perpetua oratio rhetorum solum, non etiam philosophorum sit. Duo Reges: constructio interrete.
-
-Quae diligentissime contra Aristonem dicuntur a Chryippo. Videamus igitur sententias eorum, tum ad verba redeamus. Levatio igitur vitiorum magna fit in iis, qui habent ad virtutem progressionis aliquantum. Virtutis, magnitudinis animi, patientiae, fortitudinis fomentis dolor mitigari solet. Nihil enim hoc differt. Quorum sine causa fieri nihil putandum est.
+Sloppy Joe's is the ultimate garage dive bar (GarBar). Neon lights adorn the (fake) brick walls, with polaroids and beer mats creating the feel of your favorite old local. Bar games compete for space with old Star Wars toys and other junk that wasn't deemed nice enough for the house. And the bartender is pretty cute!
 
 ## Q\&A with Joe Melvin
 
