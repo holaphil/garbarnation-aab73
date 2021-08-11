@@ -41,7 +41,7 @@ seo:
 layout: post
 tags:
   - content/data/tags/tag-rmyeos2cc.json
-excerpt: 'Meet Brian Smitty Krumpkin of Smitty''s Tavern located in Maplewood, NJ.'
+excerpt: 'Smitty''s Tavern GarBar in Maplewood, NJ'
 episode_embed_html: >-
   <div class="video-container"><iframe width="560" height="315"
   src="https://www.youtube.com/embed/Ve2-lWHODJI?rel=0" title="YouTube video
