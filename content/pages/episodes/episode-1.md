@@ -10,7 +10,7 @@ categories:
 thumb_image: /images/garbar-smittys-tavern-1.jpg
 thumb_image_alt: Brian Smitty Krumpkin of Smitty's Tavern
 image: /images/garbar-smittys-tavern-3.jpg
-image_alt: Podcast 1 placeholder image
+image_alt: 'GarBar owner Brian Smitty Krumpkin in Maplewood, NJ'
 image_position: right
 seo:
   title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
