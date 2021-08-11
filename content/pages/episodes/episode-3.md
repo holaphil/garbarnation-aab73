@@ -31,7 +31,9 @@ seo:
       value: 'GarBar Le Bar in Maplewood, NJ'
       keyName: property
     - name: 'og:description'
-      value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+      value: >-
+        Great memorabilia with a sports bar vibe, Mike Hastings Le Bar in
+        Maplewood New Jersey is a great example of a GarBar in progress.
       keyName: property
     - name: 'og:image'
       value: /images/garbar-lebar-2.jpg
