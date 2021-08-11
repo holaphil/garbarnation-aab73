@@ -1,8 +1,8 @@
 ---
 title: Le bar
 subtitle: >-
-  A casual garage bar (GarBar) with great memorabilia, Le Bar is a great example
-  of a work in progress.
+  A casual garage bar with great memorabilia, Le Bar is a great example of a
+  work in progress.
 date: '2021-09-04'
 categories:
   - content/data/categories/season-1.yaml
