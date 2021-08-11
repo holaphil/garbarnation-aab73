@@ -28,7 +28,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'GarBar Le Bar in Maplewood, NJ'
+      value: 'GarBar owner Mike Hastings in Maplewood, NJ'
       keyName: property
     - name: 'og:description'
       value: >-
