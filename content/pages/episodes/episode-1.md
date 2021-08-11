@@ -12,13 +12,10 @@ image: /images/episode-1-smitty.png
 image_alt: Podcast 1 placeholder image
 image_position: left
 episode_embed_html: >-
-  <iframe width="1000" height="562"
-  src="https://www.youtube.com/embed/ya6hHPi1-pE" title="YouTube video player"
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/Ve2-lWHODJI" title="YouTube video player"
   frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-  encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen></iframe><BR><iframe width="100%" height="166" scrolling="no"
-  frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/387283889&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 seo:
   title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
   description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
