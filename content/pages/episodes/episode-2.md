@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
+      value: Maplewood GarBar owner Joe Melvin video tour of Sloppy Joe's
     - name: 'twitter:description'
       value: >-
         GarBar Nation sits down with "Sloppy Joe's" owner Joe Melvin. Located in
