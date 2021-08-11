@@ -28,7 +28,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: 'GarBar Le Bar in Maplewood, NJ'
       keyName: property
     - name: 'og:description'
       value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
