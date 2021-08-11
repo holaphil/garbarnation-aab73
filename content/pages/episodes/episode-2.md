@@ -20,7 +20,10 @@ episode_embed_html: >-
   allowfullscreen></iframe></div>
 seo:
   title: 'Episode 2 - Non Minor, Inquit, Voluptas Percipitur Ex Vilissimis'
-  description: Quae diligentissime contra Aristonem dicuntur a Chryippo
+  description: >-
+    GarBar Nation sits down with "Sloppy Joe's" owner Joe Melvin located in
+    Maplewood, NJ. Adorned w/ fake brick walls, this GarBar is the perfect 
+    garage dive bar.
   extra:
     - name: 'og:type'
       value: article
