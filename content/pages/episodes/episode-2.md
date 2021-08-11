@@ -48,7 +48,7 @@ layout: post
 tags:
   - content/data/tags/tag-rmyeos2cc.json
 excerpt: >-
-  Meet owner Joe Melvin, e garage dive bar. Neon lights adorn the (fake) brick
+  Meet owner Joe Melvin. e garage dive bar. Neon lights adorn the (fake) brick
   walls, with polaroids and beer mats creating the feel of your favorite old
   local.
 ---
