@@ -21,9 +21,8 @@ episode_embed_html: >-
 seo:
   title: 'GarBar Le Bar in Maplewood, NJ'
   description: >-
-    If you're a Formula One or Buffalo Sabres fan, the simple, sports bar vibe
-    of Le Bar is the garage bar for you. It's worth a visit for the hockey horn
-    app, which has to be seen (and heard) to be believed. 
+    Great memorabilia with a sports bar vibe, Mike Hastings Le Bar in Maplewood
+    New Jersey is a great example of a GarBar in progress.
   extra:
     - name: 'og:type'
       value: article
