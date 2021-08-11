@@ -11,11 +11,6 @@ thumb_image_alt: Brian Smitty Krumpkin of Smitty's Tavern
 image: /images/episode-1-smitty.png
 image_alt: Podcast 1 placeholder image
 image_position: left
-episode_embed_html: >-
-  <iframe width="1000" height="562"
-  src="https://www.youtube.com/embed/Ve2-lWHODJI" title="YouTube video player"
-  frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 seo:
   title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
   description: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
