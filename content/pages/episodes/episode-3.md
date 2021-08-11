@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+      value: 'GarBar owner Mike Hastings in Maplewood, NJ'
     - name: 'twitter:description'
       value: >-
         Great memorabilia with a sports bar vibe, Mike Hastings Le Bar in
