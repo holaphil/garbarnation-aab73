@@ -26,7 +26,7 @@ seo:
       value: Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil
       keyName: property
     - name: 'og:image'
-      value: /images/episode-1-smitty.png
+      value: /images/garbar-smittys-tavern-1.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
