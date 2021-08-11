@@ -19,7 +19,7 @@ episode_embed_html: >-
   encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe></div>
 seo:
-  title: Episode 3 - Cur Ipse Pythagoras Et Aegyptum Lustravit
+  title: 'GarBar Le Bar in Maplewood, NJ'
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
