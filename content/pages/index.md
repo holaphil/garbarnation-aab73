@@ -203,7 +203,7 @@ seo:
         Spotlighting garage to bar conversions (#GarBar) and renovations across
         the nation. Move your car, build a bar!
     - name: 'twitter:image'
-      value: /images/garbar-nation-panel.jpg
+      value: /images/garbar-nation-panel-2.jpg
       relativeUrl: true
 layout: advanced
 ---
