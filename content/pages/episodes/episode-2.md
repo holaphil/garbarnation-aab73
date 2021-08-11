@@ -21,9 +21,8 @@ episode_embed_html: >-
 seo:
   title: Maplewood GarBar owner Joe Melvin video tour of Sloppy Joe's
   description: >-
-    GarBar Nation sits down with "Sloppy Joe's" owner Joe Melvin located in
-    Maplewood, NJ. Adorned w/ fake brick walls, this GarBar is the perfect 
-    garage dive bar.
+    GarBar Nation sits down with "Sloppy Joe's" owner Joe Melvin. Located in
+    Maplewood, NJ, this GarBar is the perfect  garage dive bar.
   extra:
     - name: 'og:type'
       value: article
