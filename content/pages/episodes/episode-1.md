@@ -1,5 +1,5 @@
 ---
-title: Episode 1 - Smitty's Tavern
+title: Smitty's Tavern
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti
   videre, nihil tranquilli potest.
