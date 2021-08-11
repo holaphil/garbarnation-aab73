@@ -176,8 +176,8 @@ sections:
 seo:
   title: Welcome to GarBar Nation
   description: >-
-    Spotlighting garage bar (#GarBar) renovations across the nation. Move your
-    car, build a bar!
+    Spotlighting garage to bar conversions (#GarBar) and renovations across the
+    nation. Move your car, build a bar!
   extra:
     - name: 'og:type'
       value: website
