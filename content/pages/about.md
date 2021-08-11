@@ -8,7 +8,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About
+      value: About GarBar Nation
       keyName: property
     - name: 'og:description'
       value: This is the about page
