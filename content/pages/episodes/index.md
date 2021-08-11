@@ -22,7 +22,7 @@ sections:
     padding_bottom: large
     has_border: true
     background_color: none
-    background_image: images/pattern.svg
+    background_image: /images/AdobeStock_340935160.png
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
