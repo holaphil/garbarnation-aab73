@@ -47,7 +47,9 @@ sections:
     background_color: secondary
 seo:
   title: GarBar Episodes
-  description: 'Meet the owners and builders behind GarBars across the nation. '
+  description: >-
+    GarBar builders share their stories. A collection of original curated
+    content spotlighting GarBar conversions and renovations across the nation.
   extra:
     - name: 'og:type'
       value: website
