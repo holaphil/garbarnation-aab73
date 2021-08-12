@@ -72,7 +72,10 @@ seo:
     - name: 'twitter:title'
       value: Episodes
     - name: 'twitter:description'
-      value: This is the episodes page
+      value: >-
+        GarBar builders share their stories. A collection of original curated
+        content spotlighting GarBar conversions and renovations across the
+        nation.
     - name: 'twitter:image'
       value: images/post-9.jpg
       relativeUrl: true
