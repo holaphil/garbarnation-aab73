@@ -58,7 +58,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Join Our FAcebnook Group",
+                "label": "Join Our FAcebook Group",
                 "url": "/subscribe",
                 "style": "primary",
                 "has_icon": true
