@@ -58,7 +58,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Tune in here",
+                "label": "Join ",
                 "url": "/subscribe",
                 "style": "primary",
                 "has_icon": true
