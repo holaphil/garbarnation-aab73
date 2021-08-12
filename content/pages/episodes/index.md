@@ -70,7 +70,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Episodes
+      value: GarBar Episodes
     - name: 'twitter:description'
       value: >-
         GarBar builders share their stories. A collection of original curated
