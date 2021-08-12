@@ -21,11 +21,6 @@ sections:
     background_image: /images/hero-background-test.png
     background_image_position: left bottom
     title: Welcome to GarBar Nation
-    video_embed_html: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/G1yqdOJXo0U" title="YouTube video
-      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: blog_feed_section
     title: Our Latest Episodes
     blog_feed_cols: three
