@@ -62,7 +62,8 @@
                 "url": "https://www.facebook.com/groups/765570373491523",
                 "style": "secondary",
                 "has_icon": true,
-                "icon": "facebook"
+                "icon": "facebook",
+                "new_window": true
             }
         ],
         "logo": "/images/incredible-petunia.png"
