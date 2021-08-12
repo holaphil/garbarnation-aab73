@@ -64,7 +64,7 @@ seo:
         nation.
       keyName: property
     - name: 'og:image'
-      value: images/post-9.jpg
+      value: /images/episodes.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
