@@ -1,5 +1,5 @@
 ---
-title: Press
+title: Work With US
 seo:
   title: About
   description: This is the about page
