@@ -77,7 +77,7 @@ seo:
         content spotlighting GarBar conversions and renovations across the
         nation.
     - name: 'twitter:image'
-      value: images/post-9.jpg
+      value: /images/episodes.jpg
       relativeUrl: true
 layout: advanced
 ---
