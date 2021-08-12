@@ -55,7 +55,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Episodes
+      value: GarBar Episodes
       keyName: property
     - name: 'og:description'
       value: >-
