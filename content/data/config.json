@@ -60,7 +60,7 @@
             {
                 "label": "Join Our Facebook Group",
                 "url": "https://www.facebook.com/groups/765570373491523",
-                "style": "primary",
+                "style": "secondary",
                 "has_icon": true
             }
         ],
