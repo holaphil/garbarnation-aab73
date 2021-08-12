@@ -61,7 +61,8 @@
                 "label": "Join Our Facebook Group",
                 "url": "https://www.facebook.com/groups/765570373491523",
                 "style": "secondary",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "facebook"
             }
         ],
         "logo": "/images/incredible-petunia.png"
