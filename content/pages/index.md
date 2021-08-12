@@ -1,5 +1,5 @@
 ---
-title: Home
+title: GarBar Nation
 sections:
   - type: hero_section
     content: >
