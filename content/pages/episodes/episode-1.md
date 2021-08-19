@@ -51,7 +51,7 @@ layout: post
 tags:
   - content/data/tags/tag-rmyeos2cc.json
 excerpt: >-
-  Authentic, rustic, with a kind of ski chalet vibe, Brian Krumpkin's GarBar is
+  Authentic, rustic, with a kind of ski chalet vibe, Brian Krupkin's GarBar is
   the perfect location for a beer or two.
 episode_embed_html: >-
   <div class="video-container"><iframe width="560" height="315"
