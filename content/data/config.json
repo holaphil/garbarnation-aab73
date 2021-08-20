@@ -68,7 +68,7 @@
             {
                 "label": "Subscribe on YouTube",
                 "url": "https://www.youtube.com/channel/UCRBsUdGcb6aiYdnNkoES2hA",
-                "style": "link",
+                "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
