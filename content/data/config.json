@@ -64,7 +64,7 @@
                 "has_icon": true,
                 "icon": "facebook",
                 "new_window": true,
-                "icon_position": "right"
+                "icon_position": "left"
             },
             {
                 "label": "Subscribe on YouTube",
