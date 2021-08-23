@@ -193,7 +193,8 @@ seo:
     - name: 'twitter:description'
       value: >-
         Having a beer and wine fridge is not really an option for your GarBar,
-        it’s a necessity. Here are a few 
+        it’s a necessity. Here are a few things to consider before you make that
+        final purchase.
       keyName: name
       relativeUrl: false
   type: stackbit_page_meta
