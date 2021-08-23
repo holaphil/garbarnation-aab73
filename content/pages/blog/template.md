@@ -18,7 +18,6 @@ sections:
     type: features_section
     background_image: /images/garbar-intro.jpg
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
