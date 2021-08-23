@@ -20,7 +20,7 @@ sections:
       </div>
     media_position: top
     media_width: fifty
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: none
     has_border: false
