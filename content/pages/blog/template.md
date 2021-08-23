@@ -72,7 +72,7 @@ sections:
       noise, and are probably unnecessary unless you have a huge space.
 
 
-      ## Temperature
+      #### Temperature
 
 
       When it comes to proper storage and taste preservation, temperature plays
