@@ -31,10 +31,10 @@ sections:
       much any color or design you can imagine.
 
 
-      Here are a few things to consider… 
+      **Here are a few things to consider…**
 
 
-      **Size** 
+      ### **Size**
 
 
       It all depends on what you’re looking for and what space you have to work
@@ -44,35 +44,35 @@ sections:
       mixers come in different sized cans/bottles, so it’s helpful if the layout
       inside the fridge is adjustable. If you’re a wine drinker, make sure the
       fridge comes with removable shelves, or has a separate section for wine
-      bottles. 
+      bottles.
 
 
-      **Look** 
+      **Look**
 
 
       Having a glass door on the fridge is great to show people what you have in
       your bar. It usually ups the price a little, but will give your space more
-      of a bar feel. 
+      of a bar feel.
 
 
-      **Reversible Doors **
+      \*\*Reversible Doors \*\*
 
 
       Details matter, so make sure a single-door beverage cooler has a
       reversible door to install the handle on either the left or right side.
       This will allow you to save space and make sure your unit functions
-      exactly as it should within your space. 
+      exactly as it should within your space.
 
 
-      **Noise** 
+      **Noise**
 
 
       You will want a fridge that won’t disrupt your conversations or interfere
       with the game on the  TV. The more industrial, larger fridges make more
-      noise, and are probably unnecessary unless you have a huge space. 
+      noise, and are probably unnecessary unless you have a huge space.
 
 
-      **Temperature **
+      \*\*Temperature \*\*
 
 
       When it comes to proper storage and taste preservation, temperature plays
