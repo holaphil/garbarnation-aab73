@@ -66,6 +66,7 @@ seo:
 layout: post
 tags:
   - content/data/tags/tag-rmyeos2cc.json
+  - content/data/tags/tag-44crynts3.json
 excerpt: >-
   Adorned with fake brick walls and neon lights, Joe Melvin's GarBar is the
   perfect  garage dive bar.
