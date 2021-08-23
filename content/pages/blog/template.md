@@ -29,6 +29,59 @@ sections:
       temperatures that can adjust to match the beer inside. There are large
       ones, small ones, tall ones, glass-door ones, doubles, triples and pretty
       much any color or design you can imagine.
+
+
+      Here are a few things to consider… 
+
+
+      **Size** 
+
+
+      It all depends on what you’re looking for and what space you have to work
+      with. One rule of thumb when considering size is to think of what beers
+      you like. If you prefer cans, opt for a shelving situation designed for
+      storing your beers. Keep in mind that some craft beers, hard seltzers and
+      mixers come in different sized cans/bottles, so it’s helpful if the layout
+      inside the fridge is adjustable. If you’re a wine drinker, make sure the
+      fridge comes with removable shelves, or has a separate section for wine
+      bottles. 
+
+
+      **Look** 
+
+
+      Having a glass door on the fridge is great to show people what you have in
+      your bar. It usually ups the price a little, but will give your space more
+      of a bar feel. 
+
+
+      **Reversible Doors **
+
+
+      Details matter, so make sure a single-door beverage cooler has a
+      reversible door to install the handle on either the left or right side.
+      This will allow you to save space and make sure your unit functions
+      exactly as it should within your space. 
+
+
+      **Noise** 
+
+
+      You will want a fridge that won’t disrupt your conversations or interfere
+      with the game on the  TV. The more industrial, larger fridges make more
+      noise, and are probably unnecessary unless you have a huge space. 
+
+
+      **Temperature **
+
+
+      When it comes to proper storage and taste preservation, temperature plays
+      a key role in protecting your collection. Think about what you drink most
+      – the recommended serving temperature for stouts is 50 to 55 degrees, pale
+      ales at 45 to 55 degrees, and lagers at between 40 to 45 – so it does
+      matter. Some beverage fridges come with dual temperature zones to make it
+      even easier to properly house your entire line of beverages – a good
+      choice to keep your regulars happy.
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
