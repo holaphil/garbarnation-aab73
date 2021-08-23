@@ -20,7 +20,7 @@ sections:
   - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >
-      **Maybe a kegerator is for you, maybe it’s not – **it can depend on how
+      **Maybe a kegerator is for you, maybe it’s not** – it can depend on how
       keen you are to drink the same beer for a week or more (depending on the
       size of the keg and how many/few friends you have!). Having a beer/wine
       fridge is not really an option, it’s a necessity for any garage bar. If
