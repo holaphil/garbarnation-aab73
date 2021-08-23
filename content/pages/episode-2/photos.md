@@ -5,7 +5,7 @@ sections:
     subtitle: 'Sloppy Joe''s in Maplewood, NJ'
     actions: []
     image_alt: lorem-ipsum
-    video_embed_html: >
+    video_embed_html: >-
       <script
       src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js"
       async></script>
@@ -15,10 +15,7 @@ sections:
         data-link="https://photos.app.goo.gl/ULfrArLtS4X6vH6z9"
         data-title="Sloppy Joe&#39;s"
         data-description="2 new photos added to shared album">
-        <object data="https://lh3.googleusercontent.com/YDJMmphfQdDkXz0qn6f_LlXrcZ0pMfaBauZcapVyKJe-L2VuHLNa7u7Hww0aeAknP4gA25Ti0uUnoTfwgrrnTlk-Qu6QNOFnLjRbpJaVR5-hNeegCYpudNyyo8i_DrB7gSnwyYeH=w1920-h1080"></object>
-        <object data="https://lh3.googleusercontent.com/n7U6_8p-dRzc13yg5uE6i_u_5X1YAOY5oVWzP1I_wVeGHDgWgRwzRV-PXV12u5HMo21HR5q37dgM0mT3caxWLF3itNrJn_-z2-2BYWkVq4ddorjhjT5TSb_KN8hGs_iCXvGopwiG=w1920-h1080"></object>
-      </div><iframe frameborder="0" class="juxtapose" width="100%" height="600"
-      src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=e7b270f2-0429-11ec-abb7-b9a7ff2ee17c"></iframe>
+        <object data="https://lh3.googleusercontent.com/YDJMmphfQdDkXz0qn6f_LlXrcZ0pMfaBauZcapVyKJe-L2VuHLNa7u7Hww0aeAknP4gA25Ti0uUnoTfwgrrnTlk-Qu6QNOFnLjRbpJaVR5-hNeegCYpudNyyo8i_DrB7gSnwyYeH=w1920-h1080">
     media_position: top
     media_width: sixty
     align: left
