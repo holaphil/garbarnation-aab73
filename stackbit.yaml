@@ -457,6 +457,7 @@ models:
         label: Seo
       - name: ''
         type: string
+        label: ''
   advanced:
     type: page
     label: Advanced page
