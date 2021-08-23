@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - title: The bar fridge
-    subtitle: Subtitle Goes Here
+    subtitle: Your Essential Guide
     features: []
     feature_padding_vert: medium
     align: center
