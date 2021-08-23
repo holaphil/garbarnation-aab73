@@ -30,9 +30,7 @@ episode_embed_html: >-
   href="https://soundcloud.com/phil-digiulio/gartalk-ep-001-sloppy-joes"
   title="GarTalk - Ep 001 - Sloppy Joe&#x27;s" target="_blank" style="color:
   #cccccc; text-decoration: none;">GarTalk - Ep 001 - Sloppy
-  Joe&#x27;s</a></div><iframe frameborder="0" class="juxtapose" width="100%"
-  height="1373.8078052874528"
-  src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=902f3be4-0424-11ec-abb7-b9a7ff2ee17c"></iframe>
+  Joe&#x27;s</a></div>
 seo:
   title: Maplewood GarBar owner Joe Melvin video tour of Sloppy Joe's
   description: >-
