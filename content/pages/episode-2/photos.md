@@ -43,7 +43,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
-    category: content/data/categories/category-tn617case.json
 seo:
   title: ''
   description: ''
