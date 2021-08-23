@@ -34,7 +34,7 @@ sections:
       **Here are a few things to consider…**
 
 
-      ### Size
+      #### Size
 
 
       It all depends on what you’re looking for and what space you have to work
@@ -47,7 +47,7 @@ sections:
       bottles.
 
 
-      ### Look
+      #### Look
 
 
       Having a glass door on the fridge is great to show people what you have in
@@ -55,7 +55,7 @@ sections:
       of a bar feel.
 
 
-      ### Reversible Doors
+      #### Reversible Doors
 
 
       Details matter, so make sure a single-door beverage cooler has a
@@ -64,7 +64,7 @@ sections:
       exactly as it should within your space.
 
 
-      ### Noise
+      #### Noise
 
 
       You will want a fridge that won’t disrupt your conversations or interfere
