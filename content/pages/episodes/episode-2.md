@@ -69,10 +69,6 @@ tags:
 excerpt: >-
   Adorned with fake brick walls and neon lights, Joe Melvin's GarBar is the
   perfect  garage dive bar.
-'': >-
-  <iframe frameborder="0" class="juxtapose" width="100%"
-  height="1373.8078052874528"
-  src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=902f3be4-0424-11ec-abb7-b9a7ff2ee17c"></iframe>
 ---
 Sloppy Joe's is the ultimate garage dive bar (GarBar). Neon lights adorn the (fake) brick walls, with polaroids and beer mats creating the feel of your favorite old local. Bar games compete for space with old Star Wars toys and other junk that wasn't deemed nice enough for the house. And the bartender is pretty cute!
 
