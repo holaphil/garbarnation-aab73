@@ -34,7 +34,7 @@ sections:
       **Here are a few things to consider…**
 
 
-      ### **Size**
+      ### Size
 
 
       It all depends on what you’re looking for and what space you have to work
