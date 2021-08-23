@@ -178,6 +178,10 @@ seo:
       value: /images/post-header-test-image.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: The Bar Fridge – Your Essential Guide
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
