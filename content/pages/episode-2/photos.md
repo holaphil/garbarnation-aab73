@@ -9,13 +9,6 @@ sections:
       <script
       src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js"
       async></script>
-
-      <div class="pa-gallery-player-widget" style="width:100%; height:480px;
-      display:none;"
-        data-link="https://photos.app.goo.gl/ULfrArLtS4X6vH6z9"
-        data-title="Sloppy Joe&#39;s"
-        data-description="2 new photos added to shared album">
-        <object data="https://lh3.googleusercontent.com/YDJMmphfQdDkXz0qn6f_LlXrcZ0pMfaBauZcapVyKJe-L2VuHLNa7u7Hww0aeAknP4gA25Ti0uUnoTfwgrrnTlk-Qu6QNOFnLjRbpJaVR5-hNeegCYpudNyyo8i_DrB7gSnwyYeH=w1920-h1080">
     media_position: top
     media_width: sixty
     align: left
