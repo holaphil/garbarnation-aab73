@@ -170,7 +170,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
 seo:
-  title: Your Essential Guide
+  title: The Bar Fridge – Your Essential Guide
   description: ''
   robots: []
   extra: []
