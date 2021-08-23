@@ -182,6 +182,10 @@ seo:
       value: The Bar Fridge – Your Essential Guide
       keyName: property
       relativeUrl: false
+    - name: 'twitter:image'
+      value: /images/post-header-test-image.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
