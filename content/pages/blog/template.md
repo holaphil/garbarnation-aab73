@@ -197,6 +197,13 @@ seo:
         final purchase.
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Having a beer and wine fridge is not really an option for your GarBar,
+        it’s a necessity. Here are a few things to consider before you make that
+        final purchase.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
