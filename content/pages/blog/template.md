@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: GarBar Nation Blog
 sections:
   - title: The bar fridge
     subtitle: Your Essential Guide
