@@ -1,7 +1,7 @@
 ---
 title: lorem-ipsum
 sections:
-  - section_id: lorem-ipsum
+  - section_id: your essential guide
     title: The bar fridge
     subtitle: Subtitle Goes Here
     features: []
