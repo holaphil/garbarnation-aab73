@@ -18,7 +18,8 @@ sections:
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
-      <iframe frameborder="0" class="juxtapose" width="100%" height=""
+      <iframe frameborder="0" class="juxtapose" width="100%"
+      height="1373.8078052874528"
       src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=b110801c-0428-11ec-abb7-b9a7ff2ee17c"></iframe>
     media_position: top
     media_width: fifty
