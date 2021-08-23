@@ -19,6 +19,7 @@ seo:
   type: stackbit_page_meta
 '': lorem-ipsum
 layout: post
+thumb_image: /images/episodes.jpg
 ---
 ## Lorem ipsum
 
