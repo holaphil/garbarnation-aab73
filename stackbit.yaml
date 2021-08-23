@@ -462,7 +462,7 @@ models:
         type: string
         label: ''
       - name: episode_embed_html
-        type: string
+        type: text
         label: Slideshow Episode Embed Code
         description: The HTML embed code for your podcast episode
   advanced:
