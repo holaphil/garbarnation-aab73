@@ -96,7 +96,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - section_id: Want to learn more?
-    title: Related Content
+    title: Check out these posts...
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
