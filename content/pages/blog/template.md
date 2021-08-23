@@ -173,7 +173,11 @@ seo:
   title: The Bar Fridge – Your Essential Guide
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:image'
+      value: /images/post-header-test-image.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: advanced
 ---
