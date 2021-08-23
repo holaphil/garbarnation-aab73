@@ -44,7 +44,7 @@ sections:
     type: hero_section
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Sloppy Joe's
     actions: []
     blog_feed_cols: three
     enable_cards: false
