@@ -450,6 +450,10 @@ models:
         name: episode_embed_html
         label: Podcast Episode Embed Code
         description: The HTML embed code for your podcast episode
+      - name: episode_embed_html
+        type: text
+        label: Slideshow Episode Embed Code
+        description: The HTML embed code for your podcast episode
       - type: model
         name: seo
         models:
@@ -461,10 +465,6 @@ models:
       - name: ''
         type: string
         label: ''
-      - name: episode_embed_html
-        type: text
-        label: Slideshow Episode Embed Code
-        description: The HTML embed code for your podcast episode
   advanced:
     type: page
     label: Advanced page
