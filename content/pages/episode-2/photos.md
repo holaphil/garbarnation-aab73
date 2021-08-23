@@ -22,7 +22,7 @@ sections:
     type: hero_section
   - section_id: lorem-ipsum
     title: Related Content
-    subtitle: lorem-ipsum
+    subtitle: Check out more
     actions: []
     blog_feed_cols: three
     enable_cards: false
