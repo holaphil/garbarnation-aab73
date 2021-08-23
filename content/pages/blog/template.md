@@ -95,7 +95,7 @@ sections:
       garage bar.
 
 
-      ![](/images/fridge-new-egg.jpg)
+      ![](/images/fridge-new-egg-e2b209a7.jpg)
 
 
       ### Money no option
