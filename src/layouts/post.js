@@ -82,7 +82,7 @@ export default class Post extends React.Component {
                                 {embedHtml && <div class="mb-4">{htmlToReact(embedHtml)}</div>}
                                 {markdownify(markdownContent)}
                             </div>
-                            <div><iframe frameborder="0" class="juxtapose" width="100%" height="1373.8078052874528" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=902f3be4-0424-11ec-abb7-b9a7ff2ee17c"></iframe></div>
+                            
                         )}
                         {!_.isEmpty(tags) && (
                             <footer className="post__footer mt-4 mt-md-5">
