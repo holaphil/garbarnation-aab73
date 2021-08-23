@@ -17,7 +17,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    video_embed_html: >
+    video_embed_html: >-
       <script
       src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js"
       async></script>
