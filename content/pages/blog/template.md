@@ -96,7 +96,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Related Content
     subtitle: lorem-ipsum
     actions: []
     blog_feed_cols: three
