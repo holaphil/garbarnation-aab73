@@ -30,7 +30,7 @@ sections:
       pretty much any color or design you can imagine.
 
 
-      **Here are a few things to consider…**
+      ###### Here are a few things to consider…
 
 
       #### Size
@@ -83,39 +83,37 @@ sections:
       choice to keep your regulars happy.
 
 
+      With that in mind, here are a couple of good choices…
 
 
-      With that in mind, here are a couple of good choices… 
-
-
-      ### Simple 
+      ### Simple
 
 
       [New Air 126-Can Stainless Steel Freestanding Beverage
       Center](https://www.walmart.com/ip/New-Air-126-Can-Stainless-Steel-Freestanding-Beverage-Center/23164018)
       - A basic, glass door fridge that’s perfect as a starting point for a
-      garage bar. 
+      garage bar.
 
 
-      ### Money no option 
+      ### Money no option
 
 
       [N'FINITY PRO
       HDX](https://www.amazon.com/NFINITY-Enthusiast-Beverage-Center-Built/dp/B01DUFIO7M/ref=sr\_1\_1?crid=29ES2T4RD6BKX\&dchild=1\&keywords=n%27finity+pro+hdx+24\&qid=1619029513\&sprefix=N%27FINITY+PRO+HDX%2Cappliances%2C164\&sr=8-1)
       - Stores up to 35 standard Bordeaux wine bottles and 90 cans of beer or
       soda, has digital touch screen and includes 7 pull out shelves in the left
-      zone and 4 fixed beverage shelves in the right zone. 
+      zone and 4 fixed beverage shelves in the right zone.
 
 
-      ### Cheap/Retro 
+      ### Cheap/Retro
 
 
       [Frigidaire Retro Bar Fridge Refrigerator with Side Bottle
       Opener](https://www.amazon.com/Igloo-FR376-RED-Fridge-Bottle-Opener/dp/B019RF0FV2/ref=sr\_1\_1?dchild=1\&keywords=Frigidaire+Retro+Bar+Fridge+Refrigerator+with+Side+Bottle+Opener\&qid=1619029457\&s=appliances\&sr=1-1)
-      - A great looker that comes in a variety of colors – pretty cheap too 
+      - A great looker that comes in a variety of colors – pretty cheap too
 
 
-      ### The full monty 
+      ### The full monty
 
 
       [Procool Refrigeration 3-door Glass Front Stainless Steel Back Bar
