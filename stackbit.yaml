@@ -460,6 +460,9 @@ models:
         label: ''
       - name: ''
         type: string
+        label: ''
+      - name: episode_embed_html
+        type: string
   advanced:
     type: page
     label: Advanced page
