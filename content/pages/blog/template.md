@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Blog Post Title Goes Here
     subtitle: lorem-ipsum
     features: []
     feature_padding_vert: medium
