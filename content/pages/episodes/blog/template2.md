@@ -60,5 +60,6 @@ seo:
 layout: post
 thumb_image: /images/garbar-smittys-tavern-4.jpg
 image: /images/garbar-smittys-tavern-3.jpg
+author: content/data/team/person-mirj9efyr.json
 ---
 Smitty's Tavern is a great example of working with what you might not know you already have. After cleaning out the junk and a little power washing, the beauty of the original walls is what really makes this garage bar (GarBar) stand out. It's authentic, rustic, with a kind of ski chalet vibe...  the perfect location for a beer or two.
