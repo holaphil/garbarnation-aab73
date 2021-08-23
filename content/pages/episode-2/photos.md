@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
-    subtitle: 'Maplewood, NJ'
+    subtitle: 'Sloppy Joe''s in Maplewood, NJ'
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
