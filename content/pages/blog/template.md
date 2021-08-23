@@ -2,7 +2,7 @@
 title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
-    title: Blog Post Title Goes Here
+    title: The bar fridge – your essential guide
     subtitle: Subtitle Goes Here
     features: []
     feature_padding_vert: medium
