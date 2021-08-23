@@ -95,7 +95,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-  - section_id: Check out more
+  - section_id: Want to learn more?
     title: Related Content
     subtitle: lorem-ipsum
     actions: []
