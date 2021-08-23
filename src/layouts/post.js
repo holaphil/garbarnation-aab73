@@ -18,7 +18,7 @@ export default class Post extends React.Component {
         const image = _.get(page, 'image');
         const imageAlt = _.get(page, 'image_alt', '');
         const imagePosition = _.get(page, 'image_position', 'top');
-        const embedHtml2 = _.get(page, 'episode_embed_html');
+        const embedHtml = _.get(page, 'episode_embed_html');
              const embedHtml = _.get(page, 'slideshow_embed_html');
         const date = _.get(page, 'date');
         const dateTimeAttr = moment(date).strftime('%Y-%m-%d %H:%M');
