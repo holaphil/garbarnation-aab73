@@ -19,7 +19,7 @@ sections:
         <object data="https://lh3.googleusercontent.com/n7U6_8p-dRzc13yg5uE6i_u_5X1YAOY5oVWzP1I_wVeGHDgWgRwzRV-PXV12u5HMo21HR5q37dgM0mT3caxWLF3itNrJn_-z2-2BYWkVq4ddorjhjT5TSb_KN8hGs_iCXvGopwiG=w1920-h1080"></object>
       </div>
     media_position: bottom
-    media_width: fourty
+    media_width: sixty
     align: left
     padding_top: small
     padding_bottom: none
