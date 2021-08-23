@@ -4,8 +4,6 @@ sections:
   - section_id: lorem-ipsum
     title: Sloppy Joe's
     subtitle: 'Maplewood, NJ'
-    content: |
-      *
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
