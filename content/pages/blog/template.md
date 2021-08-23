@@ -83,7 +83,7 @@ sections:
       choice to keep your regulars happy.
 
 
-      With that in mind, here are a couple of good choices…
+      ## With that in mind, here are a couple of good choices…
 
 
       ### Simple
