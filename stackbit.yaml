@@ -458,6 +458,8 @@ models:
       - name: ''
         type: string
         label: ''
+      - name: ''
+        type: string
   advanced:
     type: page
     label: Advanced page
