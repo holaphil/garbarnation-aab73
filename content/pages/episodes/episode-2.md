@@ -73,9 +73,9 @@ excerpt: >-
 ---
 Sloppy Joe's is the ultimate garage dive bar (GarBar). Neon lights adorn the (fake) brick walls, with polaroids and beer mats creating the feel of your favorite old local. Bar games compete for space with old Star Wars toys and other junk that wasn't deemed nice enough for the house. And the bartender is pretty cute!
 
+![](/images/IMG\_6934.JPG)
+
 ## Q\&A with Joe Melvin
-
-
 
 **What / Who inspired you?**
 Mulligan's and DC's bars in Hoboken. After moving to Maplewood I wanted my own dive bar I could share with friends and family. 
@@ -108,4 +108,4 @@ The heating/cooling. It's too hot in the summer and too cold in the winter. It's
 I'm able to socialize as much as I want. People love to come over, we're not all stuck inside and you really do feel like you're in a bar. 
 
 **What’s your specialty drink?**
-I'm not much of a cocktail maker. I can pour whiskey over ice and open both cans and bottles for you. I don't have running water at Sloppys, so the less glasses to wash up, the better.![](https://photos.app.goo.gl/NooVYB5NG3oB52uTA)
+I'm not much of a cocktail maker. I can pour whiskey over ice and open both cans and bottles for you. I don't have running water at Sloppys, so the less glasses to wash up, the better.![](https://photos.app.goo.gl/NooVYB5NG3oB52uTA)![](https://photos.app.goo.gl/NooVYB5NG3oB52uTA)![](https://lh3.googleusercontent.com/pw/AM-JKLV-08pngtgdisALbPUwEsTd-soO3ndQSbsVVgg7UJjHMDvAd8rAIzKKGGhmnqtCz1ctszHFSzAyVbvo8eMaJ1byhSSMEjvt\_5jiRsZVOBCb6gOJxFB0VKg6YtlwxIYYYSYRBmGgISMd2qK-yleKeSg=w1832-h1374-no?authuser=2)
