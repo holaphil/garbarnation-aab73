@@ -464,6 +464,7 @@ models:
       - name: episode_embed_html
         type: string
         label: Slideshow Episode Embed Code
+        description: The HTML embed code for your podcast episode
   advanced:
     type: page
     label: Advanced page
