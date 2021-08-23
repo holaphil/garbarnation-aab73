@@ -170,7 +170,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
 seo:
-  title: ''
+  title: Your Essential Guide
   description: ''
   robots: []
   extra: []
