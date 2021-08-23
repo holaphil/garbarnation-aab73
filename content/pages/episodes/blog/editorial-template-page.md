@@ -20,6 +20,7 @@ seo:
 '': lorem-ipsum
 layout: post
 thumb_image: /images/episodes.jpg
+image: /images/episodes.jpg
 ---
 ## Lorem ipsum
 
