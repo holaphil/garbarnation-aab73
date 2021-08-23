@@ -64,7 +64,7 @@ sections:
       exactly as it should within your space.
 
 
-      **Noise**
+      ### Noise
 
 
       You will want a fridge that won’t disrupt your conversations or interfere
@@ -72,7 +72,7 @@ sections:
       noise, and are probably unnecessary unless you have a huge space.
 
 
-      \*\*Temperature \*\*
+      ## Temperature
 
 
       When it comes to proper storage and taste preservation, temperature plays
