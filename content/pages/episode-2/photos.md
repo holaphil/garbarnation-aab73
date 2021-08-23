@@ -18,7 +18,7 @@ sections:
         <object data="https://lh3.googleusercontent.com/YDJMmphfQdDkXz0qn6f_LlXrcZ0pMfaBauZcapVyKJe-L2VuHLNa7u7Hww0aeAknP4gA25Ti0uUnoTfwgrrnTlk-Qu6QNOFnLjRbpJaVR5-hNeegCYpudNyyo8i_DrB7gSnwyYeH=w1920-h1080"></object>
         <object data="https://lh3.googleusercontent.com/n7U6_8p-dRzc13yg5uE6i_u_5X1YAOY5oVWzP1I_wVeGHDgWgRwzRV-PXV12u5HMo21HR5q37dgM0mT3caxWLF3itNrJn_-z2-2BYWkVq4ddorjhjT5TSb_KN8hGs_iCXvGopwiG=w1920-h1080"></object>
       </div>
-    media_position: bottom
+    media_position: top
     media_width: sixty
     align: left
     padding_top: small
