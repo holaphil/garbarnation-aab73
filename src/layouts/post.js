@@ -82,7 +82,7 @@ export default class Post extends React.Component {
                                 {embedHtml && <div class="mb-4">{htmlToReact(embedHtml)}</div>}
                                 {markdownify(markdownContent)}
                             </div>
-                            
+                            <div></div>
                         )}
                         {!_.isEmpty(tags) && (
                             <footer className="post__footer mt-4 mt-md-5">
