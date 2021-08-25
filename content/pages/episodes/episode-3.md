@@ -56,6 +56,7 @@ seo:
 layout: post
 tags:
   - content/data/tags/tag-rmyeos2cc.json
+  - content/data/tags/tag-etel8r2w6.json
 excerpt: >-
   Great memorabilia with a sports bar vibe, Mike Hastings Le Bar is a great
   example of a work in progress.
