@@ -19,18 +19,18 @@ episode_embed_html: >-
   encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe></div><br><br><iframe width="100%" height="166"
   scrolling="no" frameborder="no" allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1110779803&color=%23202025&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div
+  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1112227564&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div
   style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break:
   normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;
   font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida
   Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a
-  href="https://soundcloud.com/phil-digiulio" title="GarBar Nation"
+  href="https://soundcloud.com/garbarnation" title="GarBar Nation"
   target="_blank" style="color: #cccccc; text-decoration: none;">GarBar
-  Nation</a> · <a
-  href="https://soundcloud.com/phil-digiulio/gartalk-ep-001-sloppy-joes"
-  title="GarTalk - Ep 001 - Sloppy Joe&#x27;s" target="_blank" style="color:
-  #cccccc; text-decoration: none;">GarTalk - Ep 001 - Sloppy
-  Joe&#x27;s</a></div>
+  Nation</a> · <a href="https://soundcloud.com/garbarnation/gartalk-ep-001"
+  title="Episode 001 - Gartalk with Joe Melvin of Sloppy Joe&#x27;s GarBar in
+  Maplewood, NJ" target="_blank" style="color: #cccccc; text-decoration:
+  none;">Episode 001 - Gartalk with Joe Melvin of Sloppy Joe&#x27;s GarBar in
+  Maplewood, NJ</a></div>
 seo:
   title: Maplewood GarBar owner Joe Melvin video tour of Sloppy Joe's
   description: >-
