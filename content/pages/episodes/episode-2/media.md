@@ -1,7 +1,7 @@
 ---
 title: Sloppy Joes Photos
 sections:
-  - section_id: lorem-ipsum
+  - section_id: slideshow
     subtitle: 'Sloppy Joe''s in Maplewood, NJ'
     actions: []
     image_alt: lorem-ipsum
