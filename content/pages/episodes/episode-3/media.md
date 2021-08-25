@@ -3,17 +3,6 @@ title: LeBar Photos
 sections:
   - section_id: slideshow
     subtitle: 'LeBar in Maplewood, New Jersey'
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >
