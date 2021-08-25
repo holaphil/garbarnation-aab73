@@ -2,7 +2,7 @@
 title: LeBar Photos
 sections:
   - section_id: slideshow
-    subtitle: lorem-ipsum
+    subtitle: 'LeBar in Maplewood, N'
     content: >-
       ## Lorem ipsum
 
