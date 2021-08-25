@@ -48,7 +48,7 @@ sections:
       </div>
   - section_id: lorem-ipsum
     title: Related Content
-    subtitle: Sloppy Joe's
+    subtitle: Sloppy Joes
     actions: []
     blog_feed_cols: three
     enable_cards: false
