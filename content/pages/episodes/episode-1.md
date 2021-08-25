@@ -50,6 +50,7 @@ seo:
 layout: post
 tags:
   - content/data/tags/tag-rmyeos2cc.json
+  - content/data/tags/tag-jvh97buri.json
 excerpt: >-
   Authentic, rustic, with a kind of ski chalet vibe, Brian Krupkin's GarBar is
   the perfect location for a beer or two.
