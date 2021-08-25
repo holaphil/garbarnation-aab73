@@ -2,7 +2,6 @@
 title: LeBar Photos
 sections:
   - section_id: slideshow
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
