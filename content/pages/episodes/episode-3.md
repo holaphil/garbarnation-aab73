@@ -61,4 +61,4 @@ excerpt: >-
   Great memorabilia with a sports bar vibe, Mike Hastings Le Bar is a great
   example of a work in progress.
 ---
-If you're a Formula One or Buffalo Sabres fan, the simple, sports bar vibe of Le Bar is the garage bar for you. It's worth a visit for the hockey horn app, which has to be seen (and heard) to be believed. A casual garage bar (GarBar) with great memorabilia, Le Bar is a great example of a work in progress.
+If you're a Formula One or Buffalo Sabres fan, the simple, sports bar vibe of Le Bar is the garage bar for you. It's worth a visit for the hockey horn app, which has to be seen (and heard) to be believed. A casual garage bar (GarBar) with great memorabilia, Le Bar is a great example of a work in progress. You can [view photos of Le Bar in Maplewood, NJ here](/episodes/episode-2/media).
