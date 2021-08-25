@@ -17,6 +17,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    video_embed_html: hello
   - section_id: lorem-ipsum
     title: Related Content
     subtitle: Sloppy Joe's
