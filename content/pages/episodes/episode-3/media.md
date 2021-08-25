@@ -1,7 +1,7 @@
 ---
 title: LeBar Photos
 sections:
-  - section_id: lorem-ipsum
+  - section_id: slideshow
     title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
