@@ -27,9 +27,9 @@ episode_embed_html: >-
   href="https://soundcloud.com/garbarnation" title="GarBar Nation"
   target="_blank" style="color: #cccccc; text-decoration: none;">GarBar
   Nation</a> · <a href="https://soundcloud.com/garbarnation/gartalk-ep-001"
-  title="Gartalk Ep 001 with Joe Melvin of Sloppy Joe&#x27;s GarBar in
+  title="Gartalk Ep 001 - Joe Melvin &#x27;Sloppy Joes&#x27; GarBar in
   Maplewood, NJ" target="_blank" style="color: #cccccc; text-decoration:
-  none;">Episode 001 - Gartalk with Joe Melvin of Sloppy Joe&#x27;s GarBar in
+  none;">Gartalk Ep 001 - Joe Melvin &#x27;Sloppy Joes&#x27; GarBar in
   Maplewood, NJ</a></div>
 seo:
   title: Maplewood GarBar owner Joe Melvin video tour of Sloppy Joe's
