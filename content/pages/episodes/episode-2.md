@@ -73,7 +73,7 @@ excerpt: >-
 ---
 Sloppy Joe's is the ultimate garage dive bar (GarBar). Neon lights adorn the (fake) brick walls, with polaroids and beer mats creating the feel of your favorite old local. Bar games compete for space with old Star Wars toys and other junk that wasn't deemed nice enough for the house. And the bartender is pretty cute!
 
-Click here to view before and after photos of Le Bar in Maplewood, NJ
+Click here to view before and after photos of Sloppy Joe's in Maplewood, NJ
 
 ![](/images/IMG\_6934.JPG)
 
