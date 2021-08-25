@@ -2,7 +2,7 @@
 title: LeBar Photos
 sections:
   - section_id: slideshow
-    subtitle: 'LeBar in Maplewood, N'
+    subtitle: 'LeBar in Maplewood, New Jersey'
     content: >-
       ## Lorem ipsum
 
