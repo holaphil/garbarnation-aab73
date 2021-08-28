@@ -66,7 +66,8 @@ sections:
         content_align: center
         actions:
           - label: Tune In
-            url: /thank-you
+            url: >-
+              https://open.spotify.com/show/08kNlmCWZyvevIvdTWuCxo?si=XEJb_o40S-mtEq2veLSzZA&dl_branch=1
             style: secondary
             has_icon: true
             icon: arrow-right
