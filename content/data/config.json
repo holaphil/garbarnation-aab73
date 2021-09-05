@@ -88,7 +88,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "About ",
+                "label": "About GarBar NAtion",
                 "url": "/about",
                 "style": "link"
             }
