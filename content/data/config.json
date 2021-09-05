@@ -152,19 +152,7 @@
         "primary_nav_title": "Watch & Learn",
         "secondary_nav_title": "GarBar Nation",
         "tertiary_nav_title": "Other Stuff",
-        "links": [
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "announcement": {
         "has_anncmnt": false,
