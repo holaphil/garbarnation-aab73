@@ -3,7 +3,9 @@ title: Thank You
 sections:
   - type: hero_section
     title: Thanks of subscribing!
-    subtitle: Thank you for testing this theme!
+    subtitle: >-
+      We'll be in touch soon. In the meantime, follow us on Instagram or YouTube
+      for the latest content.
     actions:
       - label: Back to homepage
         url: /
