@@ -1,5 +1,5 @@
 ---
-title: 'Thanks for '
+title: Thanks for subscribing!
 sections:
   - type: hero_section
     title: Thanks of subscribing!
