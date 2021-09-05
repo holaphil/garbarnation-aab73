@@ -12,5 +12,6 @@ sections:
     padding_bottom: large
     background_color: none
     background_image: /images/garbar-intro.jpg
+    background_image_opacity: 25
 layout: advanced
 ---
