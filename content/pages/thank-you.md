@@ -11,6 +11,7 @@ sections:
         has_icon: true
         icon: instagram
         icon_position: left
+        new_window: true
     align: center
     padding_bottom: large
     background_color: none
