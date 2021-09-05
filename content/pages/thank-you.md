@@ -5,7 +5,7 @@ sections:
     title: Thanks for subscribing!
     subtitle: We'll be in touch soon.
     actions:
-      - label: Back to homepage
+      - label: Join us on Instagram!
         url: /
         style: primary
     align: center
