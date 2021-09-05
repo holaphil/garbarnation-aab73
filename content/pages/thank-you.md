@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Now join us on Instagram!
         url: 'http://instagram.com/garbarnation'
-        style: link
+        style: primary
         has_icon: true
         icon: instagram
         icon_position: left
