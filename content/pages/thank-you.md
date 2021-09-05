@@ -9,6 +9,7 @@ sections:
         url: /
         style: primary
         has_icon: true
+        icon: instagram
     align: center
     padding_bottom: large
     background_color: none
