@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Thanks for subscribing!
     subtitle: >-
-      For the most recent content, follow us here on Instagram, YouTube and/or
-      Facebook
+      We'll be in touch soon. In the meantime, check out our latest content
+      here.
     actions:
       - label: Back to homepage
         url: /
