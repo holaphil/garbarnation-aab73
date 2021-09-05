@@ -10,7 +10,7 @@ sections:
         style: primary
     align: center
     padding_bottom: large
-    background_color: none
+    background_color: primary
     background_image: /images/garbar-intro.jpg
     background_image_opacity: 40
 layout: advanced
