@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Thanks of subscribing!
     subtitle: >-
-      For the most recent content, follow us on Instagram, YouTube or check out
+      For the most recent content, follow us here on Instagram, YouTube or check out
       our new podcast, GarTalk!
     actions:
       - label: Back to homepage
