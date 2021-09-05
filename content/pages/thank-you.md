@@ -11,5 +11,6 @@ sections:
     align: center
     padding_bottom: large
     background_color: none
+    background_image: /images/garbar-intro.jpg
 layout: advanced
 ---
