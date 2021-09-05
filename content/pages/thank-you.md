@@ -8,6 +8,7 @@ sections:
       - label: Now join us on Instagram!
         url: /
         style: primary
+        has_icon: true
     align: center
     padding_bottom: large
     background_color: none
