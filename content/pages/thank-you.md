@@ -5,7 +5,7 @@ sections:
     title: Thanks for subscribing!
     subtitle: We'll be in touch soon.
     actions:
-      - label: Now join us on Instagram!
+      - label: Join us on Instagram!
         url: 'http://instagram.com/garbarnation'
         style: primary
         has_icon: true
