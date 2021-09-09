@@ -133,13 +133,10 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
   - type: form_section
-    content: >
+    content: |
       ## Join The GarBar Nation
 
-
-      Join the Nation for insider access, discounts, and other surprises. Lorem
-      ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-      incididunt ut labore et dolore magna aliqua.
+      Join the Nation for insider access, discounts, and other surprises.
     content_align: left
     form_position: right
     form_width: fifty
