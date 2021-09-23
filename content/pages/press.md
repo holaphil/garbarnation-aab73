@@ -2,7 +2,7 @@
 title: Press
 seo:
   title: GarBar Press
-  description: The Media Frenzy is real...
+  description: Garbar Nation media frenzy is ! Check out the latest press here.
   extra:
     - name: 'og:type'
       value: website
