@@ -57,6 +57,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: cta_section
+    background_image: /images/press-star-ledger-bf0c5cbe.png
 seo:
   title: ''
   description: ''
