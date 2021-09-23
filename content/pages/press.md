@@ -28,11 +28,9 @@ seo:
       relativeUrl: true
 layout: page
 ---
-![](/images/garbar-intro.jpg)
 
-# The Media Frenzy is Real and still going...
 
-**Up Next Inside Edition… but for now here is the coverage that we know about…**
+# ![](/images/press-star-ledger.png)The Media Frenzy is Real and still going...
 
 8/26/19 **NY Post**: [https://nypost.com/2019/08/28/these-suburban-dads-turned-their-garages-into-tricked-out-bars/
 ](https://nypost.com/2019/08/28/these-suburban-dads-turned-their-garages-into-tricked-out-bars/)
