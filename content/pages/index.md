@@ -104,15 +104,7 @@ sections:
       - image: /images/logo-ny-post-horizontal.png
         image_alt: New York Post
         image_align: center
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
+        actions: []
       - image: /images/logo-sf-cronicle-vertical-225w.png
         image_alt: Netlify logo
         image_align: center
