@@ -11,7 +11,7 @@ seo:
       value: GarBar Nation Media & Press
       keyName: property
     - name: 'og:description'
-      value: This is the about page
+      value: Garbar Nation media frenzy is real. Check out the latest press here.
       keyName: property
     - name: 'og:image'
       value: images/about.png
