@@ -32,6 +32,6 @@ layout: page
 
 [View article on NJ.com](https://bit.ly/2XIp0Dk) →
 
-![](/images/press-FOX5-3dec51cc.png)
+![](/images/press-FOX5-52b7d387.png)
 
 [Watch video on FOX5NY.com](https://bit.ly/3lSTM51) →
