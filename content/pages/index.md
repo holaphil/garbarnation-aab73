@@ -135,7 +135,7 @@ sections:
     background_image_size: cover
     actions:
       - label: View all the press here
-        url: '#'
+        url: /press
         style: primary
         has_icon: true
         icon: arrow-right
