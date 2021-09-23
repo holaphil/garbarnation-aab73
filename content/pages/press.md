@@ -40,7 +40,10 @@ layout: page
 
 [Watch video on NYPost.com](https://bit.ly/2WazYkS) →
 
-![](/images/press-millburn-shorthills-mag.png)
+![](/images/press-millburn-shorthills-mag-d4b206f3.png)
 
 [View article in Millburn Short Hills Magazine](https://bit.ly/3o2eodC) →
 
+![](/images/press-daily-essex-1011fcb6.png)
+
+[View article in Daily Voice](https://bit.ly/2XIDRxI) →
