@@ -2,7 +2,7 @@
 title: Press
 seo:
   title: GarBar Press
-  description: This is the about page
+  description: The Media Frenzy is real...
   extra:
     - name: 'og:type'
       value: website
