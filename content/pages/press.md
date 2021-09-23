@@ -31,3 +31,7 @@ layout: page
 # ![](/images/press-star-ledger-bf0c5cbe.png)
 
 [View article on NJ.com](https://bit.ly/2XIp0Dk) →
+
+![](/images/press-FOX5.png)
+
+[Watch video on FOX5NY.com](https://bit.ly/3lSTM51) →
