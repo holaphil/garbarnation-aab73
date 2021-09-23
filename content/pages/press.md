@@ -1,7 +1,7 @@
 ---
 title: Press
 seo:
-  title: About
+  title: GarBar Press
   description: This is the about page
   extra:
     - name: 'og:type'
