@@ -47,3 +47,7 @@ layout: page
 ![](/images/press-daily-essex-1011fcb6.png)
 
 [View article in Daily Voice](https://bit.ly/2XIDRxI) →
+
+![](/images/press-punch.png)
+
+[View article in Punch](https://bit.ly/39MYVGl) →
