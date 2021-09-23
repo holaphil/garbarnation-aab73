@@ -133,6 +133,15 @@ sections:
     background_image_opacity: 25
     background_image_repeat: no-repeat
     background_image_size: cover
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
   - type: form_section
     content: >
       ## Join The GarBar Nation
