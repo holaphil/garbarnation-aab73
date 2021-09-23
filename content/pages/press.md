@@ -39,3 +39,7 @@ layout: page
 ![](/images/press-NY-Post.png)
 
 [Watch video on NYPost.com](https://bit.ly/2WazYkS) →
+
+![](/images/press-millburn-shorthills-mag.png)
+
+[View article in Millburn Short Hills Magazine](https://bit.ly/3o2eodC) →
