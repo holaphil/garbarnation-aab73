@@ -14,7 +14,7 @@ seo:
       value: Garbar Nation media frenzy is real. Check out the latest press here.
       keyName: property
     - name: 'og:image'
-      value: images/about.png
+      value: /images/press-FOX5-52b7d387.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
