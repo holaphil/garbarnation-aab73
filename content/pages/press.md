@@ -51,3 +51,7 @@ layout: page
 ![](/images/press-punch.png)
 
 [View article in Punch](https://bit.ly/39MYVGl) →
+
+
+
+[Watch video on CBS Local](https://cbsloc.al/39CvRAU) →
