@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about page
+      value: Garbar Nation media frenzy is real. Check out the latest press here.
     - name: 'twitter:image'
       value: images/about.png
       relativeUrl: true
