@@ -28,7 +28,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-#
+# ![](/images/press-star-ledger-925482f6.png)
 
 [View article on NJ.com](https://bit.ly/2XIp0Dk) →
 
