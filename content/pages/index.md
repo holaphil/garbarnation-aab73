@@ -134,7 +134,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     actions:
-      - label: View all the press
+      - label: View all the press here
         url: '#'
         style: primary
         has_icon: true
