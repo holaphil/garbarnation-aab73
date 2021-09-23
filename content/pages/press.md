@@ -1,7 +1,7 @@
 ---
 title: Press
 seo:
-  title: GarBar Press
+  title: GarBar Media & Press
   description: Garbar Nation media frenzy is ! Check out the latest press here.
   extra:
     - name: 'og:type'
