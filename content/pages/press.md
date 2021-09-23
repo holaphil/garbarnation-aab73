@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:description'
       value: Garbar Nation media frenzy is real. Check out the latest press here.
     - name: 'twitter:image'
-      value: GarBar Nation Media & Press
+      value: /images/press-star-ledger-3dc356c5.png
       relativeUrl: true
 layout: page
 ---
