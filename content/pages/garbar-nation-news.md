@@ -6,8 +6,7 @@ sections:
     subtitle: lorem-ipsum
     actions: []
     grid_items:
-      - title: Star Ledger
-        subtitle: >-
+      - subtitle: >-
           “You can finish up in the garage and think – I had a great night and
           in 20 yards, I’m in my bed,"
         title_align: left
