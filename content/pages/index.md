@@ -134,7 +134,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     actions:
-      - label: lorem-ipsum
+      - label: Check our the latest press
         url: '#'
         style: link
         has_icon: false
