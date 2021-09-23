@@ -28,5 +28,4 @@ seo:
       relativeUrl: true
 layout: page
 ---
-# ![](/images/press-star-ledger-fe1410bd.png)
-
+# ![](/images/press-star-ledger-bf0c5cbe.png)
