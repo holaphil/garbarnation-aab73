@@ -102,7 +102,7 @@ sections:
     align: center
     grid_items:
       - image: /images/logo-ny-post-horizontal.png
-        image_alt: Stackbit logo
+        image_alt: New York Post
         image_align: center
       - image: /images/logo-sf-cronicle-vertical-225w.png
         image_alt: Netlify logo
