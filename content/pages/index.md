@@ -136,7 +136,7 @@ sections:
     actions:
       - label: GarBar Nation in the News
         url: '#'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
