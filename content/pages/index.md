@@ -134,7 +134,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     actions:
-      - label: GarBar Nation in the News
+      - label: View all the press
         url: '#'
         style: primary
         has_icon: true
