@@ -52,6 +52,6 @@ layout: page
 
 [View article in Punch](https://bit.ly/39MYVGl) →
 
-
+![](/images/press-cbs-local-7350ad9d.png)
 
 [Watch video on CBS Local](https://cbsloc.al/39CvRAU) →
