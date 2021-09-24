@@ -177,7 +177,9 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - section_id: Frigidaire
-    title: Recommendations
+    title: >-
+      Retro Bar Fridge Refrigerator with Side Bottle Opener A great looker that
+      comes in a variety of colors – pretty cheap too.
     subtitle: GarBar Nation
     actions: []
     grid_items:
