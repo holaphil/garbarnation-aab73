@@ -130,7 +130,7 @@ sections:
       ##### Cheap/Retro
 
 
-      ![](/images/fridge-frigidaire.jpg)****
+      ![](/images/fridge-frigidaire.jpg)\*\*\*\*
 
 
       **Frigidaire Retro Bar Fridge Refrigerator with Side Bottle Opener**
@@ -146,7 +146,7 @@ sections:
       #####
 
 
-      The full monty
+      ##### The full monty
 
 
       ![](/images/fridge-procool.jpg)
