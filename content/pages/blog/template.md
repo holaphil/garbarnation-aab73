@@ -232,7 +232,9 @@ sections:
         image_align: left
         image_has_padding: true
         image: /images/fridge-NFINITY.jpg
-      - subtitle: lorem-ipsum
+      - subtitle: >-
+          Retro Bar Fridge Refrigerator with Side Bottle Opener A great looker
+          that comes in a variety of colors – pretty cheap too.
         title_align: left
         content: |
           With that in mind, here are a couple of good choices…
