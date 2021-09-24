@@ -277,7 +277,7 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: true
-            no_follow: false
+            no_follow: true
         actions_align: center
         actions_width: full-width
         image_alt: >-
