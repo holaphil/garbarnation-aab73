@@ -241,7 +241,7 @@ sections:
           - label: Check Out Price
             url: 'https://www.amazon.com/dp/B019RF0FV2'
             style: secondary
-            has_icon: false
+            has_icon: true
             icon: arrow-left
             icon_position: right
             new_window: false
