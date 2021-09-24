@@ -206,7 +206,7 @@ sections:
         image_align: left
         image_has_padding: true
         image: /images/fridge-new-egg.jpg
-      - title: N'FINITY
+      - title: Money No Option
         subtitle: ' PRO HDX'
         title_align: left
         content: >
