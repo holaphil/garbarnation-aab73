@@ -200,7 +200,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
   - section_id: Test
-    title: Test
+    title: Recommendations
     subtitle: lorem-ipsum
     actions: []
     grid_items:
