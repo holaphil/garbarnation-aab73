@@ -252,7 +252,7 @@ sections:
         image_position: top
         image_width: sixty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         image: /images/fridge-new-egg.jpg
     grid_cols: four
     grid_gap_vert: small
