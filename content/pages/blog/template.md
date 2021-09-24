@@ -182,7 +182,7 @@ sections:
     actions: []
     grid_items:
       - title: Keep It Simple
-        subtitle: 126-Can Stainless Steel Freestanding Beverage Center
+        subtitle: New Air126-Can Stainless Steel Freestanding Beverage Center
         title_align: left
         content: >
           A basic, glass door fridge that’s perfect as a starting point for a
