@@ -239,7 +239,8 @@ sections:
         content_align: left
         actions:
           - label: Check Out Price
-            url: '#'
+            url: >-
+              https://www.amazon.com/NFINITY-Enthusiast-Beverage-Center-Built/dp/B01DUFIO7M/ref=sr_1_1?crid=29ES2T4RD6BKX&dchild=1&keywords=n%27finity+pro+hdx+24&qid=1619029513&sprefix=N%27FINITY+PRO+HDX%2Cappliances%2C164&sr=8-1
             style: secondary
             has_icon: true
             icon: arrow-right
