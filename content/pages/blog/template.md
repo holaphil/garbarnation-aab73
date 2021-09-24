@@ -245,6 +245,7 @@ sections:
         image_width: fifty
         image_align: left
         image_has_padding: false
+        subtitle: 'Retro Bar Fridge Refrigerator with Side Bottle Opener, 3.2 cu. ft, Red'
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
