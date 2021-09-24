@@ -238,7 +238,7 @@ sections:
           that comes in a variety of colors – pretty cheap too.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Check Out Price
             url: '#'
             style: link
             has_icon: false
