@@ -177,7 +177,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
   - section_id: Frigidaire
-    title: Retro Bar Fridge Refrigerator
+    title: Bar Fridge Recommendations
     subtitle: GarBar Nation
     actions: []
     grid_items:
