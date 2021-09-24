@@ -241,7 +241,7 @@ sections:
           - label: lorem-ipsum
             url: >-
               https://www.walmart.com/ip/New-Air-126-Can-Stainless-Steel-Freestanding-Beverage-Center/23164018
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
