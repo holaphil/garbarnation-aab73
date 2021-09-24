@@ -31,7 +31,7 @@ sections:
 
 
       Here are a few things to consider…
-
+<hr>
 
       ##### Size
 
