@@ -226,7 +226,7 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - section_id: Test
-    title: lorem-ipsum
+    title: Test
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
