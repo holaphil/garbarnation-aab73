@@ -138,14 +138,12 @@ sections:
       ![](/images/fridge-frigidaire.jpg)
 
 
-      ##### [Check out the price
+      [Check out the price
       here](https://www.amazon.com/Igloo-FR376-RED-Fridge-Bottle-Opener/dp/B019RF0FV2/ref=sr\_1\_1?dchild=1\&keywords=Frigidaire+Retro+Bar+Fridge+Refrigerator+with+Side+Bottle+Opener\&qid=1619029457\&s=appliances\&sr=1-1)
       →
 
 
-
-
-      ##### The full monty
+      The full monty
 
 
       **Procool Refrigeration 3-door Glass Front Stainless Steel Back Bar
