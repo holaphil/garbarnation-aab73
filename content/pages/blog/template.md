@@ -181,7 +181,7 @@ sections:
     subtitle: GarBar Nation
     actions: []
     grid_items:
-      - title: New Air
+      - title: Keep It Simple
         subtitle: 126-Can Stainless Steel Freestanding Beverage Center
         title_align: left
         content: >
