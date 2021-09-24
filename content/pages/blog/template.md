@@ -258,7 +258,7 @@ sections:
         subtitle: Frigidaire Retro Bar Fridge
         title: Cheap & Retro
         image: /images/fridge-frigidaire.jpg
-      - title: Check Out Price
+      - title: The Full Monty
         subtitle: >-
           Procool Refrigeration 3-door Glass Front Stainless Steel Back Bar
           Cooler
