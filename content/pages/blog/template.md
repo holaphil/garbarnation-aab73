@@ -271,7 +271,8 @@ sections:
         content_align: left
         actions:
           - label: Check Out Price
-            url: '#'
+            url: >-
+              https://www.amazon.com/3-door-Stainless-Beverage-Cooler-Counter/dp/B012CBOZUU/ref=sr_1_22?_encoding=UTF8&c=ts&dchild=1&keywords=Beverage+Refrigerators&qid=1619030220&refinements=p_72%3A2661618011&rnid=2661617011&s=appliances&sr=1-22&ts_id=2686328011
             style: secondary
             has_icon: true
             icon: arrow-right
