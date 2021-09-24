@@ -222,7 +222,7 @@ sections:
             new_window: true
             no_follow: true
         actions_align: center
-        actions_width: auto
+        actions_width: full-width
         image_alt: lorem-ipsum
         image_position: top
         image_width: sixty
