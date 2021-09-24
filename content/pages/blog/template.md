@@ -269,7 +269,15 @@ sections:
           fan.
 
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         actions_align: center
         actions_width: full-width
         image_alt: >-
