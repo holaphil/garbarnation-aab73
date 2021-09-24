@@ -130,12 +130,12 @@ sections:
       ##### Cheap/Retro
 
 
+      ![](/images/fridge-frigidaire.jpg)****
+
+
       **Frigidaire Retro Bar Fridge Refrigerator with Side Bottle Opener**
 
       A great looker that comes in a variety of colors – pretty cheap too.
-
-
-      ![](/images/fridge-frigidaire.jpg)
 
 
       [Check out the price
@@ -143,7 +143,13 @@ sections:
       →
 
 
-      ##### The full monty
+      #####
+
+
+      The full monty
+
+
+      ![](/images/fridge-procool.jpg)
 
 
       **Procool Refrigeration 3-door Glass Front Stainless Steel Back Bar
@@ -151,9 +157,6 @@ sections:
 
       3 Door back bar beer beverage cooler with internal fan-assisted cooling
       system - commercial grade LG compressor and separate cooling fan.
-
-
-      ![](/images/fridge-procool.jpg)
 
 
       [Check out the price
