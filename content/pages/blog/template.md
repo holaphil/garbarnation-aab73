@@ -272,7 +272,11 @@ sections:
         actions: []
         actions_align: left
         actions_width: auto
-        image_alt: lorem-ipsum
+        image_alt: >-
+          Procool Refrigeration 3-door Glass Front Stainless Steel Back Bar
+          Cooler 3 Door back bar beer beverage cooler with internal fan-assisted
+          cooling system - commercial grade LG compressor and separate cooling
+          fan.
         image_position: top
         image_width: sixty
         image_align: center
