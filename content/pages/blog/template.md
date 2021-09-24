@@ -232,17 +232,10 @@ sections:
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Stores up to 35 standard Bordeaux wine bottles and 90 cans of beer or
+          soda, has digital touch screen and includes 7 pull out shelves in the
+          left zone and 4 fixed beverage shelves in the right zone.
         content_align: left
         actions: []
         actions_align: left
