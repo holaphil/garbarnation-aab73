@@ -92,12 +92,10 @@ sections:
       ![](/images/fridge-new-egg-2409ca4d.jpg)
 
 
-      **New Air 126-Can Stainless Steel Freestanding Beverage Center
+      > New Air 126-Can Stainless Steel Freestanding Beverage Center
 
-      **
-
-      A basic, glass door fridge that’s perfect as a starting point for a garage
-      bar.
+      > A basic, glass door fridge that’s perfect as a starting point for a
+      garage bar.
 
 
       [Check out the price
