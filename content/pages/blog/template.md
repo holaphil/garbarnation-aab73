@@ -270,7 +270,7 @@ sections:
 
         content_align: left
         actions: []
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: >-
           Procool Refrigeration 3-door Glass Front Stainless Steel Back Bar
