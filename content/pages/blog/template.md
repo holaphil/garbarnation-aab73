@@ -30,7 +30,7 @@ sections:
       pretty much any color or design you can imagine.
 
 
-      ##### Here are a few things to consider…
+      #### Here are a few things to consider…
 
 
       #### Size
