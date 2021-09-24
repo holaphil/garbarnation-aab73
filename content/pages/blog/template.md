@@ -239,7 +239,7 @@ sections:
         content_align: left
         actions:
           - label: Check Out Price
-            url: '#'
+            url: 'https://www.amazon.com/dp/B019RF0FV2'
             style: link
             has_icon: false
             icon: arrow-left
