@@ -252,7 +252,7 @@ sections:
         image_position: top
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         subtitle: Retro Bar Fridge
         title: Frigidaire
         image: /images/fridge-frigidaire.jpg
