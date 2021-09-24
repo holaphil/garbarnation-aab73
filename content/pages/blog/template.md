@@ -255,6 +255,7 @@ sections:
         image_has_padding: false
         subtitle: Retro Bar Fridge
         title: Frigidaire
+        image: /images/fridge-frigidaire.jpg
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
