@@ -240,7 +240,7 @@ sections:
         actions:
           - label: Check Out Price
             url: 'https://www.amazon.com/dp/B019RF0FV2'
-            style: link
+            style: secondary
             has_icon: false
             icon: arrow-left
             icon_position: right
