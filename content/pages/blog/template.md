@@ -46,7 +46,7 @@ sections:
       bottles.
 
 
-      #### Look
+      ##### Look
 
 
       Having a glass door on the fridge is great to show people what you have in
@@ -54,7 +54,7 @@ sections:
       of a bar feel.
 
 
-      #### Reversible Doors
+      ##### Reversible Doors
 
 
       Details matter, so make sure a single-door beverage cooler has a
@@ -63,7 +63,7 @@ sections:
       exactly as it should within your space.
 
 
-      #### Noise
+      ##### Noise
 
 
       You will want a fridge that won’t disrupt your conversations or interfere
@@ -71,7 +71,7 @@ sections:
       noise, and are probably unnecessary unless you have a huge space.
 
 
-      #### Temperature
+      ##### Temperature
 
 
       When it comes to proper storage and taste preservation, temperature plays
@@ -83,10 +83,10 @@ sections:
       choice to keep your regulars happy.
 
 
-      ## With that in mind, here are a couple of good choices…
+      With that in mind, here are a couple of good choices…
 
 
-      ### Simple
+      ##### Simple
 
 
       [New Air 126-Can Stainless Steel Freestanding Beverage
@@ -98,7 +98,7 @@ sections:
       ![](/images/fridge-new-egg-2409ca4d.jpg)
 
 
-      ### Money no option
+      ##### Money no option
 
 
       [N'FINITY PRO
@@ -111,7 +111,7 @@ sections:
       ![](/images/fridge-NFINITY.jpg)
 
 
-      ### Cheap/Retro
+      ##### Cheap/Retro
 
 
       [Frigidaire Retro Bar Fridge Refrigerator with Side Bottle
@@ -122,7 +122,7 @@ sections:
       ![](/images/fridge-frigidaire.jpg)
 
 
-      ### The full monty
+      ##### The full monty
 
 
       [Procool Refrigeration 3-door Glass Front Stainless Steel Back Bar
