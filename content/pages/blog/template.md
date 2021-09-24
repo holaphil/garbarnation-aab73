@@ -251,7 +251,7 @@ sections:
         image_alt: lorem-ipsum
         image_position: top
         image_width: fifty
-        image_align: left
+        image_align: center
         image_has_padding: true
         subtitle: Retro Bar Fridge
         title: Frigidaire
