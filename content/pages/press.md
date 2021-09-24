@@ -1,5 +1,5 @@
 ---
-title: GarBar Nation Press & Media
+title: GarBar Nation<BR>Press & Media
 seo:
   title: GarBar Media & Press
   description: Garbar Nation media frenzy is real. Check out the latest press here.
