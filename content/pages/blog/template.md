@@ -232,8 +232,8 @@ sections:
     grid_items:
       - title: New Air
         subtitle: >-
-          New Air 126-Can Stainless Steel Freestanding Beverage Center A basic,
-          glass door fridge that’s perfect as a starting point for a garage bar.
+          126-Can Stainless Steel Freestanding Beverage Center A basic, glass
+          door fridge that’s perfect as a starting point for a garage bar.
         title_align: left
         content: >
           New Air 126-Can Stainless Steel Freestanding Beverage Center
