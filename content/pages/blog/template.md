@@ -4,7 +4,7 @@ sections:
   - title: The bar fridge
     subtitle: Your Essential Guide
     features: []
-    feature_padding_vert: large
+    feature_padding_vert: small
     align: center
     padding_top: large
     padding_bottom: medium
