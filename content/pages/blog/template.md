@@ -201,7 +201,7 @@ sections:
     type: blog_feed_section
   - section_id: Test
     title: Recommendations
-    subtitle: lorem-ipsum
+    subtitle: GarBar Nation
     actions: []
     grid_items:
       - title: New Air
