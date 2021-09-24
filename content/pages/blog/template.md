@@ -226,7 +226,7 @@ sections:
             no_follow: true
         actions_align: center
         actions_width: full-width
-        image_alt: lorem-ipsum
+        image_alt: N'FINITY PRO HDX
         image_position: top
         image_width: sixty
         image_align: left
