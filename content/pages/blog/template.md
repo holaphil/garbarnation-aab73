@@ -105,7 +105,7 @@ sections:
 
       #####
 
-[<BR>]
+<BR>
 
 
       ##### Money no option
