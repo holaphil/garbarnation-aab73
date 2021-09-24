@@ -94,7 +94,6 @@ sections:
 
       **New Air 126-Can Stainless Steel Freestanding Beverage Center**
 
-
       A basic, glass door fridge that’s perfect as a starting point for a garage
       bar.
 
@@ -104,20 +103,30 @@ sections:
       →
 
 
+      #####
+
+
       Money no option
-
-
-      [N'FINITY PRO
-      HDX](https://www.amazon.com/NFINITY-Enthusiast-Beverage-Center-Built/dp/B01DUFIO7M/ref=sr\_1\_1?crid=29ES2T4RD6BKX\&dchild=1\&keywords=n%27finity+pro+hdx+24\&qid=1619029513\&sprefix=N%27FINITY+PRO+HDX%2Cappliances%2C164\&sr=8-1)
-      - Stores up to 35 standard Bordeaux wine bottles and 90 cans of beer or
-      soda, has digital touch screen and includes 7 pull out shelves in the left
-      zone and 4 fixed beverage shelves in the right zone.
 
 
       ![](/images/fridge-NFINITY.jpg)
 
 
-      ##### Cheap/Retro
+      **N'FINITY PRO HDX**
+
+      Stores up to 35 standard Bordeaux wine bottles and 90 cans of beer or
+      soda, has digital touch screen and includes 7 pull out shelves in the left
+      zone and 4 fixed beverage shelves in the right zone.
+
+
+      [Check out the price
+      here](https://www.amazon.com/NFINITY-Enthusiast-Beverage-Center-Built/dp/B01DUFIO7M/ref=sr\_1\_1?crid=29ES2T4RD6BKX\&dchild=1\&keywords=n%27finity+pro+hdx+24\&qid=1619029513\&sprefix=N%27FINITY+PRO+HDX%2Cappliances%2C164\&sr=8-1)
+      →
+
+
+
+
+      Cheap/Retro
 
 
       [Frigidaire Retro Bar Fridge Refrigerator with Side Bottle
