@@ -247,7 +247,7 @@ sections:
             new_window: true
             no_follow: true
         actions_align: left
-        actions_width: auto
+        actions_width: full-width
         image_alt: >-
           Frigidaire Retro Bar Fridge Refrigerator with Side Bottle Opener, 3.2
           cu. ft, Red
