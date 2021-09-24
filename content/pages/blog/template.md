@@ -86,7 +86,7 @@ sections:
       With that in mind, here are a couple of good choices…
 
 
-      ##### Simple
+      ##### Option 1) Simple
 
 
       ![](/images/fridge-new-egg-2409ca4d.jpg)
@@ -104,7 +104,6 @@ sections:
 
 
       #####
-
 
 
       ##### Money no option
