@@ -242,7 +242,7 @@ sections:
             url: 'https://www.amazon.com/dp/B019RF0FV2'
             style: secondary
             has_icon: true
-            icon: facebook
+            icon: arrow-right
             icon_position: right
             new_window: false
             no_follow: false
