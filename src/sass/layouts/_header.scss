@@ -130,8 +130,7 @@
 		a:not(.btn) {
 			&:after {
 				background: $color-nav-link-border;
-                content: "";
-                font-size: 0.63333em;
+				content: "";
 				position: absolute;
 				transition: .3s ease-in-out;
 			}
