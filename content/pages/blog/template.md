@@ -200,7 +200,7 @@ sections:
             no_follow: true
         actions_align: center
         actions_width: full-width
-        image_alt: lorem-ipsum
+        image_alt: New Air 126-Can Stainless Steel Freestanding Beverage Center
         image_position: top
         image_width: sixty
         image_align: left
