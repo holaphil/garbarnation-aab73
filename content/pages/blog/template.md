@@ -230,7 +230,7 @@ sections:
         image_has_padding: true
         image: /images/fridge-new-egg.jpg
       - title: N'FINITY
-        subtitle: lorem-ipsum
+        subtitle: ' PRO HDX'
         title_align: left
         content: >
           Stores up to 35 standard Bordeaux wine bottles and 90 cans of beer or
