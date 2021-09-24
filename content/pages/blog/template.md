@@ -227,7 +227,7 @@ sections:
     type: grid_section
   - section_id: Want to learn more?
     title: Check out these posts...
-    subtitle: lorem-ipsum
+    subtitle: GarBar Episodes
     actions: []
     blog_feed_cols: three
     enable_cards: false
