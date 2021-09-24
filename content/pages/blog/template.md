@@ -255,7 +255,7 @@ sections:
         image_width: sixty
         image_align: center
         image_has_padding: true
-        subtitle: Retro Bar Fridge
+        subtitle: Frigidaire Retro Bar Fridge
         title: Cheep & Retro
         image: /images/fridge-frigidaire.jpg
       - title: Check Out Price
