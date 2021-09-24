@@ -226,7 +226,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
   - section_id: Want to learn more?
-    title: Check out these posts...
+    title: Seen These Garbars?
     subtitle: GarBar Episodes
     actions: []
     blog_feed_cols: three
