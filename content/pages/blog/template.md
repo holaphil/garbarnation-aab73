@@ -229,7 +229,7 @@ sections:
         image_align: left
         image_has_padding: true
         image: /images/fridge-new-egg.jpg
-      - title: N'FINITY PRO HDX
+      - title: N'FINITY
         subtitle: lorem-ipsum
         title_align: left
         content: >
