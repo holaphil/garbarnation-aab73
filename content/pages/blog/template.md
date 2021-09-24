@@ -231,9 +231,7 @@ sections:
     actions: []
     grid_items:
       - title: New Air
-        subtitle: >-
-          126-Can Stainless Steel Freestanding Beverage Center A basic, glass
-          door fridge 
+        subtitle: 126-Can Stainless Steel Freestanding Beverage Center
         title_align: left
         content: >
           New Air 126-Can Stainless Steel Freestanding Beverage Center
