@@ -238,7 +238,7 @@ sections:
           left zone and 4 fixed beverage shelves in the right zone.
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Check Out Price
             url: '#'
             style: link
             has_icon: false
