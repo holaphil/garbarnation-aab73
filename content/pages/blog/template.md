@@ -258,7 +258,7 @@ sections:
         subtitle: Retro Bar Fridge
         title: Frigidaire
         image: /images/fridge-frigidaire.jpg
-      - title: lorem-ipsum
+      - title: Check Out Price
         subtitle: lorem-ipsum
         title_align: left
         content: >-
