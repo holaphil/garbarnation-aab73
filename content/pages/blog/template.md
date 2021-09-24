@@ -105,8 +105,7 @@ sections:
 
       #####
 
-[Check out the price
-      here]
+[BR]
 
 
       ##### Money no option
