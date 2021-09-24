@@ -106,13 +106,13 @@ sections:
       #####
 
 
-      Money no option
+      ##### Money no option
 
 
       ![](/images/fridge-NFINITY.jpg)
 
 
-      **N'FINITY PRO HDX\<br>**
+      **N'FINITY PRO HDX**
 
       Stores up to 35 standard Bordeaux wine bottles and 90 cans of beer or
       soda, has digital touch screen and includes 7 pull out shelves in the left
@@ -124,27 +124,43 @@ sections:
       →
 
 
+      #####
+
+
       Cheap/Retro
 
 
-      [Frigidaire Retro Bar Fridge Refrigerator with Side Bottle
-      Opener](https://www.amazon.com/Igloo-FR376-RED-Fridge-Bottle-Opener/dp/B019RF0FV2/ref=sr\_1\_1?dchild=1\&keywords=Frigidaire+Retro+Bar+Fridge+Refrigerator+with+Side+Bottle+Opener\&qid=1619029457\&s=appliances\&sr=1-1)
-      - A great looker that comes in a variety of colors – pretty cheap too.
+      **Frigidaire Retro Bar Fridge Refrigerator with Side Bottle Opener**
+
+      A great looker that comes in a variety of colors – pretty cheap too.
 
 
       ![](/images/fridge-frigidaire.jpg)
 
 
+      ##### [Check out the price
+      here](https://www.amazon.com/Igloo-FR376-RED-Fridge-Bottle-Opener/dp/B019RF0FV2/ref=sr\_1\_1?dchild=1\&keywords=Frigidaire+Retro+Bar+Fridge+Refrigerator+with+Side+Bottle+Opener\&qid=1619029457\&s=appliances\&sr=1-1)
+      →
+
+
+
+
       ##### The full monty
 
 
-      [Procool Refrigeration 3-door Glass Front Stainless Steel Back Bar
-      Cooler](https://www.amazon.com/3-door-Stainless-Beverage-Cooler-Counter/dp/B012CBOZUU/ref=sr\_1\_22?\_encoding=UTF8\&c=ts\&dchild=1\&keywords=Beverage+Refrigerators\&qid=1619030220\&refinements=p\_72%3A2661618011\&rnid=2661617011\&s=appliances\&sr=1-22\&ts_id=2686328011)
-      - 3 Door back bar beer beverage cooler with internal fan-assisted cooling
+      **Procool Refrigeration 3-door Glass Front Stainless Steel Back Bar
+      Cooler**
+
+      3 Door back bar beer beverage cooler with internal fan-assisted cooling
       system - commercial grade LG compressor and separate cooling fan.
 
 
       ![](/images/fridge-procool.jpg)
+
+
+      [Check out the price
+      here](https://www.amazon.com/3-door-Stainless-Beverage-Cooler-Counter/dp/B012CBOZUU/ref=sr\_1\_22?\_encoding=UTF8\&c=ts\&dchild=1\&keywords=Beverage+Refrigerators\&qid=1619030220\&refinements=p\_72%3A2661618011\&rnid=2661617011\&s=appliances\&sr=1-22\&ts_id=2686328011)
+      →
     actions: []
     image_alt: lorem-ipsum
     media_position: top
