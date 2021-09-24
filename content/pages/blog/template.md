@@ -259,7 +259,9 @@ sections:
         title: Cheap & Retro
         image: /images/fridge-frigidaire.jpg
       - title: Check Out Price
-        subtitle: lorem-ipsum
+        subtitle: >-
+          Procool Refrigeration 3-door Glass Front Stainless Steel Back Bar
+          Cooler
         title_align: left
         content: >+
           3 Door back bar beer beverage cooler with internal fan-assisted
