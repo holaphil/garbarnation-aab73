@@ -234,7 +234,7 @@ sections:
         image: /images/fridge-NFINITY.jpg
       - title_align: left
         content: >
-          Retro Bar Fridge Refrigerator with Side Bottle Opener A great looker
+          Retro Bar Fridge Refrigerator with Side Bottle Opener. A great looker
           that comes in a variety of colors – pretty cheap too.
         content_align: left
         actions: []
