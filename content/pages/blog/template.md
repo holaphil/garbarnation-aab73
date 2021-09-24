@@ -9,7 +9,7 @@ sections:
     padding_top: large
     padding_bottom: medium
     has_border: true
-    background_color: none
+    background_color: primary
     background_image_opacity: 60
     background_image_size: cover
     background_image_position: center center
