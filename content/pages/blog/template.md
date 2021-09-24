@@ -237,7 +237,15 @@ sections:
           Retro Bar Fridge Refrigerator with Side Bottle Opener. A great looker
           that comes in a variety of colors – pretty cheap too.
         content_align: left
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: right
+            new_window: false
+            no_follow: false
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
