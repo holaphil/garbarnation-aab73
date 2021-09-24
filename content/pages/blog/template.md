@@ -86,7 +86,7 @@ sections:
       With that in mind, here are a couple of good choices…
 
 
-      ##### Option A ~ Simple
+      ##### Keep It Simple
 
 
       ![](/images/fridge-new-egg-2409ca4d.jpg)
@@ -106,7 +106,7 @@ sections:
       #####
 
 
-      ##### Money no option
+      ##### Money No Option
 
 
       ![](/images/fridge-NFINITY.jpg)
@@ -127,7 +127,7 @@ sections:
       #####
 
 
-      ##### Cheap/Retro
+      ##### Cheap & Retro
 
 
       ![](/images/fridge-frigidaire.jpg)\*\*\*\*
@@ -146,7 +146,7 @@ sections:
       #####
 
 
-      ##### The full monty
+      ##### The Full Monty
 
 
       ![](/images/fridge-procool.jpg)
