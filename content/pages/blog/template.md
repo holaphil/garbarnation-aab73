@@ -86,13 +86,13 @@ sections:
       With that in mind, here are a couple of good choices…
 
 
-      #####
+      ##### Simple
 
 
       ![](/images/fridge-new-egg-2409ca4d.jpg)
 
 
-      Simple: **New Air 126-Can Stainless Steel Freestanding Beverage Center**
+      **New Air 126-Can Stainless Steel Freestanding Beverage Center**
 
       A basic, glass door fridge that’s perfect as a starting point for a garage
       bar.
@@ -127,7 +127,7 @@ sections:
       #####
 
 
-      Cheap/Retro
+      ##### Cheap/Retro
 
 
       **Frigidaire Retro Bar Fridge Refrigerator with Side Bottle Opener**
@@ -143,7 +143,7 @@ sections:
       →
 
 
-      The full monty
+      ##### The full monty
 
 
       **Procool Refrigeration 3-door Glass Front Stainless Steel Back Bar
