@@ -22,7 +22,7 @@ sections:
     background_image_position: left bottom
     title: Welcome to GarBar Nation
     video_embed_html: >-
-      <iframe width="800" height="540"
+      <iframe width="700" height="540"
 
       src="https://www.youtube.com/embed/G1yqdOJXo0U?&autoplay=1"frameborder="0" 
 
