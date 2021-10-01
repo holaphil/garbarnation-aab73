@@ -31,6 +31,36 @@ sections:
     type: features_section
     background_image: /images/post-header-test-image.jpg
     section_id: hero
+  - section_id: podcast
+    actions: []
+    image_alt: lorem-ipsum
+    video_embed_html: >-
+      <iframe width="100%" height="300" scrolling="no" frameborder="no"
+      allow="autoplay"
+      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1112227564&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div
+      style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break:
+      normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;
+      font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida
+      Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a
+      href="https://soundcloud.com/garbarnation" title="GarBar Nation"
+      target="_blank" style="color: #cccccc; text-decoration: none;">GarBar
+      Nation</a> · <a href="https://soundcloud.com/garbarnation/gartalk-ep-001"
+      title="Gartalk Ep 001 - Joe Melvin &#x27;Sloppy Joes&#x27; GarBar in
+      Maplewood, NJ" target="_blank" style="color: #cccccc; text-decoration:
+      none;">Gartalk Ep 001 - Joe Melvin &#x27;Sloppy Joes&#x27; GarBar in
+      Maplewood, NJ</a></div>
+    media_position: top
+    media_width: fifty
+    align: left
+    padding_top: medium
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
   - section_id: more
     content: >
       ### But back to tipping…
@@ -77,36 +107,6 @@ sections:
     padding_bottom: none
     has_border: true
     background_color: secondary
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-  - section_id: podcast
-    actions: []
-    image_alt: lorem-ipsum
-    video_embed_html: >-
-      <iframe width="100%" height="300" scrolling="no" frameborder="no"
-      allow="autoplay"
-      src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1112227564&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div
-      style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break:
-      normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;
-      font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida
-      Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a
-      href="https://soundcloud.com/garbarnation" title="GarBar Nation"
-      target="_blank" style="color: #cccccc; text-decoration: none;">GarBar
-      Nation</a> · <a href="https://soundcloud.com/garbarnation/gartalk-ep-001"
-      title="Gartalk Ep 001 - Joe Melvin &#x27;Sloppy Joes&#x27; GarBar in
-      Maplewood, NJ" target="_blank" style="color: #cccccc; text-decoration:
-      none;">Gartalk Ep 001 - Joe Melvin &#x27;Sloppy Joes&#x27; GarBar in
-      Maplewood, NJ</a></div>
-    media_position: top
-    media_width: fifty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
     background_image_opacity: 0
     background_image_size: cover
     background_image_position: center center
