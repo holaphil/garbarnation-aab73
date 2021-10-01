@@ -160,7 +160,7 @@ seo:
       keyName: property
       relativeUrl: true
     - name: 'og:title'
-      value: The Bar Fridge – Your Essential Guide
+      value: The unwritten rules of tipping
       keyName: property
       relativeUrl: false
     - name: 'twitter:image'
