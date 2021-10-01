@@ -21,7 +21,7 @@ sections:
           glass-door ones, doubles, triples and pretty much any color or design
           you can imagine.
     feature_padding_vert: small
-    align: right
+    align: center
     padding_top: large
     padding_bottom: medium
     has_border: true
