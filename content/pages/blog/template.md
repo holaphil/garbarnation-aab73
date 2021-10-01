@@ -41,7 +41,7 @@ sections:
     type: features_section
     background_image: /images/post-header-test-image.jpg
     section_id: hero
-  - section_id: lorem-ipsum
+  - section_id: more
     content: >
       ### Here are a few things to consider…
 
