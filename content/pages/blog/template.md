@@ -9,6 +9,17 @@ sections:
         media_position: top
         media_width: fifty
         align: left
+        content: >
+          **Maybe a kegerator is for you, maybe it’s not** – it can depend on
+          how keen you are to drink the same beer for a week or more (depending
+          on the size of the keg and how many/few friends you have!). Having a
+          beer/wine fridge is not really an option, it’s a necessity for any
+          garage bar. If you think a beer fridge is merely a mini-fridge, think
+          again—there are fridges that lock (great to keep the kids out) and
+          fridges that chill to specific temperatures that can adjust to match
+          the beer inside. There are large ones, small ones, tall ones,
+          glass-door ones, doubles, triples and pretty much any color or design
+          you can imagine.
     feature_padding_vert: small
     align: center
     padding_top: large
