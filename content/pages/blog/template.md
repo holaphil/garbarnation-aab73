@@ -16,7 +16,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
     background_image: /images/post-header-test-image.jpg
-    section_id: template
+    section_id: hero
   - section_id: lorem-ipsum
     content: >
       **Maybe a kegerator is for you, maybe it’s not** – it can depend on how
