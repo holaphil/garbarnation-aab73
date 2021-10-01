@@ -156,7 +156,7 @@ seo:
   robots: []
   extra:
     - name: 'og:image'
-      value: /images/post-header-test-image.jpg
+      value: /images/editorial-post-hero-tipping.jpg
       keyName: property
       relativeUrl: true
     - name: 'og:title'
