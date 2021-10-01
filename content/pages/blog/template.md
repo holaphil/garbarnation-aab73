@@ -4,8 +4,7 @@ sections:
   - title: The bar fridge
     subtitle: Your Essential Guide
     features:
-      - subtitle: lorem-ipsum
-        actions: []
+      - actions: []
         image_alt: lorem-ipsum
         media_position: top
         media_width: fifty
