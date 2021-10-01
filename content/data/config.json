@@ -175,7 +175,7 @@
         "links": [
             {
                 "label": "https://www.stackbit.com/",
-                "url": "#",
+                "url": "https://www.stackbit.com/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
