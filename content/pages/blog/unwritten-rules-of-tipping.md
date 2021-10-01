@@ -17,17 +17,7 @@ sections:
         media_position: top
         media_width: fifty
         align: left
-        content: >
-          **Maybe a kegerator is for you, maybe it’s not** – it can depend on
-          how keen you are to drink the same beer for a week or more (depending
-          on the size of the keg and how many/few friends you have!). Having a
-          beer/wine fridge is not really an option, it’s a necessity for any
-          garage bar. If you think a beer fridge is merely a mini-fridge, think
-          again—there are fridges that lock (great to keep the kids out) and
-          fridges that chill to specific temperatures that can adjust to match
-          the beer inside. There are large ones, small ones, tall ones,
-          glass-door ones, doubles, triples and pretty much any color or design
-          you can imagine.
+        content: "If your friends invited you to dinner, would you turn up empty handed? If your kids (or you) were invited to a birthday party, would you show up without a gift or a card? If you answered yes to either of those, then owning a garage bar might not be for you!\n\n\_Garage bars are personal spaces that are usually built to hang out with friends and family, not as a way to make money. If you want to make money (rather than spend it on anything from neon signs to kegerators), then maybe buy or invest in a bar or a business. To be completely upfront and honest here, a garage bar is a sure fire way to lose money… well, it’s not lost, it’s spent on entertaining and hanging out.\n"
     feature_padding_vert: small
     align: center
     padding_top: large
