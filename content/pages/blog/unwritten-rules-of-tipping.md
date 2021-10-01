@@ -189,6 +189,10 @@ seo:
       value: summary_large_image
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
