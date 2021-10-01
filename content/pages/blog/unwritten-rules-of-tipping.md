@@ -164,7 +164,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:image'
-      value: /images/post-header-test-image.jpg
+      value: /images/editorial-post-bar-fridge.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:title'
