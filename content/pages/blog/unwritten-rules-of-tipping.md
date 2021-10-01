@@ -136,7 +136,7 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
 seo:
-  title: The Bar Fridge – Your Essential Guide
+  title: The unwritten rules of tipping
   description: >-
     Having a beer and wine fridge is not really an option for your GarBar, it’s
     a necessity. Here are a few things to consider before you make that final
