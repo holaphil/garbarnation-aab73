@@ -105,7 +105,7 @@ sections:
     type: hero_section
   - section_id: Frigidaire
     title: Bar Fridge Recommendations
-    subtitle: GarBar Nation
+    subtitle: 'With that in mind, here are a couple of good choices…'
     actions: []
     grid_items:
       - title: Keep It Simple
