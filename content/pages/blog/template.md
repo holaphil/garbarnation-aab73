@@ -246,7 +246,7 @@ sections:
     show_date: false
     show_categories: false
     show_author: false
-    show_excerpt: false
+    show_excerpt: true
     show_image: true
     align: center
     padding_top: medium
