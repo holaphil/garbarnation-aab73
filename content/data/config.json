@@ -144,7 +144,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; 2021 <b>GarBar Nation</b>. All rights reserved. Developed using Stackbit",
+        "content": "&copy; 2021 <b>GarBar Nation</b>. All rights reserved. Developed using <a href=\"Stackbit",
         "tertiary_nav_links": [
             {
                 "label": "Terms & Conditions",
