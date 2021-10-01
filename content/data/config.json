@@ -174,7 +174,7 @@
         "tertiary_nav_title": "Other Stuff",
         "links": [
             {
-                "label": "https://www.stackbit.com/",
+                "label": "Stackbit.com",
                 "url": "https://www.stackbit.com/",
                 "style": "link",
                 "has_icon": false,
