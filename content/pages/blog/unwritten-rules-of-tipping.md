@@ -151,9 +151,8 @@ sections:
 seo:
   title: The unwritten rules of tipping
   description: >-
-    Having a beer and wine fridge is not really an option for your GarBar, it’s
-    a necessity. Here are a few things to consider before you make that final
-    purchase.
+    Bring nothing once and you may get a pass, bring nothing twice and you won’t
+    get invited back. Check out GarBar Nation's unwritten rules for tipping.
   robots: []
   extra:
     - name: 'og:image'
