@@ -3,7 +3,7 @@ title: lorem-ipsum
 sections:
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: GarBar Nation
     actions: []
     blog_feed_cols: three
     enable_cards: true
