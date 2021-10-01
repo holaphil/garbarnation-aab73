@@ -6,7 +6,7 @@ sections:
     features:
       - actions:
           - label: Read More
-            url: '#'
+            url: '#more'
             style: secondary
             has_icon: false
             icon: arrow-left
