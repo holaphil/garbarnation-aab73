@@ -174,7 +174,7 @@
         "tertiary_nav_title": "Other Stuff",
         "links": [
             {
-                "label": "lorem-ipsum",
+                "label": "https://www.stackbit.com/",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
