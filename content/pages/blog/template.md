@@ -86,9 +86,6 @@ sections:
       matter. Some beverage fridges come with dual temperature zones to make it
       even easier to properly house your entire line of beverages – a good
       choice to keep your regulars happy.
-
-
-      With that in mind, here are a couple of good choices…
     actions: []
     image_alt: lorem-ipsum
     media_position: top
