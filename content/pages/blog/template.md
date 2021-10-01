@@ -7,7 +7,7 @@ sections:
       - actions:
           - label: Read More
             url: '#more'
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
