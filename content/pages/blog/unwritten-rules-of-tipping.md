@@ -106,7 +106,6 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
