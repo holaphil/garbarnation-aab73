@@ -2,7 +2,7 @@
 title: GarBar Nation Blog
 sections:
   - title: The unwritten rules of tipping
-    subtitle: Your Essential Guide
+    subtitle: How To Guides
     features:
       - actions:
           - label: Continue Reading...
