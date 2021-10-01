@@ -7,7 +7,7 @@ sections:
     actions: []
     blog_feed_cols: three
     enable_cards: true
-    show_recent: true
+    show_recent: false
     recent_count: 3
     show_date: false
     show_categories: true
