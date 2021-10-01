@@ -152,7 +152,7 @@ seo:
   title: The unwritten rules of tipping
   description: >-
     Bring nothing once and you may get a pass, bring nothing twice and you won’t
-    get invited back. Check out GarBar Nation's unwritten rules for tipping.
+    get invited back. Check out GarBar Nation's unwritten rules of tipping.
   robots: []
   extra:
     - name: 'og:image'
