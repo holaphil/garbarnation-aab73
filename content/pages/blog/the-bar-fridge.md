@@ -39,7 +39,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: features_section
-    background_image: /images/post-header-test-image.jpg
+    background_image: /images/editorial-post-bar-fridge.jpg
     section_id: hero
   - section_id: more
     content: >
