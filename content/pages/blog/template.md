@@ -5,7 +5,7 @@ sections:
     subtitle: Your Essential Guide
     features:
       - actions:
-          - label: 'Continue '
+          - label: Continue Reading
             url: '#more'
             style: primary
             has_icon: false
