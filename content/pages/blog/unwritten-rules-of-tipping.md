@@ -46,26 +46,28 @@ sections:
       next time you’re at the liquor store. It’s a conversation starter if
       nothing else. I mean who else is going to care about the IPA you bought
       over? The one that’s quadruple-filtered, with burnt tree oak and
-      elderberry aromas and mixed with dry wheat chaff ! 
+      elderberry aromas and mixed with dry wheat chaff !
 
 
-      It’s a form of payment, but also a right of passage. 
+      It’s a form of payment, but also a right of passage.
 
 
-      > Bring nothing once and you may get a pass, bring nothing twice and you
-      won’t get invited back. 
+      Bring nothing once and you may get a pass, bring nothing twice and you
+      won’t get invited back.
 
 
       The owner of a garage bar isn’t here to feed your drinking habit. They are
       there to hang out, enjoy your company and not to think about if you’re
-      going to drink everything in the place. Tip with excess alcohol,
-      especially as no-one carries cash anymore, and asking to pay or tip just
-      makes things awkward. If you drink a bottle of wine on average, bring 2.
-      If you drink 4 of a 6-pack, leave 2. It’s also a way to tip the bartender
-      with some supplies for the bar. And again, it’s a conversation starter.
-      The next guest may ask who hated you so much to leave that shitty IPA, or
-      you can play the guessing game as to which ‘friend’ left you a solitary
-      Coors Light!
+      going to drink everything in the place. 
+
+
+      Tip with excess alcohol, especially as no-one carries cash anymore, and
+      asking to pay or tip just makes things awkward. If you drink a bottle of
+      wine on average, bring 2. If you drink 4 of a 6-pack, leave 2. It’s also a
+      way to tip the bartender with some supplies for the bar. And again, it’s a
+      conversation starter. The next guest may ask who hated you so much to
+      leave that shitty IPA, or you can play the guessing game as to which
+      ‘friend’ left you a solitary Coors Light!
     actions: []
     image_alt: lorem-ipsum
     media_position: top
