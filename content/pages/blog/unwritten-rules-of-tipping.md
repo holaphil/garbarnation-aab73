@@ -1,7 +1,7 @@
 ---
 title: GarBar Nation Blog
 sections:
-  - title: The bar fridge
+  - title: The unwritten rule of tipping
     subtitle: Your Essential Guide
     features:
       - actions:
