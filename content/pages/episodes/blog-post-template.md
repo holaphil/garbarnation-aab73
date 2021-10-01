@@ -15,7 +15,7 @@ excerpt: >-
   the perfect location for a beer or two.
 thumb_image_alt: 'GarBar owner Brian Smitty Krupkin in Maplewood, NJ'
 image_alt: 'GarBar owner Brian Smitty Krumpkin in Maplewood, NJ'
-image_position: right
+image_position: top
 episode_embed_html: >-
   <div class="video-container"><iframe width="560" height="315"
   src="https://www.youtube.com/embed/Ve2-lWHODJI?rel=0" title="YouTube video
