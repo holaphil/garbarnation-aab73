@@ -22,7 +22,7 @@ sections:
           you can imagine.
     feature_padding_vert: small
     align: center
-    padding_top: small
+    padding_top: medium
     padding_bottom: medium
     has_border: true
     background_color: secondary
