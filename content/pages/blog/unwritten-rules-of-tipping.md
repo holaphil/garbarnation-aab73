@@ -33,57 +33,39 @@ sections:
     section_id: hero
   - section_id: more
     content: >
-      ### Here are a few things to consider…
+      ### But back to tipping…
 
 
-      ##### Size
+      Your garage bar isn’t a business, it’s not a venue that’s licensed to sell
+      alcohol. It’s part of your house, and in the same way that you’d hope a
+      guest would bring a bottle of wine or a 6-pack over for dinner, you should
+      expect a guest to the bar will bring something with them. If you’re going
+      to a garage bar, the same applies. Take that new IPA that you’ll never
+      find again, but is really good. Invest in a bottle of tequila that you
+      really liked when you were last on vacation, or just grab a case of beer
+      next time you’re at the liquor store. It’s a conversation starter if
+      nothing else. I mean who else is going to care about the IPA you bought
+      over? The one that’s quadruple-filtered, with burnt tree oak and
+      elderberry aromas and mixed with dry wheat chaff ! 
 
 
-      It all depends on what you’re looking for and what space you have to work
-      with. One rule of thumb when considering size is to think of what beers
-      you like. If you prefer cans, opt for a shelving situation designed for
-      storing your beers. Keep in mind that some craft beers, hard seltzers and
-      mixers come in different sized cans/bottles, so it’s helpful if the layout
-      inside the fridge is adjustable. If you’re a wine drinker, make sure the
-      fridge comes with removable shelves, or has a separate section for wine
-      bottles.
+      It’s a form of payment, but also a right of passage. 
 
 
-      ##### Look
+      > Bring nothing once and you may get a pass, bring nothing twice and you
+      won’t get invited back. 
 
 
-      Having a glass door on the fridge is great to show people what you have in
-      your bar. It usually ups the price a little, but will give your space more
-      of a bar feel.
-
-
-      ##### Reversible Doors
-
-
-      Details matter, so make sure a single-door beverage cooler has a
-      reversible door to install the handle on either the left or right side.
-      This will allow you to save space and make sure your unit functions
-      exactly as it should within your space.
-
-
-      ##### Noise
-
-
-      You will want a fridge that won’t disrupt your conversations or interfere
-      with the game on the  TV. The more industrial, larger fridges make more
-      noise, and are probably unnecessary unless you have a huge space.
-
-
-      ##### Temperature
-
-
-      When it comes to proper storage and taste preservation, temperature plays
-      a key role in protecting your collection. Think about what you drink most
-      – the recommended serving temperature for stouts is 50 to 55 degrees, pale
-      ales at 45 to 55 degrees, and lagers at between 40 to 45 – so it does
-      matter. Some beverage fridges come with dual temperature zones to make it
-      even easier to properly house your entire line of beverages – a good
-      choice to keep your regulars happy.
+      The owner of a garage bar isn’t here to feed your drinking habit. They are
+      there to hang out, enjoy your company and not to think about if you’re
+      going to drink everything in the place. Tip with excess alcohol,
+      especially as no-one carries cash anymore, and asking to pay or tip just
+      makes things awkward. If you drink a bottle of wine on average, bring 2.
+      If you drink 4 of a 6-pack, leave 2. It’s also a way to tip the bartender
+      with some supplies for the bar. And again, it’s a conversation starter.
+      The next guest may ask who hated you so much to leave that shitty IPA, or
+      you can play the guessing game as to which ‘friend’ left you a solitary
+      Coors Light!
     actions: []
     image_alt: lorem-ipsum
     media_position: top
