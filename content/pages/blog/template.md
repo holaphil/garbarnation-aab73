@@ -244,7 +244,7 @@ sections:
     show_recent: false
     recent_count: 0
     show_date: false
-    show_categories: false
+    show_categories: true
     show_author: false
     show_excerpt: true
     show_image: true
