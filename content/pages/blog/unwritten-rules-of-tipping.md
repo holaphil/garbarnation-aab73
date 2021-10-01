@@ -106,7 +106,6 @@ sections:
     background_image_repeat: no-repeat
     type: blog_feed_section
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
