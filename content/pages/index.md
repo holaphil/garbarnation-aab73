@@ -6,7 +6,7 @@ sections:
       Spotlighting garage bar (#GarBar) renovations across the nation. Move your
       car, build a bar!
     actions:
-      - label: lorem-ipsum
+      - label: WATCH THE SHOW
         url: '#'
         style: link
         has_icon: false
