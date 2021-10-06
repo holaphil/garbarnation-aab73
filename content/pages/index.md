@@ -6,7 +6,7 @@ sections:
       - label: Listen to GarTalk Podcast
         url: '#'
         style: primary
-        has_icon: true
+        has_icon: false
         icon: arrow-left
         icon_position: left
         new_window: false
