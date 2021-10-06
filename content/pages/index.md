@@ -3,7 +3,7 @@ title: GarBar Nation
 sections:
   - type: hero_section
     actions:
-      - label: WATCH THE SHOW
+      - label: Listen to Podcast
         url: '#'
         style: secondary
         has_icon: false
