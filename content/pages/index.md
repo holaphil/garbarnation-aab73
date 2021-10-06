@@ -2,9 +2,6 @@
 title: GarBar Nation
 sections:
   - type: hero_section
-    content: >
-      Spotlighting garage bar (#GarBar) renovations across the nation. Move your
-      car, build a bar!
     actions:
       - label: WATCH THE SHOW
         url: '#'
