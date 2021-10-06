@@ -11,7 +11,7 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false
-      - label: Check Out These GarBars
+      - label: View GarBars
         url: '#'
         style: primary
         has_icon: false
