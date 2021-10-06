@@ -12,7 +12,7 @@ sections:
         new_window: false
         no_follow: false
       - label: View The GarBars
-        url: '#'
+        url: /episodes/
         style: primary
         has_icon: false
         icon: arrow-left
