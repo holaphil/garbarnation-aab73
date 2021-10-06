@@ -11,7 +11,7 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: 'View '
         url: '#'
         style: link
         has_icon: false
