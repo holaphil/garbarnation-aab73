@@ -11,7 +11,7 @@ sections:
         icon_position: left
         new_window: false
         no_follow: false
-      - label: Tour These GarBars
+      - label: Take a GarBars
         url: /episodes/
         style: primary
         has_icon: false
