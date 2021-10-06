@@ -33,7 +33,7 @@ sections:
     has_border: false
     background_image: /images/hero-background-test.png
     background_image_position: left bottom
-    title: Welcome to GarBar Nation
+    title: Listen to Podcast
     subtitle: >-
       Spotlighting garage bar (#GarBar) renovations across the nation. Move your
       car, build a bar!
