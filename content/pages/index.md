@@ -35,7 +35,7 @@ sections:
     background_image_position: left bottom
     title: Welcome to GarBar Nation
   - type: blog_feed_section
-    title: Our Latest Episodes
+    title: Latest GarBars
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
