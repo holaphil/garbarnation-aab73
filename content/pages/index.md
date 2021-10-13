@@ -80,7 +80,7 @@ sections:
         image_align: center
         image_has_padding: true
       - title: Apple
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
