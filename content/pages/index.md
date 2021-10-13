@@ -78,7 +78,7 @@ sections:
         image_alt: Spotify icon
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
       - title: Apple
         title_align: center
         content_align: center
