@@ -3,19 +3,19 @@ title: GarBar Nation
 sections:
   - type: hero_section
     actions:
-      - label: Listen to GarTalk Podcast
-        url: '#'
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
       - label: Watch GarBar Videos
         url: /episodes/
         style: primary
         has_icon: true
         icon: youtube
+        icon_position: left
+        new_window: false
+        no_follow: false
+      - label: Listen to GarTalk Podcast
+        url: '#'
+        style: primary
+        has_icon: false
+        icon: arrow-left
         icon_position: left
         new_window: false
         no_follow: false
