@@ -91,7 +91,7 @@ sections:
             icon_position: right
             new_window: false
             no_follow: true
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
