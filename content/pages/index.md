@@ -83,7 +83,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Coming Soon
             url: '#'
             style: link
             has_icon: false
