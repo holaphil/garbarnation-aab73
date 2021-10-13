@@ -61,24 +61,6 @@ sections:
   - type: grid_section
     title: Tune into GarTalk
     grid_items:
-      - title: Apple Podcasts
-        title_align: center
-        content_align: center
-        actions:
-          - label: Tune In
-            url: >-
-              https://open.spotify.com/show/08kNlmCWZyvevIvdTWuCxo?si=XEJb_o40S-mtEq2veLSzZA&dl_branch=1
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: true
-        actions_align: center
-        image: images/icon-1.svg
-        image_alt: Apple Podcasts icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
       - title: Spotify
         title_align: center
         content_align: center
