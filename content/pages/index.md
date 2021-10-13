@@ -79,7 +79,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-      - title: lorem-ipsum
+      - title: Apple
         subtitle: lorem-ipsum
         title_align: left
         content: >-
