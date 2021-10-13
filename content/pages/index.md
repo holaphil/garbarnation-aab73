@@ -83,7 +83,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     enable_cards: false
-    align: center
+    align: right
     padding_top: large
     padding_bottom: large
     has_border: true
