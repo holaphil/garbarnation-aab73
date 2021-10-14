@@ -9,6 +9,8 @@ sections:
     padding_bottom: none
     background_color: none
     has_border: false
+    content: |
+      Learn from ![](/images/gartalk-sm.png)
   - type: grid_section
     grid_items:
       - title: Spotify
