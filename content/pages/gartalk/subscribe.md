@@ -35,7 +35,7 @@ sections:
         actions:
           - label: Coming Soon!
             url: '#'
-            style: secondary
+            style: primary
             has_icon: false
             icon: arrow-right
             icon_position: right
