@@ -18,7 +18,7 @@ sections:
           - label: Tune In
             url: >-
               https://open.spotify.com/show/08kNlmCWZyvevIvdTWuCxo?si=XEJb_o40S-mtEq2veLSzZA&dl_branch=1
-            style: secondary
+            style: primary
             has_icon: true
             icon: arrow-right
             icon_position: right
