@@ -11,23 +11,6 @@ sections:
     has_border: false
   - type: grid_section
     grid_items:
-      - title: Apple Podcasts
-        title_align: center
-        content_align: center
-        actions:
-          - label: Coming Soon!
-            url: '#'
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-            new_window: true
-        actions_align: center
-        image: images/icon-1.svg
-        image_alt: Apple Podcasts icon
-        image_position: top
-        image_align: center
-        image_has_padding: true
       - title: Spotify
         title_align: center
         content_align: center
@@ -43,6 +26,23 @@ sections:
         actions_align: center
         image: images/icon-2.svg
         image_alt: Spotify icon
+        image_position: top
+        image_align: center
+        image_has_padding: true
+      - title: Apple Podcasts
+        title_align: center
+        content_align: center
+        actions:
+          - label: Coming Soon!
+            url: '#'
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+            new_window: true
+        actions_align: center
+        image: images/icon-1.svg
+        image_alt: Apple Podcasts icon
         image_position: top
         image_align: center
         image_has_padding: true
