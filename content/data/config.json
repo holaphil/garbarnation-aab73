@@ -80,7 +80,7 @@
             },
             {
                 "label": "GarTalk Podcast",
-                "url": "/subscribe",
+                "url": "/gartalk/subscribe/",
                 "style": "link"
             }
         ],
