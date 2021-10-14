@@ -12,7 +12,7 @@ sections:
         new_window: false
         no_follow: false
       - label: Listen to GarTalk Podcast
-        url: '#'
+        url: /gartalk/subscribe/
         style: primary
         has_icon: true
         icon: arrow-right
