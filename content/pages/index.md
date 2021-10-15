@@ -35,8 +35,8 @@ sections:
     background_image_position: left bottom
     title: Welcome to GarBar Nation
     subtitle: >-
-      Spotlighting garage bar (#GarBar) renovations across the nation. Move your
-      car, build a bar!
+      Spotlighting garage bar (#GarBar) renovations across the nation. <BR>Move
+      your car, build a bar!
   - type: blog_feed_section
     title: Latest GarBars
     blog_feed_cols: three
