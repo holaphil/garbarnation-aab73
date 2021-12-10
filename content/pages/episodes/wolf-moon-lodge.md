@@ -42,7 +42,7 @@ seo:
         in progress.
       keyName: property
     - name: 'og:image'
-      value: /images/garbar-lebar-2.jpg
+      value: /images/garbar-wolf-moon-lodge-3.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
