@@ -48,7 +48,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Maplewood GarBar owner Mike Hastings tour of Le Bar
+      value: Maplewood GarBar owner Amy Biasucci tour of Wolf Moon Lodge
     - name: 'twitter:description'
       value: >-
         GarBar Nation sits down with "Le Bar" owner Mike Hastings. Located in
