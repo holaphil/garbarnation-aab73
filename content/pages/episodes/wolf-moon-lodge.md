@@ -60,7 +60,7 @@ seo:
       relativeUrl: true
 '': lorem-ipsum
 layout: post
-thumb_image: /images/garbar-lebar-2.jpg
+thumb_image: /images/garbar-wolf-moon-lodge-2.png
 image: /images/garbar-wolf-moon-lodge-2.png
 ---
 In the midst of a pandemic in 2020, **Amy Biasucci **decided to transform her garage into a recreational room for her kids. What began as a simple project, grew into a magical GarBar retreat called the **Wolf Moon Lodge**. Today, Amy's converted garage is a place for family and friends to gather in celebration of the music and art they love. Take a tour and witness Amy's homage to the independent art and artists that helped inspire such a wonderful sanctuary, proving yet again that a garage is no place for a car!
