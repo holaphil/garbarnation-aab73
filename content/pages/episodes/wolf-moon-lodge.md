@@ -14,7 +14,7 @@ tags:
 excerpt: >-
   Amy Biasucci's GarBar is a place for family and friends to gather in
   celebration of the music and art they love.
-thumb_image_alt: 'GarBar owner Amy Biasucci in Maplewood, NJ'
+thumb_image_alt: 'Wolf Moon Lodge GarBar owner Amy Biasucci in Maplewood, NJ'
 image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
 image_position: right
 episode_embed_html: >-
