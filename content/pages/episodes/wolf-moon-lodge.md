@@ -9,6 +9,7 @@ categories:
   - content/data/categories/category-exqrka1zy.json
 tags:
   - content/data/tags/tag-rmyeos2cc.json
+  - content/data/tags/tag-zv0d1dccu.json
 excerpt: >-
   Great memorabilia with a sports bar vibe, Mike Hastings Le Bar is a great
   example of a work in progress.
