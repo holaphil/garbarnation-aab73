@@ -25,10 +25,7 @@ episode_embed_html: >-
   allowfullscreen></iframe></div>
 seo:
   title: Maplewood GarBar owner Amy Biasucci tour of Wolf Moon Lodge
-  description: >-
-    GarBar Nation sits down with "Le Bar" owner Mike Hastings. Located in
-    Maplewood, NJ, Le Bar's sports bar vibe is a great example of a GarBar in
-    progress.
+  description: 'Located in Maplewood, NJ, Wolf Moon Lodge'
   extra:
     - name: 'og:type'
       value: article
