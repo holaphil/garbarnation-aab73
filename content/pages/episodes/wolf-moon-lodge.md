@@ -1,8 +1,8 @@
 ---
 title: Wolf Moon Lodge
 subtitle: >-
-  A casual garage bar with great memorabilia, Le Bar is a great example of a
-  work in progress.
+  Take a tour and witness Amy's homage to the independent art and artists that
+  helped inspire such a wonderful sanctuary.
 date: '2021-09-04'
 categories:
   - content/data/categories/season-1.yaml
