@@ -2,7 +2,7 @@
 title: Wolf Moon Lodge
 subtitle: >-
   Take a tour and witness Amy's homage to the independent art and artists that
-  helped inspire such a wonderful sanctuary.
+  helped inspire this wonderful GarBar sanctuary.
 date: '2021-12-10'
 categories:
   - content/data/categories/season-1.yaml
