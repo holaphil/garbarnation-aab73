@@ -12,8 +12,8 @@ tags:
   - content/data/tags/tag-zv0d1dccu.json
   - content/data/tags/tag-pf4xrx6r0.json
 excerpt: >-
-  An homage to the independent art and artists that helped inspire this
-  wonderful GarBar sanctuary.
+  A place for family and friends to gather in celebration of the music and art
+  they love.
 thumb_image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
 image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
 image_position: right
