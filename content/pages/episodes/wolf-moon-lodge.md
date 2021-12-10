@@ -1,5 +1,5 @@
 ---
-title: Le bar
+title: Wolf Moon Lodge
 subtitle: >-
   A casual garage bar with great memorabilia, Le Bar is a great example of a
   work in progress.
