@@ -62,6 +62,5 @@ layout: post
 thumb_image: /images/garbar-lebar-2.jpg
 image: /images/garbar-wolf-moon-lodge-2.png
 ---
-If you're a Formula One or Buffalo Sabres fan, the simple, sports bar vibe of Le Bar is the garage bar for you. It's worth a visit for the hockey horn app, which has to be seen (and heard) to be believed. A casual garage bar (GarBar) with great memorabilia, Le Bar is a great example of a work in progress.
+In the midst of a pandemic in 2020, **Amy Biasucci **decided to transform her garage into a recreational room for her kids. What began as a simple project, grew into a magical GarBar retreat called the **Wolf Moon Lodge**. Today, Amy's converted garage is a place for family and friends to gather in celebration of the music and art they love. Take a tour and witness Amy's homage to the independent art and artists that helped inspire such a wonderful sanctuary, proving yet again that a garage is no place for a car!
 
-[**Click here to view before and after photos of Le Bar in Maplewood, NJ**](/episodes/episode-3/media)
