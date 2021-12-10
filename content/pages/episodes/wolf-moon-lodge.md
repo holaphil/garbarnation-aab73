@@ -33,7 +33,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Maplewood GarBar owner Mike Hastings video tour of Le Bar
+      value: Maplewood GarBar owner Amy Biasucci tour of Wolf Moon Lodge
       keyName: property
     - name: 'og:description'
       value: >-
