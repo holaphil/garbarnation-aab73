@@ -12,8 +12,8 @@ tags:
   - content/data/tags/tag-zv0d1dccu.json
   - content/data/tags/tag-pf4xrx6r0.json
 excerpt: >-
-  Great memorabilia with a sports bar vibe, Mike Hastings Le Bar is a great
-  example of a work in progress.
+  An homage to the independent art and artists that helped inspire this
+  wonderful GarBar sanctuary.
 thumb_image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
 image_alt: 'GarBar owner Mike Hastings in Maplewood, NJ'
 image_position: right
