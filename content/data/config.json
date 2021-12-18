@@ -112,8 +112,8 @@
                 "style": "link"
             },
             {
-                "label": "Press & Media",
-                "url": "/press",
+                "label": "Contact",
+                "url": "#",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -122,8 +122,8 @@
                 "no_follow": false
             },
             {
-                "label": "Contact",
-                "url": "#",
+                "label": "Press & Media",
+                "url": "/press",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
