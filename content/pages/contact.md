@@ -7,8 +7,8 @@ seo:
   extra: []
 layout: page
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
+We're easy to find!
+
 > Vestibulum ullamcorper risus auctor eleifend consequat.
 
 ![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
