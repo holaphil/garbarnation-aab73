@@ -60,7 +60,7 @@
                 "url": "https://www.tiktok.com/@garbarnation",
                 "style": "link",
                 "has_icon": true,
-                "icon": "arrow-right",
+                "icon": "arrow-left",
                 "new_window": true,
                 "icon_position": "right"
             },
