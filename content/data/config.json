@@ -65,7 +65,7 @@
                 "icon_position": "right"
             },
             {
-                "label": "Videos on YouTube",
+                "label": "YouTube",
                 "url": "https://www.youtube.com/channel/UCRBsUdGcb6aiYdnNkoES2hA",
                 "style": "primary",
                 "has_icon": true,
