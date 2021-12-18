@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Let's Talk!
 seo:
   title: ''
   description: ''
