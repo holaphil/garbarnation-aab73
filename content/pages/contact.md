@@ -1,5 +1,5 @@
 ---
-title: Let's Talk!
+title: 'Call all bars, calling all bars'
 seo:
   title: ''
   description: ''
