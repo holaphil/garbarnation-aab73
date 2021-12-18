@@ -94,16 +94,6 @@
                 "style": "link"
             },
             {
-                "label": "TikTok",
-                "url": "https://www.tiktok.com/@garbarnation",
-                "style": "link",
-                "has_icon": true,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
                 "label": "Instagram",
                 "url": "https://instagram.com/garbarnation",
                 "style": "link",
