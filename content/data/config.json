@@ -62,7 +62,7 @@
                 "has_icon": true,
                 "icon": "arrow-right",
                 "new_window": true,
-                "icon_position": "left"
+                "icon_position": "right"
             },
             {
                 "label": "YouTube",
