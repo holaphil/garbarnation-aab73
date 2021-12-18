@@ -58,7 +58,7 @@
             {
                 "label": "TikTok",
                 "url": "https://www.facebook.com/groups/765570373491523",
-                "style": "primary",
+                "style": "secondary",
                 "has_icon": true,
                 "icon": "arrow-left",
                 "new_window": true,
