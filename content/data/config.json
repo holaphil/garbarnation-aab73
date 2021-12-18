@@ -92,16 +92,6 @@
                 "label": "GarTalk Podcast",
                 "url": "/gartalk/subscribe/",
                 "style": "link"
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/groups/765570373491523",
-                "style": "link",
-                "has_icon": true,
-                "icon": "facebook",
-                "icon_position": "right",
-                "new_window": true,
-                "no_follow": false
             }
         ],
         "has_secondary_nav": true,
