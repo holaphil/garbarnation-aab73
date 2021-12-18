@@ -1,5 +1,5 @@
 ---
-title: Contact Us
+title: Contact
 seo:
   title: ''
   description: ''
