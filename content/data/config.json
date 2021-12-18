@@ -60,7 +60,7 @@
                 "url": "https://www.facebook.com/groups/765570373491523",
                 "style": "primary",
                 "has_icon": true,
-                "icon": "facebook",
+                "icon": "arrow-left",
                 "new_window": true,
                 "icon_position": "left"
             },
