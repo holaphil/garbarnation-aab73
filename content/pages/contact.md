@@ -1,5 +1,5 @@
 ---
-title: 'Call all bars, calling all bars'
+title: Contact
 seo:
   title: ''
   description: ''
