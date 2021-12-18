@@ -11,7 +11,7 @@ We're easy to find!
 
 > Vestibulum ullamcorper risus auctor eleifend consequat.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)![](/images/contact-us.jpg)
+![](/images/contact-us.jpg)
 
 ![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
 
