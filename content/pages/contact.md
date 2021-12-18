@@ -8,8 +8,6 @@ seo:
 layout: page
 ---
 Email: garbarnation \[at] thegarbar.com
-
-
 Facebook Messenger: [m.me/garbarnation](m.me/garbarnation)
 
 ![](/images/contact-us.jpg)
