@@ -8,7 +8,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    recent_count: 4
+    recent_count: 3
     show_date: false
     show_categories: true
     show_author: false
@@ -24,6 +24,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    tag: content/data/tags/tag-20y4efrpq.json
 seo:
   title: ''
   description: ''
