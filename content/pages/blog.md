@@ -8,7 +8,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    recent_count: 3
+    recent_count: 4
     show_date: false
     show_categories: true
     show_author: false
