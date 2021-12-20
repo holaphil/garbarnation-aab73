@@ -33,6 +33,16 @@
                 "style": "link"
             },
             {
+                "label": "Education",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
                 "label": "Press",
                 "url": "/press",
                 "style": "link",
@@ -45,16 +55,6 @@
             {
                 "label": "Contact",
                 "url": "/contact",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false
-            },
-            {
-                "label": "Education",
-                "url": "#",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
