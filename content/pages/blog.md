@@ -24,6 +24,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
+    author: content/data/team/person-mirj9efyr.json
 seo:
   title: ''
   description: ''
