@@ -38,7 +38,7 @@ sections:
       Spotlighting garage bar (#GarBar) renovations across the nation.  Move
       your car, build a bar!
     video_embed_html: >-
-      <iframe width="560" height="315"
+      <iframe width="720" height="315"
 
       src="https://www.youtube.com/embed/G1yqdOJXo0U?&autoplay=1"frameborder="0" 
 
