@@ -40,9 +40,8 @@ sections:
     video_embed_html: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/G1yqdOJXo0U" title="YouTube video
-      player" frameborder="0" allow="accelerometer; &autoplay=1;
-      clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen></iframe>
+      player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   - type: blog_feed_section
     title: Latest GarBars
     blog_feed_cols: three
