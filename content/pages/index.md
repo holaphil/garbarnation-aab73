@@ -42,6 +42,10 @@ sections:
       src="https://www.youtube.com/embed/G1yqdOJXo0U?&autoplay=1" title="YouTube
       video player" frameborder="0" allow="accelerometer; autoplay;
       clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe><iframe width="720" height="405"
+
+      src="https://www.youtube.com/embed/G1yqdOJXo0U?&autoplay=1"frameborder="0" 
+
       allowfullscreen></iframe>
   - type: blog_feed_section
     title: Latest GarBars
