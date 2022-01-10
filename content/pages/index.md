@@ -39,9 +39,10 @@ sections:
       your car, build a bar!
     video_embed_html: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/G1yqdOJXo0U?autoplay=1" title="YouTube
-      video player" frameborder="0" allow="accelerometer; clipboard-write;
-      encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      src="https://www.youtube.com/embed/D6Ac5JpCHmI?&autoplay=1"frameborder="0" 
+
+      allowfullscreen></iframe>
   - type: blog_feed_section
     title: Latest GarBars
     blog_feed_cols: three
