@@ -27,8 +27,8 @@ episode_embed_html: >-
 seo:
   title: Maplewood Garage Bar owner John Garbarino tour of The GarBar
   description: >-
-    Learn how John turned this space into an iconic neighborhood watering hole
-    that set off a secret New Jersey bar scene.
+    Spotlighting garage to bar conversions (#GarBar) and renovations across the
+    nation. Move your car, build a bar!
   extra:
     - name: 'og:type'
       value: article
