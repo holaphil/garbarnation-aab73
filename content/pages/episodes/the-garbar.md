@@ -1,8 +1,6 @@
 ---
 title: The GarBar
-subtitle: >-
-  Take a tour and witness Amy's homage to the independent art and artists that
-  helped inspire this wonderful GarBar sanctuary.
+subtitle: Garbar details here.
 date: '2021-12-10'
 categories:
   - content/data/categories/season-1.yaml
