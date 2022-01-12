@@ -34,7 +34,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Maplewood GarBar owner Amy Biasucci tour of Wolf Moon Lodge
+      value: Maplewood Garage Bar owner John Garbarino tour of The GarBar
       keyName: property
     - name: 'og:description'
       value: >-
