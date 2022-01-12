@@ -61,5 +61,4 @@ layout: post
 thumb_image: /images/garbar-wolf-moon-lodge-3.png
 image: /images/garbar-thegarbar-1.jpg
 ---
-In the midst of a pandemic in 2020, **Amy Biasucci **decided to transform her garage into a recreational room for her kids. What began as a simple project, grew into a magical GarBar retreat called the **Wolf Moon Lodge**. Today, Amy's converted garage is a place for family and friends to gather in celebration of the music and art they love. Take a tour and witness Amy's homage to the independent art and artists that helped inspire such a wonderful sanctuary, proving yet again that a garage is no place for a car!
-
+Little did Garage Master John Garbarino know his garage (**The GarBar**) would start a movement. See how he turned the space into an iconic neighborhood watering hole that set off a secret New Jersey bar scene. This video was produced by LiftMaster as part of their new docuseries spotlighting people who are starting to reimagine how they use their garage. Videos featuring John's and other garage conversions can be viewed [here](https://view.ceros.com/thechamberlaingroup/garage-master/p/1).
