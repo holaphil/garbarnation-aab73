@@ -1,6 +1,9 @@
 ---
 title: The GarBar
-subtitle: Garbar details here.
+subtitle: >-
+  Little did Garage Master John Garbarino know his garage would start a
+  movement. See how he turned the space into an iconic neighborhood watering
+  hole that set off a secret New Jersey bar scene.
 date: '2021-12-10'
 categories:
   - content/data/categories/season-1.yaml
