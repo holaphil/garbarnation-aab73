@@ -42,7 +42,7 @@ seo:
         hole that set off a secret New Jersey bar scene.
       keyName: property
     - name: 'og:image'
-      value: /images/garbar-wolf-moon-lodge-3.png
+      value: /images/garbar-thegarbar-3.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
