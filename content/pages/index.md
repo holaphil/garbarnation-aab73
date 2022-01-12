@@ -62,7 +62,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 35
-    subtitle: Take a Tour
+    subtitle: Watch the videos!
     background_image: /images/AdobeStock_340935160-vert.png
   - type: grid_section
     title: Tune into GarTalk
