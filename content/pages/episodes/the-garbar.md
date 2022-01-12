@@ -11,6 +11,7 @@ categories:
 tags:
   - content/data/tags/tag-rmyeos2cc.json
   - content/data/tags/tag-pf4xrx6r0.json
+  - content/data/tags/tag-82axc7aw2.json
 excerpt: >-
   Amy Biasucci's GarBar is a place for family and friends to gather in
   celebration of the music and art they love.
