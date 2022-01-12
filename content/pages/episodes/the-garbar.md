@@ -48,7 +48,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Maplewood GarBar owner Amy Biasucci tour of Wolf Moon Lodge
+      value: Maplewood Garage Bar owner John Garbarino tour of The GarBar
     - name: 'twitter:description'
       value: >-
         Learn how John turned this space into an iconic neighborhood watering
