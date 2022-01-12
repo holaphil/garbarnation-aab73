@@ -1,5 +1,5 @@
 ---
-title: Wolf Moon Lodge
+title: The GarBar
 subtitle: >-
   Take a tour and witness Amy's homage to the independent art and artists that
   helped inspire this wonderful GarBar sanctuary.
