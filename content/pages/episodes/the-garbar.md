@@ -25,7 +25,7 @@ episode_embed_html: >-
   encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe></div>
 seo:
-  title: Maplewood GarBar owner Amy Biasucci tour of Wolf Moon Lodge
+  title: GarBar owner John Garbarino tour of The GarBar
   description: >-
     Located in Maplewood, NJ, Wolf Moon Lodge is a homage to the independent art
     and artists that helped inspire this wonderful GarBar sanctuary.
