@@ -10,7 +10,6 @@ categories:
   - content/data/categories/category-exqrka1zy.json
 tags:
   - content/data/tags/tag-rmyeos2cc.json
-  - content/data/tags/tag-zv0d1dccu.json
   - content/data/tags/tag-pf4xrx6r0.json
 excerpt: >-
   Amy Biasucci's GarBar is a place for family and friends to gather in
