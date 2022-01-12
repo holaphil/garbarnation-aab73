@@ -38,8 +38,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Located in Maplewood, NJ, Wolf Moon Lodge is a homage to the independent
-        art and artists that helped inspire this wonderful GarBar sanctuary.
+        Learn how John turned this space into an iconic neighborhood watering
+        hole that set off a secret New Jersey bar scene.
       keyName: property
     - name: 'og:image'
       value: /images/garbar-wolf-moon-lodge-3.png
