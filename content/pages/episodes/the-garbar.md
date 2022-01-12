@@ -26,7 +26,7 @@ episode_embed_html: >-
   allowfullscreen></iframe></div>
 seo:
   title: GarBar owner John Garbarino tour of The GarBar
-  description: >-
+  description: >
     Located in Maplewood, NJ, Wolf Moon Lodge is a homage to the independent art
     and artists that helped inspire this wonderful GarBar sanctuary.
   extra:
