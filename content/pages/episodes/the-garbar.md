@@ -13,8 +13,8 @@ tags:
   - content/data/tags/tag-pf4xrx6r0.json
   - content/data/tags/tag-82axc7aw2.json
 excerpt: >-
-  Learn how John turned this space into an iconic neighborhood watering hole
-  that set off a secret New Jersey bar scene.
+  Learn how John Garbarino turned this space into an iconic neighborhood
+  watering hole that set off a secret New Jersey bar scene.
 thumb_image_alt: 'Wolf Moon Lodge GarBar owner Amy Biasucci in Maplewood, NJ'
 image_alt: 'The GarBar owner John Garbarino in Maplewood, NJ'
 image_position: right
