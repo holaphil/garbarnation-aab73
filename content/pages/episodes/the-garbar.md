@@ -15,7 +15,7 @@ tags:
 excerpt: >-
   Learn how John Garbarino turned this space into an iconic neighborhood
   watering hole that set off a secret New Jersey bar scene.
-thumb_image_alt: 'Wolf Moon Lodge GarBar owner Amy Biasucci in Maplewood, NJ'
+thumb_image_alt: Maplewood Garage Bar owner John Garbarino tour of The GarBar
 image_alt: 'The GarBar owner John Garbarino in Maplewood, NJ'
 image_position: right
 episode_embed_html: >-
