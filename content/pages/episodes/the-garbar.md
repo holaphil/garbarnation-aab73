@@ -54,7 +54,7 @@ seo:
         Learn how John turned this space into an iconic neighborhood watering
         hole that set off a secret New Jersey bar scene.
     - name: 'twitter:image'
-      value: /images/garbar-wolf-moon-lodge-3.png
+      value: /images/garbar-thegarbar-3.jpg
       relativeUrl: true
 '': lorem-ipsum
 layout: post
