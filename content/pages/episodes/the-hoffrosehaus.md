@@ -21,7 +21,7 @@ image_alt: 'The GarBar owner John Garbarino in Maplewood, NJ'
 image_position: right
 episode_embed_html: >-
   <div class="video-container"><iframe width="560" height="315"
-  src="https://www.youtube.com/embed/sigj3jYw7AU?rel=0" title="YouTube video
+  src="https://www.youtube.com/embed/cNPqGkQGs1Y?rel=0" title="YouTube video
   player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
   encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe></div>
