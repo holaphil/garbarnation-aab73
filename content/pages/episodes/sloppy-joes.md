@@ -3,7 +3,7 @@ title: Sloppy Joe's
 subtitle: >-
   Located in Maplewood, New Jersey, Sloppy Joe's is the ultimate garage dive
   bar.
-date: '2021-09-05'
+date: '2021-01-05'
 categories:
   - content/data/categories/season-1.yaml
   - content/data/categories/category-exqrka1zy.json
