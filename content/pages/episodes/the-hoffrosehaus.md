@@ -1,5 +1,5 @@
 ---
-title: The GarBar
+title: The HoffRoseHaus
 subtitle: >-
   Little did Garage Master John Garbarino know his garage would start a
   movement. See how he turned the space into an iconic neighborhood watering
