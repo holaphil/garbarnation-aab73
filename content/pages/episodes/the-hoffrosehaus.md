@@ -24,8 +24,9 @@ episode_embed_html: >-
 seo:
   title: Maplewood Garage Bar owner Steve  tour of The GarBar
   description: >-
-    Learn how John turned this space into an iconic neighborhood watering hole
-    that set off a secret New Jersey bar scene.
+    When the COVID-19 pandemic hit, Steve decided it was finally time to
+    transform one side of their two car garage into something more useful, a
+    GarBar.
   extra:
     - name: 'og:type'
       value: article
