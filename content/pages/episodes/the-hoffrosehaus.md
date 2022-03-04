@@ -22,7 +22,7 @@ episode_embed_html: >-
   encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe></div>
 seo:
-  title: Maplewood Garage Bar owner John Garbarino tour of The GarBar
+  title: Maplewood Garage Bar owner Steve  tour of The GarBar
   description: >-
     Learn how John turned this space into an iconic neighborhood watering hole
     that set off a secret New Jersey bar scene.
