@@ -55,7 +55,7 @@ seo:
       relativeUrl: true
 '': lorem-ipsum
 layout: post
-thumb_image: /images/garbar-thegarbar-1.jpg
+thumb_image: /images/screen3-the-hoffrosehaus.jpg
 image: /images/screen3-the-hoffrosehaus.jpg
 ---
 More than six months into the pandemic, Steve Rosenthal and his family decided it was finally time to transform one side of their two car garage into something more useful, a GarBar. Fortunately for Steve, his close friend and neighbor (Tom) was there to guide him along the way. PS – In case you hadn't noticed, Steve's a huge Mets fan. We won't hold it against him!
