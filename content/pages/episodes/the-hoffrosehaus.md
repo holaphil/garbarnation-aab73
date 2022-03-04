@@ -24,7 +24,7 @@ episode_embed_html: >-
 seo:
   title: 'GarBar tour of The HoffRoseHaus in Maplewood, NJ'
   description: >-
-    When the COVID-19 pandemic hit, Steve decided it was finally time to
+    When the COVID-19 pandemic hit, Steve Rosenthal decided it was time to
     transform their two car garage in Maplewood, NJ into something more useful,
     a GarBar.
   extra:
