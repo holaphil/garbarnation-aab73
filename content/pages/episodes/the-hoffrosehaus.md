@@ -41,7 +41,7 @@ seo:
         GarBar.
       keyName: property
     - name: 'og:image'
-      value: /images/garbar-thegarbar-3.jpg
+      value: /images/screen3-the-hoffrosehaus.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
