@@ -36,7 +36,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        When the COVID-19 pandemic hit, Steve decided it was finally time to
+        When the COVID-19 pandemic hit, Steve Rosenthal decided it was time to
         transform their two car garage in Maplewood, NJ into something more
         useful, a GarBar.
       keyName: property
