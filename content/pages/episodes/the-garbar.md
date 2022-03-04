@@ -34,7 +34,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Maplewood Garage Bar owner John Garbarino tour of The GarBar
+      value: 'Garbar tour of The GarBar in Maplewood, NJ'
       keyName: property
     - name: 'og:description'
       value: >-
