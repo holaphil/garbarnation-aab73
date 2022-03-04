@@ -27,8 +27,8 @@ episode_embed_html: >-
 seo:
   title: Garbar tour of The GarBar
   description: >-
-    Learn how John turned this space into an iconic neighborhood watering hole
-    that set off a secret New Jersey bar scene.
+    Learn how John Garbarino turned this space into an iconic neighborhood
+    watering hole that set off a secret New Jersey bar scene.
   extra:
     - name: 'og:type'
       value: article
