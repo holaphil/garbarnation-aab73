@@ -22,7 +22,7 @@ episode_embed_html: >-
   encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe></div>
 seo:
-  title: Maplewood Garage Bar owner Steve  tour of The GarBar
+  title: GarBar tour of The HoffRoseHaus
   description: >-
     When the COVID-19 pandemic hit, Steve decided it was finally time to
     transform one side of their two car garage into something more useful, a
