@@ -47,7 +47,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Maplewood Garage Bar owner John Garbarino tour of The GarBar
+      value: GarBar tour of The HoffRoseHaus
     - name: 'twitter:description'
       value: >-
         When the COVID-19 pandemic hit, Steve decided it was finally time to
