@@ -34,7 +34,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: 'Garbar tour of The GarBar in Maplewood, NJ'
+      value: 'GarBar video tour of The GarBar in Maplewood, NJ'
       keyName: property
     - name: 'og:description'
       value: >-
