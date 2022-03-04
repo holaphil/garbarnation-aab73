@@ -36,8 +36,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Learn how John turned this space into an iconic neighborhood watering
-        hole that set off a secret New Jersey bar scene.
+        When the COVID-19 pandemic hit, Steve decided it was finally time to
+        transform one side of their two car garage into something more useful, a
+        GarBar.
       keyName: property
     - name: 'og:image'
       value: /images/garbar-thegarbar-3.jpg
