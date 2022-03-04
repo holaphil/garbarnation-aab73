@@ -33,7 +33,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Maplewood GarBar owner Amy Biasucci tour of Wolf Moon Lodge
+      value: 'GarBar video tour of The Wolf Moon Lodge in Maplewood, NJ'
       keyName: property
     - name: 'og:description'
       value: >-
