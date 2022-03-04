@@ -54,7 +54,7 @@ seo:
         transform one side of their two car garage into something more useful, a
         GarBar.
     - name: 'twitter:image'
-      value: /images/garbar-thegarbar-3.jpg
+      value: /images/screen3-the-hoffrosehaus.jpg
       relativeUrl: true
 '': lorem-ipsum
 layout: post
