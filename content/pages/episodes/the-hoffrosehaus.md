@@ -47,7 +47,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: GarBar tour of The HoffRoseHaus
+      value: 'GarBar video tour of The HoffRoseHaus in Maplewood, NJ'
     - name: 'twitter:description'
       value: >-
         When the COVID-19 pandemic hit, Steve decided it was finally time to
