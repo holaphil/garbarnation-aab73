@@ -38,8 +38,8 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Learn how John turned this space into an iconic neighborhood watering
-        hole that set off a secret New Jersey bar scene.
+        Learn how John Garbarino turned this space into an iconic neighborhood
+        watering hole that set off a secret New Jersey bar scene.
       keyName: property
     - name: 'og:image'
       value: /images/garbar-thegarbar-3.jpg
