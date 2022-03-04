@@ -32,7 +32,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: GarBar tour of The HoffRoseHaus
+      value: 'GarBar video tour of The HoffRoseHaus in Maplewood, NJ'
       keyName: property
     - name: 'og:description'
       value: >-
