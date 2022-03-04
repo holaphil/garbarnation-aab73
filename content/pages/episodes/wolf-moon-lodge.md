@@ -37,8 +37,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Located in Maplewood, NJ, Wolf Moon Lodge is a homage to the independent
-        art and artists that helped inspire this wonderful GarBar sanctuary.
+        Located in Maplewood, NJ, Ami Biasucci's Wolf Moon Lodge is a homage to
+        the independent art and artists that helped inspire this wonderful
+        GarBar sanctuary.
       keyName: property
     - name: 'og:image'
       value: /images/garbar-wolf-moon-lodge-3.png
