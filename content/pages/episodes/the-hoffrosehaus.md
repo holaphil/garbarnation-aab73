@@ -32,7 +32,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Maplewood Garage Bar owner John Garbarino tour of The GarBar
+      value: GarBar tour of The HoffRoseHaus
       keyName: property
     - name: 'og:description'
       value: >-
