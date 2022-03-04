@@ -37,8 +37,8 @@ seo:
     - name: 'og:description'
       value: >-
         When the COVID-19 pandemic hit, Steve decided it was finally time to
-        transform one side of their two car garage into something more useful, a
-        GarBar.
+        transform their two car garage in Maplewood, NJ into something more
+        useful, a GarBar.
       keyName: property
     - name: 'og:image'
       value: /images/screen3-the-hoffrosehaus.jpg
