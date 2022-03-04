@@ -47,7 +47,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Maplewood GarBar owner Amy Biasucci tour of Wolf Moon Lodge
+      value: 'GarBar video tour of The Wolf Moon Lodge in Maplewood, NJ'
     - name: 'twitter:description'
       value: >-
         Located in Maplewood, NJ, Wolf Moon Lodge is a homage to the independent
