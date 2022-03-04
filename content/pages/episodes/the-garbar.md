@@ -48,7 +48,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Maplewood Garage Bar owner John Garbarino tour of The GarBar
+      value: 'GarBar tour of The GarBar in Maplewood, NJ'
     - name: 'twitter:description'
       value: >-
         Learn how John Garbarino turned this space into an iconic neighborhood
