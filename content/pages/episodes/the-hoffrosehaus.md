@@ -10,8 +10,8 @@ tags:
   - content/data/tags/tag-pf4xrx6r0.json
   - content/data/tags/tag-82axc7aw2.json
 excerpt: >-
-  Learn how John Garbarino turned this space into an iconic neighborhood
-  watering hole that set off a secret New Jersey bar scene.
+  Steve Rosenthal's bar is a refuge for happy hour, family dinners, or just a
+  place to hang out and decompress after a long day in the home office.
 thumb_image_alt: Maplewood Garage Bar owner John Garbarino tour of The GarBar
 image_alt: 'The GarBar owner John Garbarino in Maplewood, NJ'
 image_position: right
