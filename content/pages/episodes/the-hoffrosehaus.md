@@ -60,6 +60,6 @@ seo:
 '': lorem-ipsum
 layout: post
 thumb_image: /images/garbar-thegarbar-1.jpg
-image: /images/screen3-the-hoffrosehaus.png
+image: /images/screen3-the-hoffrosehaus.jpg
 ---
 Little did Garage Master John Garbarino know his garage (**The GarBar**) would start a movement. See how he turned the space into an iconic neighborhood watering hole that set off a secret New Jersey bar scene. This video was produced by LiftMaster as part of their new docuseries spotlighting people who are starting to reimagine how they use their garage. Videos featuring John's and other garage conversions can be viewed [here](https://view.ceros.com/thechamberlaingroup/garage-master/p/1).
