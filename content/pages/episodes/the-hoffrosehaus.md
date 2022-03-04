@@ -1,6 +1,6 @@
 ---
 title: The HoffRoseHaus
-subtitle: "Steve\_Rosenthal's\_bar is a refuge for happy hour, family dinners or just a place to hang out and decompress after a long day in the home office. Take a tour of The HoffRoseHaus and see what's possible when you move your car and build a bar."
+subtitle: "Steve\_Rosenthal's\_bar is a refuge for happy hour, family dinners, or just a place to hang out and decompress after a long day in the home office. Take a tour of The HoffRoseHaus and see what's possible when you move your car and build a bar."
 date: '2022-01-12'
 categories:
   - content/data/categories/season-1.yaml
