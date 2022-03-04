@@ -25,7 +25,7 @@ episode_embed_html: >-
   encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe></div>
 seo:
-  title: Garbar tour of The GarBar
+  title: 'GarBar video tour of The GarBar in Maplewood, NJ'
   description: >-
     Learn how John Garbarino turned this space into an iconic neighborhood
     watering hole that set off a secret New Jersey bar scene.
